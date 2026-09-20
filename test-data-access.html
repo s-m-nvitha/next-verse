@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Data Access</title>
+</head>
+<body>
+    <h1>Testing Data Access</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testDataAccess() {
+            const results = document.getElementById('results');
+            
+            // Test interests-10th.json
+            try {
+                const response = await fetch('/seed/interests-10th.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    results.innerHTML += '<p>✅ interests-10th.json loaded successfully (' + data.length + ' items)</p>';
+                    console.log('10th interests:', data);
+                } else {
+                    results.innerHTML += '<p>❌ interests-10th.json failed to load</p>';
+                }
+            } catch (error) {
+                results.innerHTML += '<p>❌ Error loading interests-10th.json: ' + error.message + '</p>';
+            }
+            
+            // Test interests-12th.json
+            try {
+                const response = await fetch('/seed/interests-12th.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    results.innerHTML += '<p>✅ interests-12th.json loaded successfully (' + data.length + ' items)</p>';
+                    console.log('12th interests:', data);
+                } else {
+                    results.innerHTML += '<p>❌ interests-12th.json failed to load</p>';
+                }
+            } catch (error) {
+                results.innerHTML += '<p>❌ Error loading interests-12th.json: ' + error.message + '</p>';
+            }
+        }
+        
+        testDataAccess();
+    </script>
+</body>
+</html>

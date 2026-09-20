@@ -1,0 +1,280 @@
+[
+  {
+    "id": "science-pcm",
+    "name": "Science (PCM)",
+    "description": "Physics, Chemistry, and Mathematics stream for students interested in engineering and technical fields.",
+    "level": "12th",
+    "subjects": [
+      "Physics",
+      "Chemistry", 
+      "Mathematics"
+    ],
+    "careerPaths": [
+      "Engineering",
+      "Architecture",
+      "Defense Services",
+      "Research & Development"
+    ]
+  },
+  {
+    "id": "science-pcb",
+    "name": "Science (PCB)",
+    "description": "Physics, Chemistry, and Biology stream for students interested in medical and life sciences.",
+    "level": "12th",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Biology"
+    ],
+    "careerPaths": [
+      "Medicine",
+      "Dentistry",
+      "Pharmacy",
+      "Biotechnology",
+      "Veterinary Science"
+    ]
+  },
+  {
+    "id": "science-pcmb",
+    "name": "Science (PCMB)",
+    "description": "Physics, Chemistry, Mathematics, and Biology for students keeping all options open.",
+    "level": "12th",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "careerPaths": [
+      "Engineering",
+      "Medicine",
+      "Research",
+      "Biotechnology"
+    ]
+  },
+  {
+    "id": "commerce",
+    "name": "Commerce",
+    "description": "Business and economics stream for students interested in trade, finance, and management.",
+    "level": "12th",
+    "subjects": [
+      "Accountancy",
+      "Business Studies",
+      "Economics",
+      "Mathematics"
+    ],
+    "careerPaths": [
+      "Chartered Accountancy",
+      "Business Management",
+      "Banking & Finance",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "id": "arts-humanities",
+    "name": "Arts & Humanities",
+    "description": "Liberal arts stream covering literature, history, and social sciences.",
+    "level": "12th",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Literature"
+    ],
+    "careerPaths": [
+      "Journalism",
+      "Teaching",
+      "Civil Services",
+      "Law",
+      "Social Work"
+    ]
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "description": "Technology and programming stream for students interested in IT and software development.",
+    "level": "12th",
+    "subjects": [
+      "Computer Science",
+      "Mathematics",
+      "Physics"
+    ],
+    "careerPaths": [
+      "Software Development",
+      "Data Science",
+      "Cybersecurity",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "description": "Agricultural sciences and farming techniques for rural development and food security.",
+    "level": "12th",
+    "subjects": [
+      "Agricultural Science",
+      "Biology",
+      "Chemistry"
+    ],
+    "careerPaths": [
+      "Agricultural Engineering",
+      "Farming",
+      "Agricultural Research",
+      "Rural Development"
+    ]
+  },
+  {
+    "id": "vocational-skills",
+    "name": "Vocational Skills",
+    "description": "Practical skills and trades for immediate employment opportunities.",
+    "level": "12th",
+    "subjects": [
+      "Technical Skills",
+      "Practical Training"
+    ],
+    "careerPaths": [
+      "Skilled Trades",
+      "Technical Services",
+      "Self-Employment",
+      "Industrial Training"
+    ]
+  },
+  {
+    "id": "defense-services",
+    "name": "Defense Services",
+    "description": "Military and defense career preparation for serving the nation.",
+    "level": "12th",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "General Knowledge"
+    ],
+    "careerPaths": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force",
+      "Paramilitary Forces"
+    ]
+  },
+  {
+    "id": "teaching-education",
+    "name": "Teaching & Education",
+    "description": "Education and teaching stream for those interested in shaping young minds.",
+    "level": "12th",
+    "subjects": [
+      "Education",
+      "Psychology",
+      "Subject Specialization"
+    ],
+    "careerPaths": [
+      "School Teaching",
+      "College Professor",
+      "Educational Administration",
+      "Educational Research"
+    ]
+  },
+  {
+    "id": "healthcare-allied",
+    "name": "Healthcare & Allied",
+    "description": "Healthcare services and allied medical professions.",
+    "level": "12th",
+    "subjects": [
+      "Biology",
+      "Chemistry",
+      "Health Sciences"
+    ],
+    "careerPaths": [
+      "Nursing",
+      "Physiotherapy",
+      "Medical Technology",
+      "Healthcare Administration"
+    ]
+  },
+  {
+    "id": "creative-arts",
+    "name": "Creative Arts",
+    "description": "Fine arts, performing arts, and creative expression fields.",
+    "level": "12th",
+    "subjects": [
+      "Fine Arts",
+      "Music",
+      "Drama",
+      "Literature"
+    ],
+    "careerPaths": [
+      "Artist",
+      "Musician",
+      "Actor",
+      "Writer",
+      "Designer"
+    ]
+  },
+  {
+    "id": "sports-physical",
+    "name": "Sports & Physical Education",
+    "description": "Sports, fitness, and physical education for athletic careers.",
+    "level": "12th",
+    "subjects": [
+      "Physical Education",
+      "Sports Science",
+      "Health & Fitness"
+    ],
+    "careerPaths": [
+      "Professional Athlete",
+      "Sports Coach",
+      "Physical Education Teacher",
+      "Sports Management"
+    ]
+  },
+  {
+    "id": "environmental-science",
+    "name": "Environmental Science",
+    "description": "Environmental studies and sustainability for green careers.",
+    "level": "12th",
+    "subjects": [
+      "Environmental Science",
+      "Biology",
+      "Chemistry"
+    ],
+    "careerPaths": [
+      "Environmental Consultant",
+      "Wildlife Conservation",
+      "Climate Research",
+      "Green Technology"
+    ]
+  },
+  {
+    "id": "tourism-hospitality",
+    "name": "Tourism & Hospitality",
+    "description": "Travel, tourism, and hospitality management for service industry careers.",
+    "level": "12th",
+    "subjects": [
+      "Tourism Studies",
+      "Hospitality Management",
+      "Languages"
+    ],
+    "careerPaths": [
+      "Tour Guide",
+      "Hotel Management",
+      "Travel Agent",
+      "Event Management"
+    ]
+  },
+  {
+    "id": "rural-development",
+    "name": "Rural Development",
+    "description": "Community development and rural upliftment for social impact careers.",
+    "level": "12th",
+    "subjects": [
+      "Social Sciences",
+      "Community Development",
+      "Rural Studies"
+    ],
+    "careerPaths": [
+      "Social Worker",
+      "Rural Development Officer",
+      "NGO Worker",
+      "Community Leader"
+    ]
+  }
+]

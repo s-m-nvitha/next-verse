@@ -1,0 +1,46 @@
+[
+  {
+    "id": "engineering-ug",
+    "name": "Bachelor of Technology (B.Tech)",
+    "level": "UG",
+    "description": "Undergraduate engineering program",
+    "branches": ["Computer Science", "Mechanical", "Electrical", "Civil", "Electronics", "Aerospace"],
+    "duration": "4 years",
+    "careerPaths": ["Software Engineer", "Data Scientist", "Product Manager", "Research", "Entrepreneur"],
+    "exams": ["JEE Main", "JEE Advanced", "BITSAT", "VITEEE", "SRMJEE"],
+    "colleges": ["IITs", "NITs", "IIITs", "BITS", "Private Engineering Colleges"]
+  },
+  {
+    "id": "medicine-ug",
+    "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+    "level": "UG",
+    "description": "Undergraduate medical program",
+    "branches": ["General Medicine", "Surgery", "Pediatrics", "Gynecology", "Orthopedics"],
+    "duration": "5.5 years",
+    "careerPaths": ["Doctor", "Surgeon", "Specialist", "Researcher", "Medical Professor"],
+    "exams": ["NEET", "AIIMS", "JIPMER", "AIIMS Nursing", "BHU Nursing"],
+    "colleges": ["AIIMS", "JIPMER", "Government Medical Colleges", "Private Medical Colleges"]
+  },
+  {
+    "id": "commerce-ug",
+    "name": "Bachelor of Commerce (B.Com)",
+    "level": "UG",
+    "description": "Undergraduate commerce program",
+    "branches": ["General Commerce", "Honors Commerce", "Applied Commerce", "E-Commerce"],
+    "duration": "3 years",
+    "careerPaths": ["Chartered Accountant", "Investment Banker", "Financial Analyst", "Management Consultant"],
+    "exams": ["CA Foundation", "CS Foundation", "CMA Foundation", "Banking Exams"],
+    "colleges": ["Delhi University", "Mumbai University", "Calcutta University", "Private Commerce Colleges"]
+  },
+  {
+    "id": "arts-ug",
+    "name": "Bachelor of Arts (BA)",
+    "level": "UG",
+    "description": "Undergraduate arts program",
+    "branches": ["English", "History", "Political Science", "Psychology", "Sociology", "Geography"],
+    "duration": "3 years",
+    "careerPaths": ["Lawyer", "Journalist", "Social Worker", "Civil Servant", "Teacher"],
+    "exams": ["CLAT", "UPSC", "State PSC", "NET", "SET"],
+    "colleges": ["Delhi University", "JNU", "TISS", "Central Universities", "State Universities"]
+  }
+]

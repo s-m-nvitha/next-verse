@@ -1,0 +1,74 @@
+[
+  {
+    "id": "jee-main-2025",
+    "scope": "national",
+    "title": "JEE Main 2025 Application",
+    "date": "2025-01-15T00:00:00Z",
+    "category": "application",
+    "link": "https://jeemain.nta.ac.in",
+    "description": "Last date to submit JEE Main 2025 application form"
+  },
+  {
+    "id": "neet-2025",
+    "scope": "national",
+    "title": "NEET 2025 Exam",
+    "date": "2025-05-05T00:00:00Z",
+    "category": "exam",
+    "link": "https://neet.nta.nic.in",
+    "description": "National Eligibility cum Entrance Test 2025"
+  },
+  {
+    "id": "jee-advanced-2025",
+    "scope": "national",
+    "title": "JEE Advanced 2025",
+    "date": "2025-06-02T00:00:00Z",
+    "category": "exam",
+    "link": "https://jeeadv.ac.in",
+    "description": "Joint Entrance Examination Advanced 2025"
+  },
+  {
+    "id": "jee-main-result-2024",
+    "scope": "national",
+    "title": "JEE Main 2024 Result",
+    "date": "2024-12-15T00:00:00Z",
+    "category": "result",
+    "link": "https://jeemain.nta.ac.in",
+    "description": "JEE Main 2024 results declared"
+  },
+  {
+    "id": "neet-counselling-2024",
+    "scope": "national",
+    "title": "NEET 2024 Counselling",
+    "date": "2024-12-01T00:00:00Z",
+    "category": "counselling",
+    "link": "https://mcc.nic.in",
+    "description": "NEET 2024 counselling registration begins"
+  },
+  {
+    "id": "cuet-2025",
+    "scope": "national",
+    "title": "CUET 2025 Application",
+    "date": "2025-02-01T00:00:00Z",
+    "category": "application",
+    "link": "https://cuet.samarth.ac.in",
+    "description": "Common University Entrance Test 2025 application opens"
+  },
+  {
+    "id": "bitsat-2025",
+    "scope": "national",
+    "title": "BITSAT 2025 Registration",
+    "date": "2025-01-01T00:00:00Z",
+    "category": "application",
+    "link": "https://bitsadmission.com",
+    "description": "BITSAT 2025 registration begins"
+  },
+  {
+    "id": "clat-2025",
+    "scope": "national",
+    "title": "CLAT 2025 Application",
+    "date": "2024-12-01T00:00:00Z",
+    "category": "application",
+    "link": "https://consortiumofnlus.ac.in",
+    "description": "Common Law Admission Test 2025 application opens"
+  }
+]

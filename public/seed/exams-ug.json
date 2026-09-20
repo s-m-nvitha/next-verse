@@ -1,0 +1,242 @@
+[
+  {
+    "id": "gate",
+    "name": "GATE (Graduate Aptitude Test in Engineering)",
+    "level": "UG",
+    "description": "Postgraduate engineering entrance examination",
+    "eligibility": "Engineering/Technology graduates or final year students",
+    "subjects": ["Engineering Mathematics", "General Aptitude", "Engineering Subject"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-02-15",
+    "resultDate": "2024-03-15",
+    "website": "https://gate.iitk.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "cat",
+    "name": "CAT (Common Admission Test)",
+    "level": "UG",
+    "description": "MBA entrance examination for IIMs",
+    "eligibility": "Graduates with minimum 50% marks",
+    "subjects": ["Quantitative Ability", "Verbal Ability", "Data Interpretation", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-24",
+    "resultDate": "2024-12-31",
+    "website": "https://iimcat.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "xat",
+    "name": "XAT (Xavier Aptitude Test)",
+    "level": "UG",
+    "description": "MBA entrance examination for XLRI and other institutes",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Verbal Ability", "Decision Making", "Quantitative Ability", "General Knowledge"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-11-30"
+    },
+    "examDate": "2024-01-07",
+    "resultDate": "2024-01-31",
+    "website": "https://xatonline.in",
+    "importance": "high"
+  },
+  {
+    "id": "mat",
+    "name": "MAT (Management Aptitude Test)",
+    "level": "UG",
+    "description": "MBA entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Language Comprehension", "Mathematical Skills", "Data Analysis", "Intelligence and Critical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2024-12-15",
+    "website": "https://aima.in",
+    "importance": "medium"
+  },
+  {
+    "id": "cmat",
+    "name": "CMAT (Common Management Admission Test)",
+    "level": "UG",
+    "description": "MBA entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Quantitative Techniques", "Logical Reasoning", "Language Comprehension", "General Awareness"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2024-12-15",
+    "website": "https://cmat.nta.nic.in",
+    "importance": "medium"
+  },
+  {
+    "id": "snap",
+    "name": "SNAP (Symbiosis National Aptitude Test)",
+    "level": "UG",
+    "description": "MBA entrance examination for Symbiosis institutes",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["General English", "Quantitative", "Data Interpretation", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-11-30"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2024-01-15",
+    "website": "https://snaptest.org",
+    "importance": "medium"
+  },
+  {
+    "id": "iift",
+    "name": "IIFT (Indian Institute of Foreign Trade)",
+    "level": "UG",
+    "description": "MBA entrance examination for IIFT",
+    "eligibility": "Graduates with minimum 50% marks",
+    "subjects": ["English Comprehension", "General Knowledge", "Logical Reasoning", "Quantitative Analysis"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-24",
+    "resultDate": "2024-12-31",
+    "website": "https://iift.nta.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "nmat",
+    "name": "NMAT (NMIMS Management Aptitude Test)",
+    "level": "UG",
+    "description": "MBA entrance examination for NMIMS",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Language Skills", "Quantitative Skills", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-10-31"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2024-12-15",
+    "website": "https://nmat.org",
+    "importance": "medium"
+  },
+  {
+    "id": "gmat",
+    "name": "GMAT (Graduate Management Admission Test)",
+    "level": "UG",
+    "description": "International MBA entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Quantitative Reasoning", "Verbal Reasoning", "Integrated Reasoning", "Analytical Writing"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2024-12-31",
+    "website": "https://gmat.org",
+    "importance": "high"
+  },
+  {
+    "id": "gre",
+    "name": "GRE (Graduate Record Examination)",
+    "level": "UG",
+    "description": "International graduate school entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Verbal Reasoning", "Quantitative Reasoning", "Analytical Writing"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2024-12-31",
+    "website": "https://ets.org",
+    "importance": "high"
+  },
+  {
+    "id": "toefl",
+    "name": "TOEFL (Test of English as a Foreign Language)",
+    "level": "UG",
+    "description": "English proficiency test for international students",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Reading", "Listening", "Speaking", "Writing"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2024-12-31",
+    "website": "https://ets.org",
+    "importance": "medium"
+  },
+  {
+    "id": "ielts",
+    "name": "IELTS (International English Language Testing System)",
+    "level": "UG",
+    "description": "English proficiency test for international students",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["Listening", "Reading", "Writing", "Speaking"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2024-12-31",
+    "website": "https://ielts.org",
+    "importance": "medium"
+  },
+  {
+    "id": "upsc-cse",
+    "name": "UPSC CSE (Civil Services Examination)",
+    "level": "UG",
+    "description": "Civil services entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["General Studies", "Optional Subject", "Essay", "Current Affairs"],
+    "applicationWindow": {
+      "start": "2024-02-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-08-15",
+    "website": "https://upsc.gov.in",
+    "importance": "high"
+  },
+  {
+    "id": "ssc-cgl",
+    "name": "SSC CGL (Combined Graduate Level)",
+    "level": "UG",
+    "description": "Government job entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["General Intelligence", "General Awareness", "Quantitative Aptitude", "English Comprehension"],
+    "applicationWindow": {
+      "start": "2024-04-01",
+      "end": "2024-05-31"
+    },
+    "examDate": "2024-08-15",
+    "resultDate": "2024-10-15",
+    "website": "https://ssc.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "ibps-po",
+    "name": "IBPS PO (Probationary Officer)",
+    "level": "UG",
+    "description": "Banking job entrance examination",
+    "eligibility": "Graduates from any discipline",
+    "subjects": ["English Language", "Quantitative Aptitude", "Reasoning Ability", "General Awareness"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2024-12-31",
+    "website": "https://ibps.in",
+    "importance": "high"
+  }
+]

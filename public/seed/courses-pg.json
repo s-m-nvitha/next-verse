@@ -1,0 +1,46 @@
+[
+  {
+    "id": "engineering-pg",
+    "name": "Master of Technology (M.Tech)",
+    "level": "PG",
+    "description": "Postgraduate engineering program",
+    "specializations": ["Computer Science", "Data Science", "AI/ML", "Cybersecurity", "Cloud Computing", "IoT"],
+    "duration": "2 years",
+    "careerPaths": ["Senior Software Engineer", "Tech Lead", "Data Scientist", "Research Scientist", "Entrepreneur"],
+    "exams": ["GATE", "GRE", "TOEFL", "IELTS", "GMAT"],
+    "colleges": ["IITs", "NITs", "IIITs", "BITS", "Private Engineering Colleges"]
+  },
+  {
+    "id": "medicine-pg",
+    "name": "Doctor of Medicine (MD)",
+    "level": "PG",
+    "description": "Postgraduate medical program",
+    "specializations": ["General Medicine", "Pediatrics", "Gynecology", "Orthopedics", "Cardiology", "Neurology"],
+    "duration": "3 years",
+    "careerPaths": ["Specialist Doctor", "Surgeon", "Researcher", "Medical Professor", "Healthcare Administrator"],
+    "exams": ["NEET PG", "AIIMS PG", "JIPMER PG", "USMLE", "PLAB"],
+    "colleges": ["AIIMS", "JIPMER", "Government Medical Colleges", "Private Medical Colleges"]
+  },
+  {
+    "id": "management-pg",
+    "name": "Master of Business Administration (MBA)",
+    "level": "PG",
+    "description": "Postgraduate management program",
+    "specializations": ["Finance", "Marketing", "Operations", "Human Resources", "Information Technology", "Entrepreneurship"],
+    "duration": "2 years",
+    "careerPaths": ["Management Consultant", "Investment Banker", "Product Manager", "Entrepreneur", "Corporate Executive"],
+    "exams": ["CAT", "XAT", "GMAT", "GRE", "TOEFL"],
+    "colleges": ["IIMs", "ISB", "XLRI", "FMS", "Private Business Schools"]
+  },
+  {
+    "id": "research-pg",
+    "name": "Master of Science (M.Sc)",
+    "level": "PG",
+    "description": "Postgraduate science program",
+    "specializations": ["Physics", "Chemistry", "Mathematics", "Biology", "Computer Science", "Statistics"],
+    "duration": "2 years",
+    "careerPaths": ["Research Scientist", "Academic Researcher", "Policy Analyst", "Think Tank Researcher"],
+    "exams": ["GATE", "CSIR NET", "UGC NET", "GRE", "TOEFL"],
+    "colleges": ["IISc", "TIFR", "Central Universities", "State Universities", "Private Universities"]
+  }
+]

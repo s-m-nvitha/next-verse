@@ -1,0 +1,512 @@
+[
+  {
+    "id": "science-stream-(pcm-/-pcb-/-pcmb)-10th",
+    "name": "Science Stream (PCM / PCB / PCMB)",
+    "level": "10th",
+    "description": "Comprehensive Science Stream (PCM / PCB / PCMB) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "science-(physics,-chemistry,-maths,-biology)-10th",
+    "name": "Science (Physics, Chemistry, Maths, Biology)",
+    "level": "10th",
+    "description": "Comprehensive Science (Physics, Chemistry, Maths, Biology) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "agriculture-10th",
+    "name": "Agriculture",
+    "level": "10th",
+    "description": "Comprehensive Agriculture course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "animal-husbandry-10th",
+    "name": "Animal husbandry",
+    "level": "10th",
+    "description": "Comprehensive Animal husbandry course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "dairy-farming-10th",
+    "name": "Dairy farming",
+    "level": "10th",
+    "description": "Comprehensive Dairy farming course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "horticulture-/-gardening-10th",
+    "name": "Horticulture / gardening",
+    "level": "10th",
+    "description": "Comprehensive Horticulture / gardening course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "physical-fitness-/-exercise-10th",
+    "name": "Physical fitness / exercise",
+    "level": "10th",
+    "description": "Comprehensive Physical fitness / exercise course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "sports-(kabaddi,-kho-kho,-wrestling,-cricket,-football,-athletics)-10th",
+    "name": "Sports (kabaddi, kho-kho, wrestling, cricket, football, athletics)",
+    "level": "10th",
+    "description": "Comprehensive Sports (kabaddi, kho-kho, wrestling, cricket, football, athletics) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "traveling-/-exploring-new-places-10th",
+    "name": "Traveling / exploring new places",
+    "level": "10th",
+    "description": "Comprehensive Traveling / exploring new places course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "📊-commerce-stream-10th",
+    "name": "📊 Commerce Stream",
+    "level": "10th",
+    "description": "Comprehensive 📊 Commerce Stream course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "commerce-(accounts,-business-studies,-economics)-10th",
+    "name": "Commerce (Accounts, Business Studies, Economics)",
+    "level": "10th",
+    "description": "Comprehensive Commerce (Accounts, Business Studies, Economics) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "business-/-shop-keeping-10th",
+    "name": "Business / shop-keeping",
+    "level": "10th",
+    "description": "Comprehensive Business / shop-keeping course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "selling-goods-in-weekly-markets-(haats)-10th",
+    "name": "Selling goods in weekly markets (haats)",
+    "level": "10th",
+    "description": "Comprehensive Selling goods in weekly markets (haats) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "running-small-stalls-(tea,-snacks,-etc.)-10th",
+    "name": "Running small stalls (tea, snacks, etc.)",
+    "level": "10th",
+    "description": "Comprehensive Running small stalls (tea, snacks, etc.) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "learning-english-/-communication-skills-10th",
+    "name": "Learning English / communication skills",
+    "level": "10th",
+    "description": "Comprehensive Learning English / communication skills course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "using-smartphones-/-internet-10th",
+    "name": "Using smartphones / internet",
+    "level": "10th",
+    "description": "Comprehensive Using smartphones / internet course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "🎨-arts-/-humanities-stream-10th",
+    "name": "🎨 Arts / Humanities Stream",
+    "level": "10th",
+    "description": "Comprehensive 🎨 Arts / Humanities Stream course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "arts-/-humanities-(history,-geography,-political-science,-sociology,-languages)-10th",
+    "name": "Arts / Humanities (History, Geography, Political Science, Sociology, Languages)",
+    "level": "10th",
+    "description": "Comprehensive Arts / Humanities (History, Geography, Political Science, Sociology, Languages) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "reading-/-storytelling-10th",
+    "name": "Reading / storytelling",
+    "level": "10th",
+    "description": "Comprehensive Reading / storytelling course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "teaching-/-tutoring-juniors-10th",
+    "name": "Teaching / tutoring juniors",
+    "level": "10th",
+    "description": "Comprehensive Teaching / tutoring juniors course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "social-service-/-community-work-10th",
+    "name": "Social service / community work",
+    "level": "10th",
+    "description": "Comprehensive Social service / community work course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "participating-in-religious-/-cultural-activities-10th",
+    "name": "Participating in religious / cultural activities",
+    "level": "10th",
+    "description": "Comprehensive Participating in religious / cultural activities course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "traveling-/-exploring-new-places-10th",
+    "name": "Traveling / exploring new places",
+    "level": "10th",
+    "description": "Comprehensive Traveling / exploring new places course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "🎭-vocational-/-skill-based-(can-be-chosen-along-with-any-stream-or-standalone-vocational-courses)-10th",
+    "name": "🎭 Vocational / Skill-based (can be chosen along with any stream or standalone vocational courses)",
+    "level": "10th",
+    "description": "Comprehensive 🎭 Vocational / Skill-based (can be chosen along with any stream or standalone vocational courses) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "tailoring-/-stitching-10th",
+    "name": "Tailoring / stitching",
+    "level": "10th",
+    "description": "Comprehensive Tailoring / stitching course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "embroidery-/-handicrafts-10th",
+    "name": "Embroidery / handicrafts",
+    "level": "10th",
+    "description": "Comprehensive Embroidery / handicrafts course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "beauty-&-wellness-(makeup,-salon,-cosmetology)-10th",
+    "name": "Beauty & wellness (makeup, salon, cosmetology)",
+    "level": "10th",
+    "description": "Comprehensive Beauty & wellness (makeup, salon, cosmetology) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "cooking-/-food-preparation-10th",
+    "name": "Cooking / food preparation",
+    "level": "10th",
+    "description": "Comprehensive Cooking / food preparation course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "hospitality-(hotel-related-work,-housekeeping,-serving)-10th",
+    "name": "Hospitality (hotel-related work, housekeeping, serving)",
+    "level": "10th",
+    "description": "Comprehensive Hospitality (hotel-related work, housekeeping, serving) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "driving-(two-wheeler,-four-wheeler,-tractor,-truck)-10th",
+    "name": "Driving (two-wheeler, four-wheeler, tractor, truck)",
+    "level": "10th",
+    "description": "Comprehensive Driving (two-wheeler, four-wheeler, tractor, truck) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "mechanics-(auto,-bike,-tractor,-machinery-repair)-10th",
+    "name": "Mechanics (auto, bike, tractor, machinery repair)",
+    "level": "10th",
+    "description": "Comprehensive Mechanics (auto, bike, tractor, machinery repair) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "plumbing-10th",
+    "name": "Plumbing",
+    "level": "10th",
+    "description": "Comprehensive Plumbing course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "carpentry-10th",
+    "name": "Carpentry",
+    "level": "10th",
+    "description": "Comprehensive Carpentry course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "masonry-/-construction-work-10th",
+    "name": "Masonry / construction work",
+    "level": "10th",
+    "description": "Comprehensive Masonry / construction work course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "electrical-/-wiring-10th",
+    "name": "Electrical / wiring",
+    "level": "10th",
+    "description": "Comprehensive Electrical / wiring course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "welding-10th",
+    "name": "Welding",
+    "level": "10th",
+    "description": "Comprehensive Welding course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "computer-basics-(typing,-ms-office,-tally,-digital-payments)-10th",
+    "name": "Computer basics (typing, MS Office, Tally, digital payments)",
+    "level": "10th",
+    "description": "Comprehensive Computer basics (typing, MS Office, Tally, digital payments) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "mobile-repair-10th",
+    "name": "Mobile repair",
+    "level": "10th",
+    "description": "Comprehensive Mobile repair course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "photography-10th",
+    "name": "Photography",
+    "level": "10th",
+    "description": "Comprehensive Photography course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "videography-/-video-editing-10th",
+    "name": "Videography / video editing",
+    "level": "10th",
+    "description": "Comprehensive Videography / video editing course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "drawing-/-painting-10th",
+    "name": "Drawing / painting",
+    "level": "10th",
+    "description": "Comprehensive Drawing / painting course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "singing-10th",
+    "name": "Singing",
+    "level": "10th",
+    "description": "Comprehensive Singing course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "dancing-10th",
+    "name": "Dancing",
+    "level": "10th",
+    "description": "Comprehensive Dancing course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "folk-arts-/-drama-/-theatre-10th",
+    "name": "Folk arts / drama / theatre",
+    "level": "10th",
+    "description": "Comprehensive Folk arts / drama / theatre course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "playing-musical-instruments-10th",
+    "name": "Playing musical instruments",
+    "level": "10th",
+    "description": "Comprehensive Playing musical instruments course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "making-short-videos-/-content-creation-(youtube,-reels)-10th",
+    "name": "Making short videos / content creation (YouTube, reels)",
+    "level": "10th",
+    "description": "Comprehensive Making short videos / content creation (YouTube, reels) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "✅-so-broadly:-10th",
+    "name": "✅ So broadly:",
+    "level": "10th",
+    "description": "Comprehensive ✅ So broadly: course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "science-stream-→-for-natural-science,-agriculture,-physical-and-technical-interests.-10th",
+    "name": "Science stream → for natural science, agriculture, physical and technical interests.",
+    "level": "10th",
+    "description": "Comprehensive Science stream → for natural science, agriculture, physical and technical interests. course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "commerce-stream-→-for-trade,-business,-finance,-and-applied-modern-skills.-10th",
+    "name": "Commerce stream → for trade, business, finance, and applied modern skills.",
+    "level": "10th",
+    "description": "Comprehensive Commerce stream → for trade, business, finance, and applied modern skills. course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "arts/humanities-stream-→-for-culture,-society,-languages,-and-service-oriented-interests.-10th",
+    "name": "Arts/Humanities stream → for culture, society, languages, and service-oriented interests.",
+    "level": "10th",
+    "description": "Comprehensive Arts/Humanities stream → for culture, society, languages, and service-oriented interests. course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "vocational-stream-→-directly-skill-based,-can-be-parallel-to-or-instead-of-academic-streams.-10th",
+    "name": "Vocational stream → directly skill-based, can be parallel to or instead of academic streams.",
+    "level": "10th",
+    "description": "Comprehensive Vocational stream → directly skill-based, can be parallel to or instead of academic streams. course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  }
+]

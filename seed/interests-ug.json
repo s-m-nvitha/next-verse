@@ -1,0 +1,47 @@
+[
+  {
+    "id": "engineering-ug",
+    "labelKey": "interests.engineering",
+    "descriptionKey": "interests.engineeringDescription",
+    "level": "UG",
+    "branches": ["Computer Science", "Mechanical", "Electrical", "Civil", "Electronics"],
+    "careerPaths": ["Software Engineer", "Data Scientist", "Product Manager", "Research"],
+    "exams": ["GATE", "CAT", "GRE", "TOEFL", "IELTS"]
+  },
+  {
+    "id": "medicine-ug",
+    "labelKey": "interests.medicine",
+    "descriptionKey": "interests.medicineDescription",
+    "level": "UG",
+    "branches": ["MBBS", "BDS", "B.Pharm", "B.Sc Nursing", "Physiotherapy"],
+    "careerPaths": ["Doctor", "Dentist", "Pharmacist", "Nurse", "Physiotherapist"],
+    "exams": ["NEET PG", "AIIMS PG", "JIPMER PG", "USMLE", "PLAB"]
+  },
+  {
+    "id": "commerce-ug",
+    "labelKey": "interests.commerce",
+    "descriptionKey": "interests.commerceDescription",
+    "level": "UG",
+    "branches": ["B.Com", "BBA", "B.Sc Economics", "B.Sc Statistics"],
+    "careerPaths": ["Chartered Accountant", "Investment Banker", "Financial Analyst", "Management Consultant"],
+    "exams": ["CA Intermediate", "CS Executive", "CMA Intermediate", "CAT", "XAT"]
+  },
+  {
+    "id": "arts-ug",
+    "labelKey": "interests.arts",
+    "descriptionKey": "interests.artsDescription",
+    "level": "UG",
+    "branches": ["BA", "B.Sc Psychology", "B.Sc Geography", "B.Sc Political Science"],
+    "careerPaths": ["Lawyer", "Journalist", "Social Worker", "Civil Servant", "Teacher"],
+    "exams": ["CLAT", "UPSC", "State PSC", "NET", "SET"]
+  },
+  {
+    "id": "science-ug",
+    "labelKey": "interests.science",
+    "descriptionKey": "interests.scienceDescription",
+    "level": "UG",
+    "branches": ["B.Sc Physics", "B.Sc Chemistry", "B.Sc Mathematics", "B.Sc Biology"],
+    "careerPaths": ["Research Scientist", "Data Analyst", "Lab Technician", "Teacher"],
+    "exams": ["GATE", "CSIR NET", "UGC NET", "GRE", "TOEFL"]
+  }
+]

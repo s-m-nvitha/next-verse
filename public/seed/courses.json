@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cs-engineering",
+    "domainId": "technology",
+    "name": "Computer Science Engineering",
+    "shortDescription": "Software development, algorithms, and computer systems",
+    "syllabusUrl": "https://example.com/cs-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "data-science",
+    "domainId": "technology",
+    "name": "Data Science & Analytics",
+    "shortDescription": "Statistical analysis, machine learning, and data visualization",
+    "syllabusUrl": "https://example.com/ds-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "mbbs",
+    "domainId": "medicine",
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "shortDescription": "Medical degree program for becoming a doctor",
+    "syllabusUrl": "https://example.com/mbbs-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "bba",
+    "domainId": "commerce",
+    "name": "Bachelor of Business Administration",
+    "shortDescription": "Business management and administration",
+    "syllabusUrl": "https://example.com/bba-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "btech-mechanical",
+    "domainId": "science",
+    "name": "Mechanical Engineering",
+    "shortDescription": "Design and manufacturing of mechanical systems",
+    "syllabusUrl": "https://example.com/mech-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "bsc-physics",
+    "domainId": "science",
+    "name": "Bachelor of Science in Physics",
+    "shortDescription": "Fundamental principles of physics and mathematics",
+    "syllabusUrl": "https://example.com/physics-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "llb",
+    "domainId": "law",
+    "name": "Bachelor of Laws",
+    "shortDescription": "Legal studies and jurisprudence",
+    "syllabusUrl": "https://example.com/llb-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  },
+  {
+    "id": "bdes",
+    "domainId": "design",
+    "name": "Bachelor of Design",
+    "shortDescription": "Graphic design, product design, and visual communication",
+    "syllabusUrl": "https://example.com/design-syllabus",
+    "videoUrl": "https://youtube.com/watch?v=example"
+  }
+]

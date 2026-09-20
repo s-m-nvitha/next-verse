@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test InterestCard Component</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-card { 
+            border: 1px solid #ddd; 
+            border-radius: 8px; 
+            padding: 16px; 
+            margin: 10px 0; 
+            background: #f9f9f9;
+        }
+        .test-result { margin: 10px 0; padding: 10px; border-radius: 5px; }
+        .success { background-color: #d4edda; border: 1px solid #c3e6cb; color: #155724; }
+        .error { background-color: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; }
+        .info { background-color: #d1ecf1; border: 1px solid #bee5eb; color: #0c5460; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Testing InterestCard Component</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testInterestCard() {
+            const results = document.getElementById('results');
+            
+            try {
+                // Load interests data
+                const response = await fetch('/seed/interests-10th.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load interests: ${response.status}`);
+                }
+                
+                const interests = await response.json();
+                console.log('Loaded interests:', interests);
+                
+                // Display first few interests
+                const testDiv = document.createElement('div');
+                testDiv.className = 'test-result success';
+                testDiv.innerHTML = `
+                    <h3>✅ Interests Data Loaded Successfully</h3>
+                    <p><strong>Total Interests:</strong> ${interests.length}</p>
+                    <p><strong>First Interest:</strong></p>
+                    <div class="test-card">
+                        <h4>${interests[0].name || 'No Name'}</h4>
+                        <p><strong>ID:</strong> ${interests[0].id}</p>
+                        <p><strong>Description:</strong> ${interests[0].description || 'No Description'}</p>
+                        <p><strong>Level:</strong> ${interests[0].level}</p>
+                        <p><strong>Subjects:</strong> ${interests[0].subjects ? interests[0].subjects.join(', ') : 'No Subjects'}</p>
+                        <p><strong>Career Paths:</strong> ${interests[0].careerPaths ? interests[0].careerPaths.join(', ') : 'No Career Paths'}</p>
+                    </div>
+                `;
+                results.appendChild(testDiv);
+                
+                // Test InterestCard component structure
+                const componentTestDiv = document.createElement('div');
+                componentTestDiv.className = 'test-result info';
+                componentTestDiv.innerHTML = `
+                    <h3>🔍 InterestCard Component Test</h3>
+                    <p>Testing if InterestCard component can render the first interest:</p>
+                    <div class="test-card">
+                        <h4>Component Props Test:</h4>
+                        <p><strong>interest.id:</strong> ${interests[0].id}</p>
+                        <p><strong>interest.name:</strong> ${interests[0].name || 'undefined'}</p>
+                        <p><strong>interest.description:</strong> ${interests[0].description || 'undefined'}</p>
+                        <p><strong>interest.subjects:</strong> ${interests[0].subjects ? JSON.stringify(interests[0].subjects) : 'undefined'}</p>
+                        <p><strong>interest.careerPaths:</strong> ${interests[0].careerPaths ? JSON.stringify(interests[0].careerPaths) : 'undefined'}</p>
+                        <p><strong>interest.level:</strong> ${interests[0].level}</p>
+                    </div>
+                `;
+                results.appendChild(componentTestDiv);
+                
+            } catch (error) {
+                console.error('Error testing InterestCard:', error);
+                
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'test-result error';
+                errorDiv.innerHTML = `
+                    <h3>❌ Error Testing InterestCard</h3>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                `;
+                results.appendChild(errorDiv);
+            }
+        }
+        
+        // Run the test when page loads
+        testInterestCard();
+    </script>
+</body>
+</html>

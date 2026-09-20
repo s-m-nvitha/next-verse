@@ -1,0 +1,42 @@
+[
+  {
+    "id": "science-10th",
+    "labelKey": "interests.science",
+    "descriptionKey": "interests.scienceDescription",
+    "level": "10th",
+    "subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "careerPaths": ["Engineering", "Medicine", "Research", "Teaching"]
+  },
+  {
+    "id": "commerce-10th",
+    "labelKey": "interests.commerce",
+    "descriptionKey": "interests.commerceDescription",
+    "level": "10th",
+    "subjects": ["Mathematics", "Economics", "Business Studies"],
+    "careerPaths": ["Business", "Finance", "Accounting", "Management"]
+  },
+  {
+    "id": "arts-10th",
+    "labelKey": "interests.arts",
+    "descriptionKey": "interests.artsDescription",
+    "level": "10th",
+    "subjects": ["History", "Geography", "Political Science", "Literature"],
+    "careerPaths": ["Journalism", "Law", "Social Work", "Public Administration"]
+  },
+  {
+    "id": "sports-10th",
+    "labelKey": "interests.sports",
+    "descriptionKey": "interests.sportsDescription",
+    "level": "10th",
+    "subjects": ["Physical Education", "Sports Science"],
+    "careerPaths": ["Professional Sports", "Sports Management", "Physical Education", "Sports Medicine"]
+  },
+  {
+    "id": "technology-10th",
+    "labelKey": "interests.technology",
+    "descriptionKey": "interests.technologyDescription",
+    "level": "10th",
+    "subjects": ["Computer Science", "Information Technology"],
+    "careerPaths": ["Software Development", "Data Science", "Cybersecurity", "IT Management"]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "gate_india",
+    "name": "GATE (Graduate Aptitude Test in Engineering)",
+    "duration": "Annual National Exam",
+    "eligibility": "After BE/BTech",
+    "relatedInterests": ["engineering", "research", "ai_ml", "data_science", "systems", "electronics"],
+    "relatedDomains": ["Engineering", "Research", "Higher Studies"],
+    "linkedCourses": ["mtech_cse", "mtech_ai", "msc_cs", "phd_cs"],
+    "category": "Engineering_PG_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "cat_india",
+    "name": "CAT (Common Admission Test - IIMs)",
+    "duration": "Annual National Exam",
+    "eligibility": "After Any UG Degree",
+    "relatedInterests": ["business", "leadership", "finance", "marketing", "analytics", "entrepreneurship"],
+    "relatedDomains": ["Management", "Business Administration"],
+    "linkedCourses": ["mba", "mba_analytics", "executive_mba"],
+    "category": "Management_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+  {
+    "id": "mat_management",
+    "name": "MAT (Management Aptitude Test)",
+    "duration": "Multiple Times a Year",
+    "eligibility": "After UG",
+    "relatedInterests": ["business", "management", "marketing", "communication"],
+    "relatedDomains": ["Management"],
+    "linkedCourses": ["mba"],
+    "category": "Management_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "lsat_pg_law",
+    "name": "LSAT India (Law School Admission Test)",
+    "duration": "Annual Exam",
+    "eligibility": "After LLB",
+    "relatedInterests": ["law", "justice", "policy", "legal_reasoning", "debate"],
+    "relatedDomains": ["Law", "Legal Studies"],
+    "linkedCourses": ["llm", "phd_law"],
+    "category": "Law_PG_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "neet_pg",
+    "name": "NEET PG",
+    "duration": "Annual National Exam",
+    "eligibility": "After MBBS",
+    "relatedInterests": ["medicine", "surgery", "healthcare", "specialization", "clinical_practice"],
+    "relatedDomains": ["Medical Specialization"],
+    "linkedCourses": ["md", "ms", "super_speciality"],
+    "category": "Medical_PG_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "ugc_net_india",
+    "name": "UGC NET (National Eligibility Test)",
+    "duration": "Twice a Year",
+    "eligibility": "After PG",
+    "relatedInterests": ["teaching", "research", "academics", "science", "education"],
+    "relatedDomains": ["Academia", "Research"],
+    "linkedCourses": ["phd_cs", "phd_science", "phd_law"],
+    "category": "Teaching_and_Research_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "ceed_pg_design",
+    "name": "CEED (Common Entrance Exam for Design - IITs)",
+    "duration": "Annual Design Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["design", "ui_ux", "product_design", "innovation", "creativity"],
+    "relatedDomains": ["Design", "Advanced UX/UI"],
+    "linkedCourses": ["mdes", "phd_design"],
+    "category": "Design_and_Creative_PG_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "cds_upsc",
+    "name": "CDS (Combined Defence Services Exam)",
+    "duration": "Twice a Year",
+    "eligibility": "After UG",
+    "relatedInterests": ["defence", "leadership", "strategy", "discipline", "national_service"],
+    "relatedDomains": ["Armed Forces"],
+    "linkedCourses": ["officer_training_academy"],
+    "category": "Defense_and_Civil_Services_Eligibility_Exams",
+    "educationLevel": "UG"
+  },
+  {
+    "id": "upsc_civil_services",
+    "name": "UPSC Civil Services Examination",
+    "duration": "Annual National Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["governance", "public_service", "policy", "law", "administration"],
+    "relatedDomains": ["Civil Services", "Governance"],
+    "linkedCourses": ["any_degree"],
+    "category": "Defense_and_Civil_Services_Eligibility_Exams",
+    "educationLevel": "UG"
+  },
+  {
+    "id": "kpsc_kas",
+    "name": "KPSC KAS (Karnataka Administrative Service)",
+    "duration": "Annual State Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["governance", "state_policy", "administration", "public_service"],
+    "relatedDomains": ["State Civil Services"],
+    "linkedCourses": ["any_degree"],
+    "category": "Defense_and_Civil_Services_Eligibility_Exams",
+    "educationLevel": "UG"
+  },
+
+  {
+    "id": "gre_global",
+    "name": "GRE (Graduate Record Examination)",
+    "duration": "Year-round",
+    "eligibility": "After UG",
+    "relatedInterests": ["research", "data_science", "ai_ml", "higher_studies_abroad"],
+    "relatedDomains": ["Global Education"],
+    "linkedCourses": ["ms_abroad", "mtech_abroad", "phd_abroad"],
+    "category": "International_Entrance_Exams",
+    "educationLevel": "UG"
+  },
+  {
+    "id": "ielts_english",
+    "name": "IELTS (International English Language Testing System)",
+    "duration": "Year-round",
+    "eligibility": "After UG",
+    "relatedInterests": ["communication", "english", "studies_abroad", "global_careers"],
+    "relatedDomains": ["Global Education"],
+    "linkedCourses": ["foreign_universities"],
+    "category": "International_Entrance_Exams",
+    "educationLevel": "UG"
+  }
+]

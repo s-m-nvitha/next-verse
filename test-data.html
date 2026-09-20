@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Data Loading</title>
+</head>
+<body>
+    <h1>Testing Data Loading</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testDataLoading() {
+            const results = document.getElementById('results');
+            
+            try {
+                // Test interests-10th.json
+                console.log('Testing interests-10th.json...');
+                const response = await fetch('/seed/interests-10th.json');
+                console.log('Response status:', response.status);
+                console.log('Response ok:', response.ok);
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    console.log('Data loaded:', data);
+                    console.log('Data length:', data.length);
+                    results.innerHTML = `
+                        <h2>✅ Data Loading Test Results</h2>
+                        <p><strong>Status:</strong> ${response.status}</p>
+                        <p><strong>Data Length:</strong> ${data.length}</p>
+                        <p><strong>First Item:</strong> ${JSON.stringify(data[0], null, 2)}</p>
+                    `;
+                } else {
+                    results.innerHTML = `
+                        <h2>❌ Data Loading Failed</h2>
+                        <p><strong>Status:</strong> ${response.status}</p>
+                        <p><strong>Status Text:</strong> ${response.statusText}</p>
+                    `;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                results.innerHTML = `
+                    <h2>❌ Error Loading Data</h2>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                `;
+            }
+        }
+        
+        // Run the test when page loads
+        testDataLoading();
+    </script>
+</body>
+</html>

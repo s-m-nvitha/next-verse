@@ -1,0 +1,47 @@
+[
+  {
+    "id": "engineering-pg",
+    "labelKey": "interests.engineering",
+    "descriptionKey": "interests.engineeringDescription",
+    "level": "PG",
+    "specializations": ["Computer Science", "Data Science", "AI/ML", "Cybersecurity", "Cloud Computing"],
+    "careerPaths": ["Senior Software Engineer", "Tech Lead", "Data Scientist", "Research Scientist", "Entrepreneur"],
+    "exams": ["GATE", "GRE", "TOEFL", "IELTS", "GMAT"]
+  },
+  {
+    "id": "medicine-pg",
+    "labelKey": "interests.medicine",
+    "descriptionKey": "interests.medicineDescription",
+    "level": "PG",
+    "specializations": ["MD", "MS", "MDS", "M.Pharm", "M.Sc Nursing"],
+    "careerPaths": ["Specialist Doctor", "Surgeon", "Researcher", "Medical Professor", "Healthcare Administrator"],
+    "exams": ["NEET PG", "AIIMS PG", "JIPMER PG", "USMLE", "PLAB"]
+  },
+  {
+    "id": "management-pg",
+    "labelKey": "interests.management",
+    "descriptionKey": "interests.managementDescription",
+    "level": "PG",
+    "specializations": ["MBA", "PGDM", "M.Com", "M.Sc Finance"],
+    "careerPaths": ["Management Consultant", "Investment Banker", "Product Manager", "Entrepreneur", "Corporate Executive"],
+    "exams": ["CAT", "XAT", "GMAT", "GRE", "TOEFL"]
+  },
+  {
+    "id": "research-pg",
+    "labelKey": "interests.research",
+    "descriptionKey": "interests.researchDescription",
+    "level": "PG",
+    "specializations": ["M.Sc", "M.Tech", "M.Phil", "M.A"],
+    "careerPaths": ["Research Scientist", "Academic Researcher", "Policy Analyst", "Think Tank Researcher"],
+    "exams": ["GATE", "CSIR NET", "UGC NET", "GRE", "TOEFL"]
+  },
+  {
+    "id": "law-pg",
+    "labelKey": "interests.law",
+    "descriptionKey": "interests.lawDescription",
+    "level": "PG",
+    "specializations": ["LLM", "M.A Law", "M.Sc Legal Studies"],
+    "careerPaths": ["Senior Advocate", "Corporate Lawyer", "Legal Consultant", "Judge", "Legal Academic"],
+    "exams": ["CLAT PG", "AILET", "LSAT", "GRE", "TOEFL"]
+  }
+]

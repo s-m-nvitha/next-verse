@@ -1,0 +1,728 @@
+[
+  {
+    "id": "science-(physics,-chemistry,-maths,-biology)-10th",
+    "name": "Science",
+    "description": "Explore science and related career paths",
+    "level": "10th",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Mathematics"
+    ],
+    "careerPaths": [
+      "Research",
+      "Teaching",
+      "Laboratory Work",
+      "Scientific Writing"
+    ],
+    "labelKey": "interests.science",
+    "descriptionKey": "interests.scienceDescription"
+  },
+  {
+    "id": "commerce-(accounts,-business-studies,-economics)-10th",
+    "name": "Commerce",
+    "description": "Explore commerce and related career paths",
+    "level": "10th",
+    "subjects": [
+      "Business Studies",
+      "Economics",
+      "Accounting",
+      "Finance"
+    ],
+    "careerPaths": [
+      "Business",
+      "Finance",
+      "Accounting",
+      "Management"
+    ],
+    "labelKey": "interests.commerce",
+    "descriptionKey": "interests.commerceDescription"
+  },
+  {
+    "id": "arts-/-humanities-(history,-geography,-political-science,-sociology,-languages)-10th",
+    "name": "Arts/Humanities",
+    "description": "Explore arts/humanities and related career paths",
+    "level": "10th",
+    "subjects": [
+      "Literature",
+      "History",
+      "Languages",
+      "Creative Writing"
+    ],
+    "careerPaths": [
+      "Writing",
+      "Teaching",
+      "Media",
+      "Cultural Work"
+    ],
+    "labelKey": "interests.arts/humanities",
+    "descriptionKey": "interests.arts/humanitiesDescription"
+  },
+  {
+    "id": "agriculture-10th",
+    "name": "Agriculture",
+    "description": "Explore agriculture and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.agriculture",
+    "descriptionKey": "interests.agricultureDescription"
+  },
+  {
+    "id": "animal-husbandry-10th",
+    "name": "Animalhusbandry",
+    "description": "Explore animalhusbandry and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.animalhusbandry",
+    "descriptionKey": "interests.animalhusbandryDescription"
+  },
+  {
+    "id": "dairy-farming-10th",
+    "name": "Dairyfarming",
+    "description": "Explore dairyfarming and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.dairyfarming",
+    "descriptionKey": "interests.dairyfarmingDescription"
+  },
+  {
+    "id": "horticulture-/-gardening-10th",
+    "name": "Horticulture/Gardening",
+    "description": "Explore horticulture/gardening and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.horticulture/gardening",
+    "descriptionKey": "interests.horticulture/gardeningDescription"
+  },
+  {
+    "id": "tailoring-/-stitching-10th",
+    "name": "Tailoring/Stitching",
+    "description": "Explore tailoring/stitching and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.tailoring/stitching",
+    "descriptionKey": "interests.tailoring/stitchingDescription"
+  },
+  {
+    "id": "embroidery-/-handicrafts-10th",
+    "name": "Embroidery/Handicrafts",
+    "description": "Explore embroidery/handicrafts and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.embroidery/handicrafts",
+    "descriptionKey": "interests.embroidery/handicraftsDescription"
+  },
+  {
+    "id": "beauty-&-wellness-(makeup,-salon,-cosmetology)-10th",
+    "name": "Beauty&Wellness",
+    "description": "Explore beauty&wellness and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.beauty&wellness",
+    "descriptionKey": "interests.beauty&wellnessDescription"
+  },
+  {
+    "id": "cooking-/-food-preparation-10th",
+    "name": "Cooking/Foodpreparation",
+    "description": "Explore cooking/foodpreparation and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.cooking/foodpreparation",
+    "descriptionKey": "interests.cooking/foodpreparationDescription"
+  },
+  {
+    "id": "hospitality-(hotel-related-work,-housekeeping,-serving)-10th",
+    "name": "Hospitality",
+    "description": "Explore hospitality and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.hospitality",
+    "descriptionKey": "interests.hospitalityDescription"
+  },
+  {
+    "id": "driving-(two-wheeler,-four-wheeler,-tractor,-truck)-10th",
+    "name": "Driving",
+    "description": "Explore driving and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.driving",
+    "descriptionKey": "interests.drivingDescription"
+  },
+  {
+    "id": "mechanics-(auto,-bike,-tractor,-machinery-repair)-10th",
+    "name": "Mechanics",
+    "description": "Explore mechanics and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.mechanics",
+    "descriptionKey": "interests.mechanicsDescription"
+  },
+  {
+    "id": "plumbing-10th",
+    "name": "Plumbing",
+    "description": "Explore plumbing and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.plumbing",
+    "descriptionKey": "interests.plumbingDescription"
+  },
+  {
+    "id": "carpentry-10th",
+    "name": "Carpentry",
+    "description": "Explore carpentry and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.carpentry",
+    "descriptionKey": "interests.carpentryDescription"
+  },
+  {
+    "id": "masonry-/-construction-work-10th",
+    "name": "Masonry/Constructionwork",
+    "description": "Explore masonry/constructionwork and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.masonry/constructionwork",
+    "descriptionKey": "interests.masonry/constructionworkDescription"
+  },
+  {
+    "id": "electrical-/-wiring-10th",
+    "name": "Electrical/Wiring",
+    "description": "Explore electrical/wiring and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.electrical/wiring",
+    "descriptionKey": "interests.electrical/wiringDescription"
+  },
+  {
+    "id": "welding-10th",
+    "name": "Welding",
+    "description": "Explore welding and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.welding",
+    "descriptionKey": "interests.weldingDescription"
+  },
+  {
+    "id": "computer-basics-(typing,-ms-office,-tally,-digital-payments)-10th",
+    "name": "Computerbasics",
+    "description": "Explore computerbasics and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.computerbasics",
+    "descriptionKey": "interests.computerbasicsDescription"
+  },
+  {
+    "id": "mobile-repair-10th",
+    "name": "Mobilerepair",
+    "description": "Explore mobilerepair and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.mobilerepair",
+    "descriptionKey": "interests.mobilerepairDescription"
+  },
+  {
+    "id": "photography-10th",
+    "name": "Photography",
+    "description": "Explore photography and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.photography",
+    "descriptionKey": "interests.photographyDescription"
+  },
+  {
+    "id": "videography-/-video-editing-10th",
+    "name": "Videography/Videoediting",
+    "description": "Explore videography/videoediting and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.videography/videoediting",
+    "descriptionKey": "interests.videography/videoeditingDescription"
+  },
+  {
+    "id": "drawing-/-painting-10th",
+    "name": "Drawing/Painting",
+    "description": "Explore drawing/painting and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.drawing/painting",
+    "descriptionKey": "interests.drawing/paintingDescription"
+  },
+  {
+    "id": "singing-10th",
+    "name": "Singing",
+    "description": "Explore singing and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.singing",
+    "descriptionKey": "interests.singingDescription"
+  },
+  {
+    "id": "dancing-10th",
+    "name": "Dancing",
+    "description": "Explore dancing and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.dancing",
+    "descriptionKey": "interests.dancingDescription"
+  },
+  {
+    "id": "folk-arts-/-drama-/-theatre-10th",
+    "name": "Folkarts/Drama/Theatre",
+    "description": "Explore folkarts/drama/theatre and related career paths",
+    "level": "10th",
+    "subjects": [
+      "Literature",
+      "History",
+      "Languages",
+      "Creative Writing"
+    ],
+    "careerPaths": [
+      "Writing",
+      "Teaching",
+      "Media",
+      "Cultural Work"
+    ],
+    "labelKey": "interests.folkarts/drama/theatre",
+    "descriptionKey": "interests.folkarts/drama/theatreDescription"
+  },
+  {
+    "id": "playing-musical-instruments-10th",
+    "name": "Playingmusicalinstruments",
+    "description": "Explore playingmusicalinstruments and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.playingmusicalinstruments",
+    "descriptionKey": "interests.playingmusicalinstrumentsDescription"
+  },
+  {
+    "id": "sports-(kabaddi,-kho-kho,-wrestling,-cricket,-football,-athletics)-10th",
+    "name": "Sports",
+    "description": "Explore sports and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.sports",
+    "descriptionKey": "interests.sportsDescription"
+  },
+  {
+    "id": "physical-fitness-/-exercise-10th",
+    "name": "Physicalfitness/Exercise",
+    "description": "Explore physicalfitness/exercise and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.physicalfitness/exercise",
+    "descriptionKey": "interests.physicalfitness/exerciseDescription"
+  },
+  {
+    "id": "social-service-/-community-work-10th",
+    "name": "Socialservice/Communitywork",
+    "description": "Explore socialservice/communitywork and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.socialservice/communitywork",
+    "descriptionKey": "interests.socialservice/communityworkDescription"
+  },
+  {
+    "id": "reading-/-storytelling-10th",
+    "name": "Reading/Storytelling",
+    "description": "Explore reading/storytelling and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.reading/storytelling",
+    "descriptionKey": "interests.reading/storytellingDescription"
+  },
+  {
+    "id": "teaching-/-tutoring-juniors-10th",
+    "name": "Teaching/Tutoringjuniors",
+    "description": "Explore teaching/tutoringjuniors and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.teaching/tutoringjuniors",
+    "descriptionKey": "interests.teaching/tutoringjuniorsDescription"
+  },
+  {
+    "id": "business-/-shop-keeping-10th",
+    "name": "Business/Shop Keeping",
+    "description": "Explore business/shop keeping and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.business/shopkeeping",
+    "descriptionKey": "interests.business/shopkeepingDescription"
+  },
+  {
+    "id": "selling-goods-in-weekly-markets-(haats)-10th",
+    "name": "Sellinggoodsinweeklymarkets",
+    "description": "Explore sellinggoodsinweeklymarkets and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.sellinggoodsinweeklymarkets",
+    "descriptionKey": "interests.sellinggoodsinweeklymarketsDescription"
+  },
+  {
+    "id": "running-small-stalls-(tea,-snacks,-etc.)-10th",
+    "name": "Runningsmallstalls",
+    "description": "Explore runningsmallstalls and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.runningsmallstalls",
+    "descriptionKey": "interests.runningsmallstallsDescription"
+  },
+  {
+    "id": "working-in-family-trades-or-crafts-10th",
+    "name": "Workinginfamilytradesorcrafts",
+    "description": "Explore workinginfamilytradesorcrafts and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.workinginfamilytradesorcrafts",
+    "descriptionKey": "interests.workinginfamilytradesorcraftsDescription"
+  },
+  {
+    "id": "participating-in-religious-/-cultural-activities-10th",
+    "name": "Participatinginreligious/Culturalactivities",
+    "description": "Explore participatinginreligious/culturalactivities and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.participatinginreligious/culturalactivities",
+    "descriptionKey": "interests.participatinginreligious/culturalactivitiesDescription"
+  },
+  {
+    "id": "making-short-videos-/-content-creation-(youtube,-reels)-10th",
+    "name": "Makingshortvideos/Contentcreation",
+    "description": "Explore makingshortvideos/contentcreation and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.makingshortvideos/contentcreation",
+    "descriptionKey": "interests.makingshortvideos/contentcreationDescription"
+  },
+  {
+    "id": "learning-english-/-communication-skills-10th",
+    "name": "Learningenglish/Communicationskills",
+    "description": "Explore learningenglish/communicationskills and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.learningenglish/communicationskills",
+    "descriptionKey": "interests.learningenglish/communicationskillsDescription"
+  },
+  {
+    "id": "using-smartphones-/-internet-10th",
+    "name": "Usingsmartphones/Internet",
+    "description": "Explore usingsmartphones/internet and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.usingsmartphones/internet",
+    "descriptionKey": "interests.usingsmartphones/internetDescription"
+  },
+  {
+    "id": "traveling-/-exploring-new-places-10th",
+    "name": "Traveling/Exploringnewplaces",
+    "description": "Explore traveling/exploringnewplaces and related career paths",
+    "level": "10th",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Professional Development",
+      "Career Growth",
+      "Skill Building"
+    ],
+    "labelKey": "interests.traveling/exploringnewplaces",
+    "descriptionKey": "interests.traveling/exploringnewplacesDescription"
+  }
+]

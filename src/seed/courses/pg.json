@@ -1,0 +1,50 @@
+[
+  {
+    "id": "phd_ai",
+    "name": "PhD in Artificial Intelligence",
+    "duration": "3-5 Years",
+    "eligibility": "M.Tech/MSc",
+    "relatedInterests": ["ai_ml", "research", "deep_learning"],
+    "category": "Advanced Technology",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "phd_cs",
+    "name": "PhD in Computer Science",
+    "duration": "3-5 Years",
+    "eligibility": "M.Tech/MSc",
+    "relatedInterests": ["programming", "research", "systems"],
+    "category": "Advanced Technology",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "executive_mba",
+    "name": "Executive MBA",
+    "duration": "1-2 Years",
+    "eligibility": "Work Experience + UG",
+    "relatedInterests": ["business", "leadership", "management"],
+    "category": "Business Leadership",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "phd_science",
+    "name": "PhD in Science (Physics/Chemistry/Biology)",
+    "duration": "3-5 Years",
+    "eligibility": "MSc",
+    "relatedInterests": ["science", "research", "biology", "physics"],
+    "category": "Research & Science",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "phd_law",
+    "name": "PhD in Law",
+    "duration": "3-5 Years",
+    "eligibility": "LLM",
+    "relatedInterests": ["law", "policy", "governance"],
+    "category": "Law Advanced",
+    "educationLevel": "PG"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "puc_pcmb",
+    "name": "PUC Science (PCMB)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["technology", "biology", "medicine", "mathematics"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "puc_pcmc",
+    "name": "PUC Science (PCMC)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["computers", "technology", "programming", "mathematics"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "puc_pcme",
+    "name": "PUC Science (PCME)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["electronics", "technology", "physics"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "puc_pcms",
+    "name": "PUC Science (PCMS)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["mathematics", "science", "research"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "puc_cbz",
+    "name": "PUC Science (CBZ)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["biology", "medicine", "research"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "puc_ebac",
+    "name": "PUC Science (EBAC)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["electronics", "business", "technology"],
+    "category": "PUC Science Streams",
+    "educationLevel": "10th"
+  },
+
+  {
+    "id": "commerce_seba",
+    "name": "PUC Commerce (SEBA)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["finance", "business", "accounting"],
+    "category": "PUC Commerce Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "commerce_ceba",
+    "name": "PUC Commerce (CEBA)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["business", "economics", "communication"],
+    "category": "PUC Commerce Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "commerce_heba",
+    "name": "PUC Commerce (HEBA)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["economics", "business", "history"],
+    "category": "PUC Commerce Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "commerce_basm",
+    "name": "PUC Commerce (BASM)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["business", "statistics", "mathematics"],
+    "category": "PUC Commerce Streams",
+    "educationLevel": "10th"
+  },
+
+  {
+    "id": "arts_heps",
+    "name": "PUC Arts (HEPS)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["history", "politics", "public_service"],
+    "category": "PUC Arts Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "arts_heba",
+    "name": "PUC Arts (HEBA)",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["economics", "history", "communication"],
+    "category": "PUC Arts Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "arts_psychology",
+    "name": "PUC Arts with Psychology",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["psychology", "helping_people", "communication"],
+    "category": "PUC Arts Streams",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "arts_journalism",
+    "name": "PUC Arts with Journalism",
+    "duration": "2 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["media", "communication", "writing"],
+    "category": "PUC Arts Streams",
+    "educationLevel": "10th"
+  },
+
+  {
+    "id": "diploma_cse",
+    "name": "Diploma in Computer Science Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["technology", "computers", "programming"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_ise",
+    "name": "Diploma in Information Science Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["technology", "networking", "computers"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_ece",
+    "name": "Diploma in Electronics & Communication Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["electronics", "technology", "innovation"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_mechanical",
+    "name": "Diploma in Mechanical Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["machines", "innovation", "mechanical_interest"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_civil",
+    "name": "Diploma in Civil Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["architecture", "design_thinking", "mathematics"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_automobile",
+    "name": "Diploma in Automobile Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["machines", "mechanical_interest", "innovation"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_mechatronics",
+    "name": "Diploma in Mechatronics",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["robotics", "automation", "technology"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  },
+  {
+    "id": "diploma_aeronautical",
+    "name": "Diploma in Aeronautical Engineering",
+    "duration": "3 Years",
+    "eligibility": "After SSLC / 10th",
+    "relatedInterests": ["aviation", "physics", "innovation"],
+    "category": "Polytechnic Diploma",
+    "educationLevel": "10th"
+  }
+]

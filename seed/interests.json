@@ -1,0 +1,57 @@
+[
+  {
+    "id": "science",
+    "labelKey": "interests.science",
+    "descriptionKey": "Science and research-based fields including physics, chemistry, biology, and mathematics"
+  },
+  {
+    "id": "technology",
+    "labelKey": "interests.technology", 
+    "descriptionKey": "Computer science, software development, artificial intelligence, and emerging technologies"
+  },
+  {
+    "id": "medicine",
+    "labelKey": "interests.medicine",
+    "descriptionKey": "Healthcare, medical sciences, nursing, pharmacy, and allied health professions"
+  },
+  {
+    "id": "arts",
+    "labelKey": "interests.arts",
+    "descriptionKey": "Literature, history, philosophy, languages, and creative arts"
+  },
+  {
+    "id": "commerce",
+    "labelKey": "interests.commerce",
+    "descriptionKey": "Business, economics, finance, accounting, and management studies"
+  },
+  {
+    "id": "law",
+    "labelKey": "interests.law",
+    "descriptionKey": "Legal studies, jurisprudence, constitutional law, and legal practice"
+  },
+  {
+    "id": "sports",
+    "labelKey": "interests.sports",
+    "descriptionKey": "Physical education, sports science, athletics, and fitness training"
+  },
+  {
+    "id": "it",
+    "labelKey": "interests.it",
+    "descriptionKey": "Information technology, cybersecurity, data science, and digital systems"
+  },
+  {
+    "id": "design",
+    "labelKey": "interests.design",
+    "descriptionKey": "Graphic design, architecture, fashion design, and visual arts"
+  },
+  {
+    "id": "agriculture",
+    "labelKey": "interests.agriculture",
+    "descriptionKey": "Agricultural sciences, environmental studies, forestry, and sustainable farming"
+  },
+  {
+    "id": "socialService",
+    "labelKey": "interests.socialService",
+    "descriptionKey": "Social work, psychology, sociology, and community development"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "science-pcm",
+    "labelKey": "interests.sciencePCM",
+    "descriptionKey": "interests.sciencePCMDescription",
+    "level": "12th",
+    "stream": "science",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "careerPaths": ["Engineering", "Architecture", "Defense", "Research"],
+    "exams": ["JEE Main", "JEE Advanced", "BITSAT", "VITEEE", "SRMJEE"]
+  },
+  {
+    "id": "science-pcb",
+    "labelKey": "interests.sciencePCB",
+    "descriptionKey": "interests.sciencePCBDescription",
+    "level": "12th",
+    "stream": "science",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "careerPaths": ["Medicine", "Dentistry", "Pharmacy", "Nursing", "Veterinary"],
+    "exams": ["NEET", "AIIMS", "JIPMER", "AIIMS Nursing", "BHU Nursing"]
+  },
+  {
+    "id": "commerce-12th",
+    "labelKey": "interests.commerce",
+    "descriptionKey": "interests.commerceDescription",
+    "level": "12th",
+    "stream": "commerce",
+    "subjects": ["Accountancy", "Business Studies", "Economics", "Mathematics"],
+    "careerPaths": ["CA", "CS", "CMA", "Banking", "Finance", "Management"],
+    "exams": ["CA Foundation", "CS Foundation", "CMA Foundation", "Banking Exams"]
+  },
+  {
+    "id": "arts-12th",
+    "labelKey": "interests.arts",
+    "descriptionKey": "interests.artsDescription",
+    "level": "12th",
+    "stream": "arts",
+    "subjects": ["History", "Political Science", "Geography", "Psychology", "Sociology"],
+    "careerPaths": ["Law", "Journalism", "Social Work", "Public Administration", "Teaching"],
+    "exams": ["CLAT", "DUET", "JNUEE", "TISS", "SET"]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "engineering-ug",
+    "name": "Engineering",
+    "description": "Explore engineering and related career paths",
+    "level": "UG",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Computer Science"
+    ],
+    "careerPaths": [
+      "Software Engineer",
+      "Data Scientist",
+      "Product Manager",
+      "Research"
+    ],
+    "labelKey": "interests.engineering",
+    "descriptionKey": "interests.engineeringDescription"
+  },
+  {
+    "id": "medicine-ug",
+    "name": "Medicine",
+    "description": "Explore medicine and related career paths",
+    "level": "UG",
+    "subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "careerPaths": [
+      "Doctor",
+      "Dentist",
+      "Pharmacist",
+      "Nurse",
+      "Physiotherapist"
+    ],
+    "labelKey": "interests.medicine",
+    "descriptionKey": "interests.medicineDescription"
+  },
+  {
+    "id": "commerce-ug",
+    "name": "Commerce",
+    "description": "Explore commerce and related career paths",
+    "level": "UG",
+    "subjects": [
+      "Business Studies",
+      "Economics",
+      "Accounting",
+      "Finance"
+    ],
+    "careerPaths": [
+      "Chartered Accountant",
+      "Investment Banker",
+      "Financial Analyst",
+      "Management Consultant"
+    ],
+    "labelKey": "interests.commerce",
+    "descriptionKey": "interests.commerceDescription"
+  },
+  {
+    "id": "arts-ug",
+    "name": "Arts",
+    "description": "Explore arts and related career paths",
+    "level": "UG",
+    "subjects": [
+      "Literature",
+      "History",
+      "Languages",
+      "Creative Writing"
+    ],
+    "careerPaths": [
+      "Lawyer",
+      "Journalist",
+      "Social Worker",
+      "Civil Servant",
+      "Teacher"
+    ],
+    "labelKey": "interests.arts",
+    "descriptionKey": "interests.artsDescription"
+  },
+  {
+    "id": "science-ug",
+    "name": "Science",
+    "description": "Explore science and related career paths",
+    "level": "UG",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Mathematics"
+    ],
+    "careerPaths": [
+      "Research Scientist",
+      "Data Analyst",
+      "Lab Technician",
+      "Teacher"
+    ],
+    "labelKey": "interests.science",
+    "descriptionKey": "interests.scienceDescription"
+  }
+]

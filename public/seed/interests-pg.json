@@ -1,0 +1,102 @@
+[
+  {
+    "id": "engineering-pg",
+    "name": "Engineering",
+    "description": "Explore engineering and related career paths",
+    "level": "PG",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Computer Science"
+    ],
+    "careerPaths": [
+      "Senior Software Engineer",
+      "Tech Lead",
+      "Data Scientist",
+      "Research Scientist",
+      "Entrepreneur"
+    ],
+    "labelKey": "interests.engineering",
+    "descriptionKey": "interests.engineeringDescription"
+  },
+  {
+    "id": "medicine-pg",
+    "name": "Medicine",
+    "description": "Explore medicine and related career paths",
+    "level": "PG",
+    "subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "careerPaths": [
+      "Specialist Doctor",
+      "Surgeon",
+      "Researcher",
+      "Medical Professor",
+      "Healthcare Administrator"
+    ],
+    "labelKey": "interests.medicine",
+    "descriptionKey": "interests.medicineDescription"
+  },
+  {
+    "id": "management-pg",
+    "name": "Management",
+    "description": "Explore management and related career paths",
+    "level": "PG",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Management Consultant",
+      "Investment Banker",
+      "Product Manager",
+      "Entrepreneur",
+      "Corporate Executive"
+    ],
+    "labelKey": "interests.management",
+    "descriptionKey": "interests.managementDescription"
+  },
+  {
+    "id": "research-pg",
+    "name": "Research",
+    "description": "Explore research and related career paths",
+    "level": "PG",
+    "subjects": [
+      "General Studies",
+      "Core Subjects"
+    ],
+    "careerPaths": [
+      "Research Scientist",
+      "Academic Researcher",
+      "Policy Analyst",
+      "Think Tank Researcher"
+    ],
+    "labelKey": "interests.research",
+    "descriptionKey": "interests.researchDescription"
+  },
+  {
+    "id": "law-pg",
+    "name": "Law",
+    "description": "Explore law and related career paths",
+    "level": "PG",
+    "subjects": [
+      "Political Science",
+      "History",
+      "English",
+      "Social Studies"
+    ],
+    "careerPaths": [
+      "Senior Advocate",
+      "Corporate Lawyer",
+      "Legal Consultant",
+      "Judge",
+      "Legal Academic"
+    ],
+    "labelKey": "interests.law",
+    "descriptionKey": "interests.lawDescription"
+  }
+]

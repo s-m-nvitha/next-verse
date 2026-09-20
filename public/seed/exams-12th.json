@@ -1,0 +1,258 @@
+[
+  {
+    "id": "jee-main",
+    "name": "JEE Main",
+    "level": "12th",
+    "description": "Joint Entrance Examination for engineering colleges",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-11-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-31",
+    "website": "https://jeemain.nta.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "jee-advanced",
+    "name": "JEE Advanced",
+    "level": "12th",
+    "description": "Advanced engineering entrance for IITs",
+    "eligibility": "Top 2.5 lakh JEE Main qualifiers",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-05-01",
+      "end": "2024-05-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-07-15",
+    "website": "https://jeeadv.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "neet",
+    "name": "NEET (National Eligibility cum Entrance Test)",
+    "level": "12th",
+    "description": "Medical entrance examination",
+    "eligibility": "Class 12 with Physics, Chemistry, Biology",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "applicationWindow": {
+      "start": "2024-02-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-05",
+    "resultDate": "2024-06-15",
+    "website": "https://neet.nta.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "cuet",
+    "name": "CUET (Common University Entrance Test)",
+    "level": "12th",
+    "description": "Central Universities entrance examination",
+    "eligibility": "Class 12 from any board",
+    "subjects": ["Language", "Domain Subjects", "General Test"],
+    "applicationWindow": {
+      "start": "2024-02-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-15",
+    "resultDate": "2024-06-30",
+    "website": "https://cuet.samarth.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "clat",
+    "name": "CLAT (Common Law Admission Test)",
+    "level": "12th",
+    "description": "Law entrance examination",
+    "eligibility": "Class 12 with minimum 45% marks",
+    "subjects": ["English", "General Knowledge", "Legal Reasoning", "Logical Reasoning", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-12",
+    "resultDate": "2024-06-15",
+    "website": "https://consortiumofnlus.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "ca-foundation",
+    "name": "CA Foundation",
+    "level": "12th",
+    "description": "Chartered Accountancy Foundation course",
+    "eligibility": "Class 12 from any board",
+    "subjects": ["Principles and Practice of Accounting", "Business Laws", "Business Mathematics", "Business Economics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-07-31",
+    "website": "https://icai.org",
+    "importance": "high"
+  },
+  {
+    "id": "cs-foundation",
+    "name": "CS Foundation",
+    "level": "12th",
+    "description": "Company Secretary Foundation course",
+    "eligibility": "Class 12 from any board",
+    "subjects": ["Business Environment", "Business Management", "Business Economics", "Fundamentals of Accounting"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-07-31",
+    "website": "https://icsi.edu",
+    "importance": "medium"
+  },
+  {
+    "id": "cma-foundation",
+    "name": "CMA Foundation",
+    "level": "12th",
+    "description": "Cost and Management Accountancy Foundation",
+    "eligibility": "Class 12 from any board",
+    "subjects": ["Fundamentals of Economics", "Fundamentals of Accounting", "Fundamentals of Law", "Fundamentals of Business Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-07-31",
+    "website": "https://icmai.in",
+    "importance": "medium"
+  },
+  {
+    "id": "nda",
+    "name": "NDA (National Defence Academy)",
+    "level": "12th",
+    "description": "Defence services entrance examination",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Mathematics", "General Ability Test"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-06-15",
+    "website": "https://upsc.gov.in",
+    "importance": "high"
+  },
+  {
+    "id": "cds",
+    "name": "CDS (Combined Defence Services)",
+    "level": "12th",
+    "description": "Defence services entrance examination",
+    "eligibility": "Class 12 from any board",
+    "subjects": ["English", "General Knowledge", "Elementary Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-06-15",
+    "website": "https://upsc.gov.in",
+    "importance": "high"
+  },
+  {
+    "id": "bitsat",
+    "name": "BITSAT (BITS Admission Test)",
+    "level": "12th",
+    "description": "BITS Pilani entrance examination",
+    "eligibility": "Class 12 with minimum 75% marks",
+    "subjects": ["Physics", "Chemistry", "Mathematics", "English Proficiency", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-15",
+    "resultDate": "2024-06-15",
+    "website": "https://bitsadmission.com",
+    "importance": "high"
+  },
+  {
+    "id": "vit-eee",
+    "name": "VITEEE (VIT Engineering Entrance Exam)",
+    "level": "12th",
+    "description": "VIT University engineering entrance",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics", "English"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-15",
+    "website": "https://vit.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "srmjee",
+    "name": "SRMJEE (SRM Joint Engineering Entrance)",
+    "level": "12th",
+    "description": "SRM University engineering entrance",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-15",
+    "website": "https://srmist.edu.in",
+    "importance": "medium"
+  },
+  {
+    "id": "manipal-met",
+    "name": "MET (Manipal Entrance Test)",
+    "level": "12th",
+    "description": "Manipal University entrance examination",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics", "English"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-15",
+    "website": "https://manipal.edu",
+    "importance": "medium"
+  },
+  {
+    "id": "amrita-aeee",
+    "name": "AEEE (Amrita Engineering Entrance Exam)",
+    "level": "12th",
+    "description": "Amrita University engineering entrance",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-15",
+    "website": "https://amrita.edu",
+    "importance": "medium"
+  },
+  {
+    "id": "srmjee-btech",
+    "name": "SRMJEE BTech",
+    "level": "12th",
+    "description": "SRM University BTech entrance",
+    "eligibility": "Class 12 with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-15",
+    "website": "https://srmist.edu.in",
+    "importance": "medium"
+  }
+]

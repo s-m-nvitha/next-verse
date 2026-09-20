@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-10th-foundation",
+    "name": "Science Foundation Course",
+    "level": "10th",
+    "description": "Basic science concepts for 10th grade students",
+    "subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "duration": "1 year",
+    "careerPaths": ["11th Science", "Polytechnic", "ITI"],
+    "nextSteps": ["11th Science", "Diploma Courses", "Vocational Training"]
+  },
+  {
+    "id": "commerce-10th-foundation",
+    "name": "Commerce Foundation Course",
+    "level": "10th",
+    "description": "Basic commerce concepts for 10th grade students",
+    "subjects": ["Mathematics", "Economics", "Business Studies"],
+    "duration": "1 year",
+    "careerPaths": ["11th Commerce", "Diploma in Commerce", "Banking"],
+    "nextSteps": ["11th Commerce", "Diploma in Banking", "Certificate Courses"]
+  },
+  {
+    "id": "arts-10th-foundation",
+    "name": "Arts Foundation Course",
+    "level": "10th",
+    "description": "Basic arts and humanities for 10th grade students",
+    "subjects": ["History", "Geography", "Political Science", "Literature"],
+    "duration": "1 year",
+    "careerPaths": ["11th Arts", "Diploma in Arts", "Vocational Training"],
+    "nextSteps": ["11th Arts", "Diploma Courses", "Skill Development"]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "science-(physics,-chemistry,-maths,-biology)-10th",
+    "labelKey": "interests.science(physics,chemistry,maths,biology)",
+    "descriptionKey": "interests.science(physics,chemistry,maths,biology)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "commerce-(accounts,-business-studies,-economics)-10th",
+    "labelKey": "interests.commerce(accounts,businessstudies,economics)",
+    "descriptionKey": "interests.commerce(accounts,businessstudies,economics)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "arts-/-humanities-(history,-geography,-political-science,-sociology,-languages)-10th",
+    "labelKey": "interests.arts/humanities(history,geography,politicalscience,sociology,languages)",
+    "descriptionKey": "interests.arts/humanities(history,geography,politicalscience,sociology,languages)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "agriculture-10th",
+    "labelKey": "interests.agriculture",
+    "descriptionKey": "interests.agricultureDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "animal-husbandry-10th",
+    "labelKey": "interests.animalhusbandry",
+    "descriptionKey": "interests.animalhusbandryDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "dairy-farming-10th",
+    "labelKey": "interests.dairyfarming",
+    "descriptionKey": "interests.dairyfarmingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "horticulture-/-gardening-10th",
+    "labelKey": "interests.horticulture/gardening",
+    "descriptionKey": "interests.horticulture/gardeningDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "tailoring-/-stitching-10th",
+    "labelKey": "interests.tailoring/stitching",
+    "descriptionKey": "interests.tailoring/stitchingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "embroidery-/-handicrafts-10th",
+    "labelKey": "interests.embroidery/handicrafts",
+    "descriptionKey": "interests.embroidery/handicraftsDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "beauty-&-wellness-(makeup,-salon,-cosmetology)-10th",
+    "labelKey": "interests.beauty&wellness(makeup,salon,cosmetology)",
+    "descriptionKey": "interests.beauty&wellness(makeup,salon,cosmetology)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "cooking-/-food-preparation-10th",
+    "labelKey": "interests.cooking/foodpreparation",
+    "descriptionKey": "interests.cooking/foodpreparationDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "hospitality-(hotel-related-work,-housekeeping,-serving)-10th",
+    "labelKey": "interests.hospitality(hotel-relatedwork,housekeeping,serving)",
+    "descriptionKey": "interests.hospitality(hotel-relatedwork,housekeeping,serving)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "driving-(two-wheeler,-four-wheeler,-tractor,-truck)-10th",
+    "labelKey": "interests.driving(two-wheeler,four-wheeler,tractor,truck)",
+    "descriptionKey": "interests.driving(two-wheeler,four-wheeler,tractor,truck)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "mechanics-(auto,-bike,-tractor,-machinery-repair)-10th",
+    "labelKey": "interests.mechanics(auto,bike,tractor,machineryrepair)",
+    "descriptionKey": "interests.mechanics(auto,bike,tractor,machineryrepair)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "plumbing-10th",
+    "labelKey": "interests.plumbing",
+    "descriptionKey": "interests.plumbingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "carpentry-10th",
+    "labelKey": "interests.carpentry",
+    "descriptionKey": "interests.carpentryDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "masonry-/-construction-work-10th",
+    "labelKey": "interests.masonry/constructionwork",
+    "descriptionKey": "interests.masonry/constructionworkDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "electrical-/-wiring-10th",
+    "labelKey": "interests.electrical/wiring",
+    "descriptionKey": "interests.electrical/wiringDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "welding-10th",
+    "labelKey": "interests.welding",
+    "descriptionKey": "interests.weldingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "computer-basics-(typing,-ms-office,-tally,-digital-payments)-10th",
+    "labelKey": "interests.computerbasics(typing,msoffice,tally,digitalpayments)",
+    "descriptionKey": "interests.computerbasics(typing,msoffice,tally,digitalpayments)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "mobile-repair-10th",
+    "labelKey": "interests.mobilerepair",
+    "descriptionKey": "interests.mobilerepairDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "photography-10th",
+    "labelKey": "interests.photography",
+    "descriptionKey": "interests.photographyDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "videography-/-video-editing-10th",
+    "labelKey": "interests.videography/videoediting",
+    "descriptionKey": "interests.videography/videoeditingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "drawing-/-painting-10th",
+    "labelKey": "interests.drawing/painting",
+    "descriptionKey": "interests.drawing/paintingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "singing-10th",
+    "labelKey": "interests.singing",
+    "descriptionKey": "interests.singingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "dancing-10th",
+    "labelKey": "interests.dancing",
+    "descriptionKey": "interests.dancingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "folk-arts-/-drama-/-theatre-10th",
+    "labelKey": "interests.folkarts/drama/theatre",
+    "descriptionKey": "interests.folkarts/drama/theatreDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "playing-musical-instruments-10th",
+    "labelKey": "interests.playingmusicalinstruments",
+    "descriptionKey": "interests.playingmusicalinstrumentsDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "sports-(kabaddi,-kho-kho,-wrestling,-cricket,-football,-athletics)-10th",
+    "labelKey": "interests.sports(kabaddi,kho-kho,wrestling,cricket,football,athletics)",
+    "descriptionKey": "interests.sports(kabaddi,kho-kho,wrestling,cricket,football,athletics)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "physical-fitness-/-exercise-10th",
+    "labelKey": "interests.physicalfitness/exercise",
+    "descriptionKey": "interests.physicalfitness/exerciseDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "social-service-/-community-work-10th",
+    "labelKey": "interests.socialservice/communitywork",
+    "descriptionKey": "interests.socialservice/communityworkDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "reading-/-storytelling-10th",
+    "labelKey": "interests.reading/storytelling",
+    "descriptionKey": "interests.reading/storytellingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "teaching-/-tutoring-juniors-10th",
+    "labelKey": "interests.teaching/tutoringjuniors",
+    "descriptionKey": "interests.teaching/tutoringjuniorsDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "business-/-shop-keeping-10th",
+    "labelKey": "interests.business/shop-keeping",
+    "descriptionKey": "interests.business/shop-keepingDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "selling-goods-in-weekly-markets-(haats)-10th",
+    "labelKey": "interests.sellinggoodsinweeklymarkets(haats)",
+    "descriptionKey": "interests.sellinggoodsinweeklymarkets(haats)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "running-small-stalls-(tea,-snacks,-etc.)-10th",
+    "labelKey": "interests.runningsmallstalls(tea,snacks,etc.)",
+    "descriptionKey": "interests.runningsmallstalls(tea,snacks,etc.)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "working-in-family-trades-or-crafts-10th",
+    "labelKey": "interests.workinginfamilytradesorcrafts",
+    "descriptionKey": "interests.workinginfamilytradesorcraftsDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "participating-in-religious-/-cultural-activities-10th",
+    "labelKey": "interests.participatinginreligious/culturalactivities",
+    "descriptionKey": "interests.participatinginreligious/culturalactivitiesDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "making-short-videos-/-content-creation-(youtube,-reels)-10th",
+    "labelKey": "interests.makingshortvideos/contentcreation(youtube,reels)",
+    "descriptionKey": "interests.makingshortvideos/contentcreation(youtube,reels)Description",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "learning-english-/-communication-skills-10th",
+    "labelKey": "interests.learningenglish/communicationskills",
+    "descriptionKey": "interests.learningenglish/communicationskillsDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "using-smartphones-/-internet-10th",
+    "labelKey": "interests.usingsmartphones/internet",
+    "descriptionKey": "interests.usingsmartphones/internetDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  },
+  {
+    "id": "traveling-/-exploring-new-places-10th",
+    "labelKey": "interests.traveling/exploringnewplaces",
+    "descriptionKey": "interests.traveling/exploringnewplacesDescription",
+    "level": "10th",
+    "subjects": [],
+    "careerPaths": []
+  }
+]

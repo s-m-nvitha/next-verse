@@ -1,0 +1,179 @@
+[
+  {
+    "id": "upsc_cse_india",
+    "name": "UPSC Civil Services Examination (IAS/IPS/IFS)",
+    "duration": "Annual National Exam",
+    "eligibility": "After Any UG Degree",
+    "relatedInterests": [
+      "governance",
+      "policy",
+      "public_service",
+      "law",
+      "international_relations",
+      "administration"
+    ],
+    "relatedDomains": ["Civil Services", "Governance", "Public Administration"],
+    "linkedCourses": ["any_degree"],
+    "category": "Civil_Services_Exams_India",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "kpsc_kas_karnataka",
+    "name": "KPSC KAS (Karnataka Administrative Service)",
+    "duration": "Annual State Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["state_governance", "public_service", "policy", "administration"],
+    "relatedDomains": ["State Civil Services"],
+    "linkedCourses": ["any_degree"],
+    "category": "Civil_Services_Exams_India",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "upsc_ifs",
+    "name": "UPSC Indian Foreign Service (IFS)",
+    "duration": "Annual Exam (UPSC CSE Route)",
+    "eligibility": "After UG",
+    "relatedInterests": ["international_relations", "diplomacy", "global_politics", "languages"],
+    "relatedDomains": ["Foreign Affairs", "Diplomacy"],
+    "linkedCourses": ["any_degree"],
+    "category": "Civil_Services_Exams_India",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "nda_advanced",
+    "name": "NDA (National Defence Academy)",
+    "duration": "Twice a Year",
+    "eligibility": "After 12th",
+    "relatedInterests": ["defence", "discipline", "leadership", "fitness", "military_strategy"],
+    "relatedDomains": ["Armed Forces"],
+    "linkedCourses": ["any_stream"],
+    "category": "Defence_Advanced_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "cds_officer_entry",
+    "name": "CDS (Combined Defence Services)",
+    "duration": "Twice a Year",
+    "eligibility": "After UG",
+    "relatedInterests": ["defence", "strategy", "leadership", "national_service"],
+    "relatedDomains": ["Armed Forces"],
+    "linkedCourses": ["any_degree"],
+    "category": "Defence_Advanced_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "afcat_airforce",
+    "name": "AFCAT (Air Force Common Admission Test)",
+    "duration": "Twice a Year",
+    "eligibility": "After UG",
+    "relatedInterests": ["aviation", "defence", "technology", "discipline"],
+    "relatedDomains": ["Air Force", "Aviation Defence"],
+    "linkedCourses": ["engineering_degree", "science_degree"],
+    "category": "Defence_Advanced_Exams",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "ibps_po",
+    "name": "IBPS Probationary Officer (PO)",
+    "duration": "Annual Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["finance", "banking", "economics", "management", "aptitude"],
+    "relatedDomains": ["Banking", "Finance"],
+    "linkedCourses": ["bcom", "bba"],
+    "category": "Banking_and_Finance_Elite_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "rbi_grade_b",
+    "name": "RBI Grade B Officer Exam",
+    "duration": "Annual Exam",
+    "eligibility": "After UG",
+    "relatedInterests": ["economics", "finance", "policy", "data_analysis"],
+    "relatedDomains": ["Central Banking", "Economics Policy"],
+    "linkedCourses": ["economics_degree", "bcom"],
+    "category": "Banking_and_Finance_Elite_Exams",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "ugc_net_phd",
+    "name": "UGC NET (Assistant Professor / JRF)",
+    "duration": "Twice a Year",
+    "eligibility": "After PG",
+    "relatedInterests": ["teaching", "research", "academics", "education", "science"],
+    "relatedDomains": ["Academia", "Research"],
+    "linkedCourses": ["phd_cs", "phd_science", "phd_law"],
+    "category": "Research_and_Academia_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "csir_net_science",
+    "name": "CSIR NET (Science Research Fellowship)",
+    "duration": "Twice a Year",
+    "eligibility": "After MSc",
+    "relatedInterests": ["research", "physics", "chemistry", "biology", "innovation"],
+    "relatedDomains": ["Scientific Research"],
+    "linkedCourses": ["phd_science"],
+    "category": "Research_and_Academia_Exams",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "gre_global_studies",
+    "name": "GRE (Graduate Record Examination)",
+    "duration": "Year-round",
+    "eligibility": "After UG",
+    "relatedInterests": ["research", "ai_ml", "data_science", "higher_studies", "technology"],
+    "relatedDomains": ["Global Education"],
+    "linkedCourses": ["ms_abroad", "mtech_abroad", "phd_abroad"],
+    "category": "Global_Education_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "toefl_ielts_english",
+    "name": "IELTS / TOEFL (English Proficiency Tests)",
+    "duration": "Year-round",
+    "eligibility": "After UG",
+    "relatedInterests": ["communication", "english", "studies_abroad", "global_careers"],
+    "relatedDomains": ["International Education"],
+    "linkedCourses": ["foreign_universities"],
+    "category": "Global_Education_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "gmat_mba_abroad",
+    "name": "GMAT (Global MBA Entrance Exam)",
+    "duration": "Year-round",
+    "eligibility": "After UG",
+    "relatedInterests": ["business", "management", "finance", "leadership", "entrepreneurship"],
+    "relatedDomains": ["Global Business Education"],
+    "linkedCourses": ["mba_abroad"],
+    "category": "Global_Education_Exams",
+    "educationLevel": "PG"
+  },
+
+  {
+    "id": "clat_llm_advanced",
+    "name": "CLAT PG (LLM Entrance)",
+    "duration": "Annual Exam",
+    "eligibility": "After LLB",
+    "relatedInterests": ["law", "justice", "legal_research", "policy"],
+    "relatedDomains": ["Law"],
+    "linkedCourses": ["llm", "phd_law"],
+    "category": "Special_Professional_Exams",
+    "educationLevel": "PG"
+  },
+  {
+    "id": "ca_final_exam",
+    "name": "CA Final (Chartered Accountant Final Exam)",
+    "duration": "Professional Exam",
+    "eligibility": "After CA Intermediate",
+    "relatedInterests": ["finance", "accounting", "taxation", "auditing", "business"],
+    "relatedDomains": ["Finance", "Accounting"],
+    "linkedCourses": ["ca_professional"],
+    "category": "Special_Professional_Exams",
+    "educationLevel": "PG"
+  }
+]

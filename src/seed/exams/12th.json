@@ -1,0 +1,117 @@
+[
+  {
+    "id": "kcet_karnataka",
+    "name": "KCET (Karnataka Common Entrance Test)",
+    "duration": "Annual Entrance Exam",
+    "eligibility": "After PUC Science (PCM/PCMC/PCME)",
+    "relatedInterests": ["technology", "engineering", "ai_ml", "robotics", "electronics", "coding"],
+    "relatedDomains": ["Engineering", "Technology"],
+    "linkedCourses": ["be_cse", "be_ise", "be_ece", "be_mech", "be_civil", "be_ai_ds"],
+    "category": "Engineering_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "comedk_uget",
+    "name": "COMEDK UGET (Consortium of Medical, Engineering & Dental Colleges of Karnataka)",
+    "duration": "Annual Entrance Exam",
+    "eligibility": "After 12th Science",
+    "relatedInterests": ["technology", "engineering", "innovation", "software", "electronics"],
+    "relatedDomains": ["Engineering"],
+    "linkedCourses": ["be_cse", "be_ise", "be_ece", "be_ai_ds"],
+    "category": "Engineering_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "neet_ug",
+    "name": "NEET UG (National Eligibility cum Entrance Test)",
+    "duration": "Annual Entrance Exam",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["medicine", "biology", "healthcare", "human_body", "nursing", "pharmacy"],
+    "relatedDomains": ["Medical", "Healthcare Sciences"],
+    "linkedCourses": ["mbbs", "bds", "bsc_nursing", "bpt"],
+    "category": "Medical_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "ca_foundation_icai",
+    "name": "CA Foundation (ICAI)",
+    "duration": "Entry Level Professional Exam",
+    "eligibility": "After PUC Commerce",
+    "relatedInterests": ["finance", "accounting", "taxation", "business", "economics"],
+    "relatedDomains": ["Finance", "Accounting"],
+    "linkedCourses": ["bcom"],
+    "category": "Commerce_Management_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "cseet_cs",
+    "name": "CSEET (Company Secretary Executive Entrance Test)",
+    "duration": "Entry Level Professional Exam",
+    "eligibility": "After PUC Commerce/Arts/Science",
+    "relatedInterests": ["law", "corporate_governance", "business_law", "management"],
+    "relatedDomains": ["Corporate Law", "Business Governance"],
+    "linkedCourses": ["bcom", "llb"],
+    "category": "Commerce_Management_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "nid_dat",
+    "name": "NID DAT (National Institute of Design Aptitude Test)",
+    "duration": "Design Entrance Exam",
+    "eligibility": "After 12th",
+    "relatedInterests": ["design", "ui_ux", "animation", "creativity", "product_design"],
+    "relatedDomains": ["Design", "Creative Arts"],
+    "linkedCourses": ["bdes"],
+    "category": "Design_Creative_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "ceed_uceed",
+    "name": "UCEED / CEED (Design Entrance Exams - IITs)",
+    "duration": "Annual Entrance Exam",
+    "eligibility": "After 12th",
+    "relatedInterests": ["ui_ux", "product_design", "innovation", "creativity"],
+    "relatedDomains": ["Design", "UX/UI"],
+    "linkedCourses": ["bdes"],
+    "category": "Design_Creative_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "clat",
+    "name": "CLAT (Common Law Admission Test)",
+    "duration": "Annual Entrance Exam",
+    "eligibility": "After 12th",
+    "relatedInterests": ["law", "justice", "debate", "polity", "public_policy"],
+    "relatedDomains": ["Law"],
+    "linkedCourses": ["llb"],
+    "category": "Law_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "lsat_india",
+    "name": "LSAT India",
+    "duration": "Law Entrance Exam",
+    "eligibility": "After 12th",
+    "relatedInterests": ["law", "logical_reasoning", "critical_thinking"],
+    "relatedDomains": ["Law"],
+    "linkedCourses": ["llb"],
+    "category": "Law_Entrance_Exams",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "nda",
+    "name": "NDA (National Defence Academy)",
+    "duration": "Twice a Year Exam",
+    "eligibility": "After 12th",
+    "relatedInterests": ["defence", "leadership", "discipline", "fitness", "strategy"],
+    "relatedDomains": ["Armed Forces"],
+    "linkedCourses": ["any_stream"],
+    "category": "Defense_Entrance_Exams",
+    "educationLevel": "12th"
+  }
+]

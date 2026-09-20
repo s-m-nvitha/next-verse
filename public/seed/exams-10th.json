@@ -1,0 +1,262 @@
+[
+  {
+    "id": "board-10th-cbse",
+    "name": "CBSE Class 10 Board Exam",
+    "level": "10th",
+    "description": "Central Board of Secondary Education Class 10 examination",
+    "eligibility": "Students enrolled in CBSE Class 10",
+    "subjects": ["Mathematics", "Science", "Social Science", "English", "Hindi/Regional Language"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-03-15",
+    "resultDate": "2024-05-31",
+    "website": "https://cbse.gov.in",
+    "importance": "high"
+  },
+  {
+    "id": "board-10th-icse",
+    "name": "ICSE Class 10 Board Exam",
+    "level": "10th",
+    "description": "Indian Certificate of Secondary Education Class 10 examination",
+    "eligibility": "Students enrolled in ICSE Class 10",
+    "subjects": ["English", "Mathematics", "Science", "History & Civics", "Geography", "Computer Applications"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-03-15",
+    "resultDate": "2024-05-31",
+    "website": "https://cisce.org",
+    "importance": "high"
+  },
+  {
+    "id": "ntse-10th",
+    "name": "National Talent Search Examination (NTSE)",
+    "level": "10th",
+    "description": "National level scholarship examination for Class 10 students",
+    "eligibility": "Class 10 students with minimum 60% marks",
+    "subjects": ["Mental Ability Test", "Scholastic Aptitude Test"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2025-01-31",
+    "website": "https://ncert.nic.in",
+    "importance": "high",
+    "scholarship": "₹1250 per month"
+  },
+  {
+    "id": "olympiad-nso",
+    "name": "National Science Olympiad (NSO)",
+    "level": "10th",
+    "description": "National level science olympiad for Class 10 students",
+    "eligibility": "Class 10 students from any board",
+    "subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-11-20",
+    "resultDate": "2025-01-15",
+    "website": "https://sofworld.org",
+    "importance": "medium"
+  },
+  {
+    "id": "olympiad-imo",
+    "name": "International Mathematics Olympiad (IMO)",
+    "level": "10,
+    "description": "International Mathematics Olympiad for Class 10 students",
+    "eligibility": "Class 10 students from any board",
+    "subjects": ["Mathematics"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2025-02-28",
+    "website": "https://sofworld.org",
+    "importance": "medium"
+  },
+  {
+    "id": "olympiad-nco",
+    "name": "National Cyber Olympiad (NCO)",
+    "level": "10th",
+    "description": "National level computer science olympiad",
+    "eligibility": "Class 10 students interested in computer science",
+    "subjects": ["Computer Science", "Information Technology", "Cyber Security"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-12-20",
+    "resultDate": "2025-02-28",
+    "website": "https://sofworld.org",
+    "importance": "medium"
+  },
+  {
+    "id": "kishore-vaigyanik-protsahan-yojana",
+    "name": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+    "level": "10th",
+    "description": "National fellowship program for basic sciences",
+    "eligibility": "Class 10 students with science background",
+    "subjects": ["Physics", "Chemistry", "Mathematics", "Biology"],
+    "applicationWindow": {
+      "start": "2024-07-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-11-05",
+    "resultDate": "2025-01-31",
+    "website": "https://kvpy.iisc.ernet.in",
+    "importance": "high",
+    "scholarship": "₹5000 per month"
+  },
+  {
+    "id": "national-means-cum-merit-scholarship",
+    "name": "National Means-cum-Merit Scholarship (NMMS)",
+    "level": "10th",
+    "description": "Scholarship for meritorious students from economically weaker sections",
+    "eligibility": "Class 10 students with family income below ₹1.5 lakh",
+    "subjects": ["Mental Ability Test", "Scholastic Aptitude Test"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-20",
+    "resultDate": "2025-01-31",
+    "website": "https://mhrd.gov.in",
+    "importance": "high",
+    "scholarship": "₹12000 per year"
+  },
+  {
+    "id": "pre-foundation-scholarship",
+    "name": "Pre-Foundation Scholarship",
+    "level": "10th",
+    "description": "Scholarship for students preparing for competitive exams",
+    "eligibility": "Class 10 students with minimum 75% marks",
+    "subjects": ["Mathematics", "Science", "English"],
+    "applicationWindow": {
+      "start": "2024-07-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-10-15",
+    "resultDate": "2024-12-31",
+    "website": "https://foundation.nvshq.org",
+    "importance": "medium",
+    "scholarship": "₹1000 per month"
+  },
+  {
+    "id": "state-talent-search",
+    "name": "State Talent Search Examination",
+    "level": "10th",
+    "description": "State level talent search examination",
+    "eligibility": "Class 10 students from state board",
+    "subjects": ["Mental Ability", "General Knowledge", "Science", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-10",
+    "resultDate": "2025-01-15",
+    "website": "https://stateeducation.gov.in",
+    "importance": "medium"
+  },
+  {
+    "id": "international-science-olympiad",
+    "name": "International Science Olympiad (ISO)",
+    "level": "10th",
+    "description": "International level science olympiad",
+    "eligibility": "Class 10 students with science background",
+    "subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-12-10",
+    "resultDate": "2025-02-28",
+    "website": "https://iso.org",
+    "importance": "high"
+  },
+  {
+    "id": "all-india-mathematics-competition",
+    "name": "All India Mathematics Competition (AIMC)",
+    "level": "10th",
+    "description": "National level mathematics competition",
+    "eligibility": "Class 10 students from any board",
+    "subjects": ["Mathematics"],
+    "applicationWindow": {
+      "start": "2024-07-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-11-25",
+    "resultDate": "2025-01-31",
+    "website": "https://aimc.org",
+    "importance": "medium"
+  },
+  {
+    "id": "national-cyber-olympiad",
+    "name": "National Cyber Olympiad (NCO)",
+    "level": "10th",
+    "description": "National level cyber security and IT olympiad",
+    "eligibility": "Class 10 students interested in IT",
+    "subjects": ["Computer Science", "Information Technology", "Cyber Security"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-12-20",
+    "resultDate": "2025-02-28",
+    "website": "https://nco.org",
+    "importance": "medium"
+  },
+  {
+    "id": "international-mathematics-olympiad",
+    "name": "International Mathematics Olympiad (IMO)",
+    "level": "10th",
+    "description": "International level mathematics olympiad",
+    "eligibility": "Class 10 students with mathematics background",
+    "subjects": ["Mathematics"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-12-15",
+    "resultDate": "2025-02-28",
+    "website": "https://imo.org",
+    "importance": "high"
+  },
+  {
+    "id": "national-science-olympiad",
+    "name": "National Science Olympiad (NSO)",
+    "level": "10th",
+    "description": "National level science olympiad",
+    "eligibility": "Class 10 students from any board",
+    "subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-06-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-11-20",
+    "resultDate": "2025-01-15",
+    "website": "https://nso.org",
+    "importance": "medium"
+  },
+  {
+    "id": "all-india-english-olympiad",
+    "name": "All India English Olympiad (AIEO)",
+    "level": "10th",
+    "description": "National level English language olympiad",
+    "eligibility": "Class 10 students from any board",
+    "subjects": ["English Language", "Literature", "Grammar"],
+    "applicationWindow": {
+      "start": "2024-07-01",
+      "end": "2024-08-31"
+    },
+    "examDate": "2024-11-30",
+    "resultDate": "2025-01-31",
+    "website": "https://aieo.org",
+    "importance": "medium"
+  }
+]

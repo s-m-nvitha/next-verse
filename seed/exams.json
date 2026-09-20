@@ -1,0 +1,74 @@
+[
+  {
+    "id": "jee-main",
+    "courseId": "cs-engineering",
+    "domainId": "technology",
+    "name": "JEE Main",
+    "eligibility": "12th grade with Physics, Chemistry, Mathematics",
+    "syllabusUrl": "https://jeemain.nta.ac.in/syllabus",
+    "applicationWindow": {
+      "start": "2024-12-01T00:00:00Z",
+      "end": "2024-12-31T23:59:59Z"
+    }
+  },
+  {
+    "id": "jee-advanced",
+    "courseId": "cs-engineering",
+    "domainId": "technology",
+    "name": "JEE Advanced",
+    "eligibility": "Qualified JEE Main with top 2.5 lakh rank",
+    "syllabusUrl": "https://jeeadv.ac.in/syllabus",
+    "applicationWindow": {
+      "start": "2025-04-01T00:00:00Z",
+      "end": "2025-04-30T23:59:59Z"
+    }
+  },
+  {
+    "id": "neet",
+    "courseId": "mbbs",
+    "domainId": "medicine",
+    "name": "NEET",
+    "eligibility": "12th grade with Physics, Chemistry, Biology",
+    "syllabusUrl": "https://neet.nta.nic.in/syllabus",
+    "applicationWindow": {
+      "start": "2024-11-01T00:00:00Z",
+      "end": "2024-12-15T23:59:59Z"
+    }
+  },
+  {
+    "id": "cat",
+    "courseId": "bba",
+    "domainId": "commerce",
+    "name": "CAT",
+    "eligibility": "Bachelor's degree with 50% marks",
+    "syllabusUrl": "https://iimcat.ac.in/syllabus",
+    "applicationWindow": {
+      "start": "2024-08-01T00:00:00Z",
+      "end": "2024-09-15T23:59:59Z"
+    }
+  },
+  {
+    "id": "bitsat",
+    "courseId": "cs-engineering",
+    "domainId": "technology",
+    "name": "BITSAT",
+    "eligibility": "12th grade with 75% marks in PCM",
+    "syllabusUrl": "https://bitsadmission.com/syllabus",
+    "applicationWindow": {
+      "start": "2025-01-01T00:00:00Z",
+      "end": "2025-02-28T23:59:59Z"
+    }
+  },
+  {
+    "id": "clat",
+    "courseId": "llb",
+    "domainId": "law",
+    "name": "CLAT",
+    "eligibility": "12th grade with 45% marks",
+    "syllabusUrl": "https://consortiumofnlus.ac.in/syllabus",
+    "applicationWindow": {
+      "start": "2024-12-01T00:00:00Z",
+      "end": "2025-01-31T23:59:59Z"
+    }
+  }
+]

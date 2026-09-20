@@ -1,0 +1,34 @@
+[
+  {
+    "id": "board-10th",
+    "name": "10th Board Examination",
+    "level": "10th",
+    "description": "Secondary School Certificate examination",
+    "eligibility": "Class 10th students",
+    "subjects": ["Mathematics", "Science", "Social Science", "English", "Hindi/Regional Language"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-03-15",
+    "resultDate": "2024-05-31",
+    "website": "https://cbse.gov.in",
+    "importance": "high"
+  },
+  {
+    "id": "ntse-10th",
+    "name": "National Talent Search Examination (NTSE)",
+    "level": "10th",
+    "description": "National level scholarship examination for class 10th students",
+    "eligibility": "Class 10th students with minimum 60% marks",
+    "subjects": ["Mental Ability Test", "Scholastic Aptitude Test"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-15"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-06-30",
+    "website": "https://ncert.nic.in",
+    "importance": "high"
+  }
+]

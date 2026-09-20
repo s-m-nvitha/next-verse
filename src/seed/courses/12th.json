@@ -1,0 +1,322 @@
+[
+  {
+    "id": "be_cse",
+    "name": "Bachelor of Engineering (Computer Science & Engineering)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCM/PCMC/PCME)",
+    "relatedInterests": ["technology", "computers", "programming", "ai_ml", "software_development"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_ise",
+    "name": "Bachelor of Engineering (Information Science & Engineering)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["technology", "data", "networking", "computers"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_ece",
+    "name": "Bachelor of Engineering (Electronics & Communication)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["electronics", "robotics", "communication", "innovation"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_mech",
+    "name": "Bachelor of Engineering (Mechanical Engineering)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["machines", "automobile", "design", "manufacturing"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_civil",
+    "name": "Bachelor of Engineering (Civil Engineering)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["architecture", "construction", "design", "mathematics"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_ai_ds",
+    "name": "Bachelor of Engineering (AI & Data Science)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["ai_ml", "data_science", "technology", "analytics"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_rob",
+    "name": "Bachelor of Engineering (Robotics & Automation)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science",
+    "relatedInterests": ["robotics", "automation", "ai_ml", "electronics"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "mbbs",
+    "name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+    "duration": "5.5 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["medicine", "biology", "healthcare", "patient_care"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bds",
+    "name": "Bachelor of Dental Surgery (BDS)",
+    "duration": "5 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["medicine", "healthcare", "biology"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bpt",
+    "name": "Bachelor of Physiotherapy (BPT)",
+    "duration": "4.5 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["healthcare", "sports", "medicine", "rehabilitation"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_nursing",
+    "name": "B.Sc Nursing",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["nursing", "healthcare", "medicine", "patient_care"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "bcom",
+    "name": "Bachelor of Commerce (B.Com)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Commerce",
+    "relatedInterests": ["finance", "business", "accounting", "economics"],
+    "category": "Commerce & Management",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bba",
+    "name": "Bachelor of Business Administration (BBA)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Commerce",
+    "relatedInterests": ["business", "management", "startup", "marketing"],
+    "category": "Commerce & Management",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bba_analytics",
+    "name": "BBA (Business Analytics)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Commerce/Science",
+    "relatedInterests": ["data", "analytics", "business", "technology"],
+    "category": "Commerce & Management",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "ba_psychology",
+    "name": "Bachelor of Arts (Psychology)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Arts/Science",
+    "relatedInterests": ["psychology", "human_behavior", "helping_people"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "ba_economics",
+    "name": "Bachelor of Arts (Economics)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Arts/Commerce",
+    "relatedInterests": ["economics", "finance", "policy", "analysis"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "ba_journalism",
+    "name": "Bachelor of Arts (Journalism & Mass Communication)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Arts",
+    "relatedInterests": ["media", "communication", "writing", "content_creation"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "llb",
+    "name": "Bachelor of Law (LLB - 5 Year Integrated)",
+    "duration": "5 Years",
+    "eligibility": "After PUC Arts/Commerce/Science",
+    "relatedInterests": ["law", "justice", "public_service", "debate"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "bdes",
+    "name": "Bachelor of Design (B.Des)",
+    "duration": "4 Years",
+    "eligibility": "After PUC/12th",
+    "relatedInterests": ["design", "ui_design", "animation", "creativity"],
+    "category": "Design & Creative Courses",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_animation",
+    "name": "B.Sc Animation & Multimedia",
+    "duration": "3 Years",
+    "eligibility": "After PUC/12th",
+    "relatedInterests": ["animation", "gaming", "graphics", "media"],
+    "category": "Design & Creative Courses",
+    "educationLevel": "12th"
+  },
+
+  {
+    "id": "be_it",
+    "name": "BE Information Technology",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCM/PCMC)",
+    "relatedInterests": ["technology", "computers", "software_development", "networking"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "barch",
+    "name": "Bachelor of Architecture (B.Arch)",
+    "duration": "5 Years",
+    "eligibility": "After PUC Science (PCM)",
+    "relatedInterests": ["design", "creativity", "mathematics", "architecture"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_allied_health",
+    "name": "B.Sc Allied Health Sciences",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["healthcare", "patient_support", "biology", "rehabilitation"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_mltech",
+    "name": "B.Sc Medical Lab Technology (BMLT)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science (PCB)",
+    "relatedInterests": ["healthcare", "science", "biology", "research"],
+    "category": "Medical & Allied Health Sciences",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_psychology",
+    "name": "B.Sc Psychology",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science/Arts",
+    "relatedInterests": ["psychology", "research", "biology", "communication"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_forensic",
+    "name": "B.Sc Forensic Science",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science (PCB/PCM)",
+    "relatedInterests": ["science", "research", "investigation", "biology"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bjmc",
+    "name": "Bachelor of Journalism & Mass Communication (BJMC)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Arts/Commerce/Science",
+    "relatedInterests": ["media", "communication", "writing", "content_creation"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_stats",
+    "name": "B.Sc Statistics",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science (PCM/PCMS)",
+    "relatedInterests": ["mathematics", "research", "analytics", "data_science"],
+    "category": "Science & Research",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "ba_social_work",
+    "name": "Bachelor of Social Work (BSW)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Arts/Commerce/Science",
+    "relatedInterests": ["public_service", "governance", "communication", "helping_people"],
+    "category": "Arts & Humanities",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bca",
+    "name": "Bachelor of Computer Applications (BCA)",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science/Commerce with Mathematics/Computer Science",
+    "relatedInterests": ["coding", "software_development", "computers", "technology"],
+    "category": "Computer Applications & IT",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bsc_data_science",
+    "name": "B.Sc Data Science",
+    "duration": "3 Years",
+    "eligibility": "After PUC Science (PCM/PCMS/PCMC)",
+    "relatedInterests": ["data_science", "ai_ml", "analytics", "mathematics"],
+    "category": "Science & Technology",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_eee",
+    "name": "Bachelor of Engineering (Electrical & Electronics)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCM/PCME)",
+    "relatedInterests": ["electronics", "machines", "technology", "physics"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "be_aeronautical",
+    "name": "Bachelor of Engineering (Aeronautical Engineering)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCM)",
+    "relatedInterests": ["machines", "aviation", "science", "mathematics", "innovation"],
+    "category": "Engineering & Technology (UG Courses)",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "bpharm",
+    "name": "Bachelor of Pharmacy (B.Pharm)",
+    "duration": "4 Years",
+    "eligibility": "After PUC Science (PCMB/PCB)",
+    "relatedInterests": ["medicine", "chemistry", "research", "healthcare", "biology"],
+    "category": "Pharmacy & Healthcare",
+    "educationLevel": "12th"
+  },
+  {
+    "id": "any_degree",
+    "name": "Any Undergraduate Degree (Defence / Civil Services Track)",
+    "duration": "3-4 Years",
+    "eligibility": "After PUC Any Stream",
+    "relatedInterests": ["public_service", "governance", "leadership", "national_service", "defence"],
+    "category": "Public Service & Defence",
+    "educationLevel": "12th"
+  }
+]

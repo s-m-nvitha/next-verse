@@ -1,0 +1,175 @@
+{
+  "app": {
+    "name": "NEXT VERSE",
+    "tagline": "One-Stop Personalized Career & Education Adviser"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "landing": {
+    "title": "Get started",
+    "badge": "Your Future. Personalized.",
+    "description": "Personalized guidance for courses, competitive exams, colleges, scholarships, and jobs — tailored to your goals.",
+    "getStarted": "Get Started",
+    "trust1": "Trusted Guidance",
+    "trust2": "AI Powered",
+    "trust3": "Secure & Private",
+    "scroll": "Scroll to Explore",
+    "about": {
+      "title": "About NEXT VERSE",
+      "p1": "NEXT VERSE helps you make confident education and career decisions using personalized recommendations and curated resources.",
+      "p2": "Answer a few questions, then explore domains, courses, competitive exams, colleges in Karnataka, study materials, and job opportunities — all in one place."
+    },
+    "how": {
+      "title": "How it works",
+      "step1": {
+        "title": "1) Tell us about you",
+        "description": "Select your education level and answer a short interest questionnaire."
+      },
+      "step2": {
+        "title": "2) Get smart recommendations",
+        "description": "Pick a domain, then choose courses and relevant competitive exams that match your goals."
+      },
+      "step3": {
+        "title": "3) Take action",
+        "description": "Track exams, set reminders, find colleges, and open verified study materials and job links."
+      }
+    },
+    "features": {
+      "personalized": {
+        "title": "Personalized",
+        "description": "Get recommendations tailored to your goals, skills and interests."
+      },
+      "explore": {
+        "title": "Explore",
+        "description": "Discover the best courses, colleges, exams and scholarships for you."
+      },
+      "careerReady": {
+        "title": "Career Ready",
+        "description": "Find the right career path and job opportunities that fit your future."
+      },
+      "stayAhead": {
+        "title": "Stay Ahead",
+        "description": "Insights, trends and expert advice to help you stay future-ready."
+      }
+    }
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "google": "Continue with Google",
+    "phone": "Phone Number",
+    "sendOTP": "Send OTP",
+    "verifyOTP": "Verify OTP",
+    "offlineMode": "Offline Mode",
+    "offlineDescription": "Continue using cached data when offline"
+  },
+  "education": {
+    "title": "Where are you in your education journey?",
+    "tenth": "10th Grade",
+    "twelfth": "12th Grade", 
+    "undergraduate": "Undergraduate",
+    "postgraduate": "Postgraduate"
+  },
+  "quiz": {
+    "interests": "What are your interests?",
+    "interestsDescription": "Select all that apply",
+    "courses": "Recommended Courses",
+    "exams": "Relevant Exams",
+    "summary": "Your Recommendations",
+    "learnMore": "Learn more",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All"
+  },
+  "interests": {
+    "science": "Science",
+    "technology": "Technology",
+    "medicine": "Medicine",
+    "arts": "Arts",
+    "commerce": "Commerce",
+    "law": "Law",
+    "sports": "Sports",
+    "it": "Information Technology",
+    "design": "Design",
+    "agriculture": "Agriculture",
+    "socialService": "Social Service"
+  },
+  "dashboard": {
+    "title": "Your Dashboard",
+    "governmentColleges": "Government Colleges",
+    "nearby": "Nearby",
+    "national": "National",
+    "timeline": "Timeline Tracker",
+    "studyMaterials": "Study Materials",
+    "scholarships": "Scholarships",
+    "jobs": "Jobs & Career Services"
+  },
+  "colleges": {
+    "distance": "Distance",
+    "website": "Website",
+    "fees": "Fees",
+    "courses": "Courses",
+    "exams": "Exams",
+    "cutoffs": "Cutoffs",
+    "facilities": "Facilities"
+  },
+  "timeline": {
+    "addReminder": "Add Reminder",
+    "upcoming": "Upcoming",
+    "past": "Past"
+  },
+  "materials": {
+    "download": "Download for Offline",
+    "cached": "Cached",
+    "ebook": "E-book",
+    "course": "Course",
+    "video": "Video"
+  },
+  "scholarships": {
+    "category": "Category",
+    "income": "Annual Income",
+    "location": "Location",
+    "search": "Search Scholarships"
+  },
+  "offline": {
+    "title": "Offline Mode",
+    "description": "You're currently offline. Some features may be limited.",
+    "cachedData": "Cached Data Available",
+    "precache": "Precache Catalogs",
+    "capabilities": "Offline Capabilities"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "preferences": "Preferences",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "about": "About"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "continue": "Continue",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh"
+  }
+}

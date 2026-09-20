@@ -1,0 +1,142 @@
+[
+  {
+    "id": "computer_science",
+    "name": "Computer Science & Programming",
+    "relatedInterests": ["technology", "computers", "programming", "coding", "software_development"],
+    "recommendedCourses": ["puc_pcmc", "diploma_cse", "diploma_ise"],
+    "recommendedExams": ["kcet_karnataka", "comedk_uget"]
+  },
+  {
+    "id": "artificial_intelligence",
+    "name": "Artificial Intelligence & Machine Learning",
+    "relatedInterests": ["ai_ml", "technology", "robotics", "coding", "automation"],
+    "recommendedCourses": ["puc_pcmc", "diploma_cse", "diploma_mechatronics"],
+    "recommendedExams": ["kcet_karnataka", "comedk_uget"]
+  },
+  {
+    "id": "robotics_automation",
+    "name": "Robotics & Automation",
+    "relatedInterests": ["robotics", "automation", "electronics", "innovation", "machines"],
+    "recommendedCourses": ["puc_pcme", "diploma_mechatronics", "diploma_ece"],
+    "recommendedExams": ["kcet_karnataka", "comedk_uget"]
+  },
+  {
+    "id": "electronics_communication",
+    "name": "Electronics & Communication",
+    "relatedInterests": ["electronics", "circuits", "technology", "innovation"],
+    "recommendedCourses": ["puc_pcme", "diploma_ece"],
+    "recommendedExams": ["kcet_karnataka", "comedk_uget"]
+  },
+  {
+    "id": "mechanical_engineering",
+    "name": "Mechanical & Manufacturing Engineering",
+    "relatedInterests": ["machines", "mechanical_interest", "innovation", "manufacturing"],
+    "recommendedCourses": ["puc_pcmb", "diploma_mechanical", "iti_admission_karnataka"],
+    "recommendedExams": ["kcet_karnataka", "diploma_polytechnic_dcet"]
+  },
+  {
+    "id": "civil_architecture",
+    "name": "Civil Engineering & Architecture",
+    "relatedInterests": ["architecture", "construction", "design_thinking", "mathematics"],
+    "recommendedCourses": ["puc_pcmb", "diploma_civil"],
+    "recommendedExams": ["kcet_karnataka", "comedk_uget"]
+  },
+  {
+    "id": "medical_sciences",
+    "name": "Medical Sciences",
+    "relatedInterests": ["medicine", "biology", "healthcare", "human_body"],
+    "recommendedCourses": ["puc_pcmb", "puc_cbz"],
+    "recommendedExams": ["neet_ug"]
+  },
+  {
+    "id": "nursing_healthcare",
+    "name": "Nursing & Healthcare Support",
+    "relatedInterests": ["nursing", "patient_care", "healthcare", "helping_people"],
+    "recommendedCourses": ["puc_cbz", "healthcare_diploma"],
+    "recommendedExams": ["neet_ug"]
+  },
+  {
+    "id": "pharmacy_domain",
+    "name": "Pharmacy & Pharmaceutical Sciences",
+    "relatedInterests": ["medicine", "chemistry", "biology", "healthcare"],
+    "recommendedCourses": ["puc_pcmb", "puc_cbz"],
+    "recommendedExams": ["kcet_karnataka", "neet_ug"]
+  },
+  {
+    "id": "finance_accounting",
+    "name": "Finance & Accounting",
+    "relatedInterests": ["finance", "accounting", "economics", "business"],
+    "recommendedCourses": ["commerce_seba", "commerce_basm"],
+    "recommendedExams": ["ca_foundation_icai"]
+  },
+  {
+    "id": "business_management",
+    "name": "Business & Management",
+    "relatedInterests": ["business", "entrepreneurship", "leadership", "startup"],
+    "recommendedCourses": ["commerce_ceba", "commerce_heba"],
+    "recommendedExams": ["cseet_cs"]
+  },
+  {
+    "id": "banking_economics",
+    "name": "Banking & Economics",
+    "relatedInterests": ["economics", "banking", "finance", "analysis"],
+    "recommendedCourses": ["commerce_heba", "commerce_seba"],
+    "recommendedExams": ["ca_foundation_icai"]
+  },
+  {
+    "id": "law_public_policy",
+    "name": "Law & Public Policy",
+    "relatedInterests": ["law", "justice", "debate", "public_policy"],
+    "recommendedCourses": ["arts_heps", "arts_heba"],
+    "recommendedExams": ["clat"]
+  },
+  {
+    "id": "psychology_human_behavior",
+    "name": "Psychology & Human Behavior",
+    "relatedInterests": ["psychology", "helping_people", "human_behavior", "communication"],
+    "recommendedCourses": ["arts_psychology"],
+    "recommendedExams": ["ugc_net_india"]
+  },
+  {
+    "id": "journalism_media",
+    "name": "Journalism & Media Studies",
+    "relatedInterests": ["media", "communication", "writing", "content_creation"],
+    "recommendedCourses": ["arts_journalism"],
+    "recommendedExams": ["ielts_english"]
+  },
+  {
+    "id": "ui_ux_design",
+    "name": "UI/UX & Product Design",
+    "relatedInterests": ["ui_design", "creativity", "graphics", "product_design"],
+    "recommendedCourses": ["diploma_cse", "arts_journalism"],
+    "recommendedExams": ["nid_dat", "ceed_uceed"]
+  },
+  {
+    "id": "animation_multimedia",
+    "name": "Animation & Multimedia",
+    "relatedInterests": ["animation", "gaming", "graphics", "media"],
+    "recommendedCourses": ["diploma_cse", "arts_journalism"],
+    "recommendedExams": ["nid_dat"]
+  },
+  {
+    "id": "fashion_interior_design",
+    "name": "Fashion & Interior Design",
+    "relatedInterests": ["fashion", "drawing", "creativity", "interior_design"],
+    "recommendedCourses": ["diploma_civil"],
+    "recommendedExams": ["nid_dat"]
+  },
+  {
+    "id": "armed_forces",
+    "name": "Armed Forces & Defence Services",
+    "relatedInterests": ["defence", "discipline", "leadership", "fitness", "national_service"],
+    "recommendedCourses": ["puc_pcmb", "arts_heps"],
+    "recommendedExams": ["nda", "agniveer"]
+  },
+  {
+    "id": "civil_services",
+    "name": "Civil Services & Governance",
+    "relatedInterests": ["governance", "public_service", "administration", "politics"],
+    "recommendedCourses": ["arts_heps", "arts_heba"],
+    "recommendedExams": ["upsc_cse_india", "kpsc_kas_karnataka"]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "questionId": 1,
+    "question": "Which advanced specialization matches your career objectives?",
+    "multiSelect": true,
+    "options": [
+      { "id": "ai_ml_deep_spec", "label": "Artificial Intelligence, Data Engineering & Machine Learning", "mappedInterests": ["ai_ml", "data_science", "analytics", "research"] },
+      { "id": "cyber_cloud_spec", "label": "Cyber Defense, DevSecOps, Cloud & Distributed Systems", "mappedInterests": ["cyber_security", "cloud_computing", "devops", "network_security"] },
+      { "id": "fintech_quant_spec", "label": "FinTech, Quantitative Finance, Investment & Banking", "mappedInterests": ["finance", "banking", "investment", "analytics", "stock_market"] },
+      { "id": "biotech_health_spec", "label": "Biomedical Systems, Clinical Research & Health Sciences", "mappedInterests": ["biology", "medicine", "healthcare", "research"] }
+    ]
+  },
+  {
+    "questionId": 2,
+    "question": "What primary professional contribution do you want to make?",
+    "multiSelect": true,
+    "options": [
+      { "id": "tech_arch_contrib", "label": "Architecting scalable enterprise software products and platforms", "mappedInterests": ["software_development", "coding", "technology", "innovation"] },
+      { "id": "exec_lead_contrib", "label": "Leading corporate strategy, startup growth and business leadership", "mappedInterests": ["leadership", "management", "entrepreneurship", "business"] },
+      { "id": "public_policy_contrib", "label": "Shaping state/national public policy, governance and law", "mappedInterests": ["policy", "governance", "public_service", "law"] },
+      { "id": "creative_prod_contrib", "label": "Directing cutting-edge UI/UX, product design and interactive media", "mappedInterests": ["ui_ux", "product_design", "creativity", "media"] }
+    ]
+  },
+  {
+    "questionId": 3,
+    "question": "What is your target post-graduation milestone?",
+    "multiSelect": true,
+    "options": [
+      { "id": "global_masters", "label": "Higher studies (M.S. / M.Tech) at leading international or national institutes", "mappedInterests": ["global_education", "research", "international_careers"] },
+      { "id": "high_growth_startup", "label": "Building and scaling a venture-backed tech startup", "mappedInterests": ["startup", "entrepreneurship", "innovation"] },
+      { "id": "upsc_kpsc_milestone", "label": "Cracking competitive civil service exams (UPSC / KPSC)", "mappedInterests": ["public_service", "governance", "administration"] },
+      { "id": "defence_officer_milestone", "label": "Commissioning as an officer in the Indian Armed Forces", "mappedInterests": ["defence", "discipline", "national_service"] }
+    ]
+  }
+]

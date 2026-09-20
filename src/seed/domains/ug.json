@@ -1,0 +1,352 @@
+[
+  {
+    "id": "software_engineering",
+    "name": "Software Engineering",
+    "relatedInterests": [
+      "coding",
+      "software_development",
+      "technology",
+      "problem_solving",
+      "computers"
+    ],
+    "recommendedCourses": [
+      "be_cse",
+      "be_ise",
+      "bca",
+      "be_it"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka",
+      "comedk_uget"
+    ]
+  },
+  {
+    "id": "data_science_ai",
+    "name": "Data Science & Artificial Intelligence",
+    "relatedInterests": [
+      "data_science",
+      "ai_ml",
+      "analytics",
+      "technology",
+      "mathematics"
+    ],
+    "recommendedCourses": [
+      "be_ai_ds",
+      "bsc_data_science",
+      "be_cse",
+      "bsc_stats"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka",
+      "comedk_uget"
+    ]
+  },
+  {
+    "id": "cyber_security",
+    "name": "Cyber Security & Ethical Hacking",
+    "relatedInterests": [
+      "cyber_security",
+      "networking",
+      "technology",
+      "ethical_hacking"
+    ],
+    "recommendedCourses": [
+      "be_cse",
+      "be_ise",
+      "bca",
+      "bsc_forensic"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka",
+      "comedk_uget"
+    ]
+  },
+  {
+    "id": "electronics_embedded_systems",
+    "name": "Electronics & Embedded Systems",
+    "relatedInterests": [
+      "electronics",
+      "circuits",
+      "iot",
+      "innovation"
+    ],
+    "recommendedCourses": [
+      "be_ece",
+      "be_eee",
+      "be_rob"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka",
+      "comedk_uget"
+    ]
+  },
+  {
+    "id": "automobile_aeronautical",
+    "name": "Automobile & Aeronautical Engineering",
+    "relatedInterests": [
+      "automobile",
+      "aviation",
+      "machines",
+      "innovation"
+    ],
+    "recommendedCourses": [
+      "be_mech",
+      "be_aeronautical",
+      "barch"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka",
+      "comedk_uget",
+      "afcat"
+    ]
+  },
+  {
+    "id": "doctor_medical_field",
+    "name": "Medicine & Surgery",
+    "relatedInterests": [
+      "medicine",
+      "biology",
+      "healthcare",
+      "patient_care"
+    ],
+    "recommendedCourses": [
+      "mbbs",
+      "bds"
+    ],
+    "recommendedExams": [
+      "neet_ug"
+    ]
+  },
+  {
+    "id": "allied_health_sciences",
+    "name": "Allied Health Sciences",
+    "relatedInterests": [
+      "healthcare",
+      "rehabilitation",
+      "patient_support",
+      "biology"
+    ],
+    "recommendedCourses": [
+      "bpt",
+      "bsc_nursing",
+      "bsc_allied_health",
+      "bsc_mltech"
+    ],
+    "recommendedExams": [
+      "neet_ug"
+    ]
+  },
+  {
+    "id": "pharmaceutical_sciences",
+    "name": "Pharmaceutical Sciences",
+    "relatedInterests": [
+      "chemistry",
+      "medicine",
+      "drug_research",
+      "healthcare"
+    ],
+    "recommendedCourses": [
+      "bpharm",
+      "pharmd"
+    ],
+    "recommendedExams": [
+      "kcet_karnataka"
+    ]
+  },
+  {
+    "id": "chartered_accountancy",
+    "name": "Chartered Accountancy & Taxation",
+    "relatedInterests": [
+      "finance",
+      "taxation",
+      "accounting",
+      "economics"
+    ],
+    "recommendedCourses": [
+      "bcom",
+      "bba"
+    ],
+    "recommendedExams": [
+      "ca_foundation_icai"
+    ]
+  },
+  {
+    "id": "business_management_domain",
+    "name": "Business Management & Entrepreneurship",
+    "relatedInterests": [
+      "business",
+      "startup",
+      "leadership",
+      "marketing"
+    ],
+    "recommendedCourses": [
+      "bba",
+      "bba_analytics",
+      "bcom"
+    ],
+    "recommendedExams": [
+      "cseet_cs"
+    ]
+  },
+  {
+    "id": "banking_financial_services",
+    "name": "Banking & Financial Services",
+    "relatedInterests": [
+      "banking",
+      "finance",
+      "economics",
+      "analytics"
+    ],
+    "recommendedCourses": [
+      "bcom",
+      "ba_economics",
+      "bba"
+    ],
+    "recommendedExams": [
+      "ibps_po"
+    ]
+  },
+  {
+    "id": "legal_studies",
+    "name": "Legal Studies & Advocacy",
+    "relatedInterests": [
+      "law",
+      "justice",
+      "debate",
+      "critical_thinking"
+    ],
+    "recommendedCourses": [
+      "llb",
+      "ba_economics"
+    ],
+    "recommendedExams": [
+      "clat",
+      "lsat_india"
+    ]
+  },
+  {
+    "id": "psychology_counselling",
+    "name": "Psychology & Counselling",
+    "relatedInterests": [
+      "psychology",
+      "mental_health",
+      "helping_people",
+      "communication"
+    ],
+    "recommendedCourses": [
+      "ba_psychology",
+      "bsc_psychology"
+    ],
+    "recommendedExams": [
+      "ugc_net_india"
+    ]
+  },
+  {
+    "id": "media_mass_communication",
+    "name": "Media & Mass Communication",
+    "relatedInterests": [
+      "media",
+      "journalism",
+      "writing",
+      "content_creation"
+    ],
+    "recommendedCourses": [
+      "ba_journalism",
+      "bjmc"
+    ],
+    "recommendedExams": [
+      "ielts_english"
+    ]
+  },
+  {
+    "id": "graphic_ui_ux_design",
+    "name": "Graphic Design & UI/UX",
+    "relatedInterests": [
+      "ui_design",
+      "graphics",
+      "creativity",
+      "product_design"
+    ],
+    "recommendedCourses": [
+      "bdes",
+      "bsc_animation"
+    ],
+    "recommendedExams": [
+      "nid_dat",
+      "ceed_uceed"
+    ]
+  },
+  {
+    "id": "animation_vfx_gaming",
+    "name": "Animation, VFX & Gaming",
+    "relatedInterests": [
+      "animation",
+      "gaming",
+      "3d_design",
+      "media"
+    ],
+    "recommendedCourses": [
+      "bsc_animation",
+      "bdes"
+    ],
+    "recommendedExams": [
+      "nid_dat"
+    ]
+  },
+  {
+    "id": "fashion_design_domain",
+    "name": "Fashion & Lifestyle Design",
+    "relatedInterests": [
+      "fashion",
+      "creativity",
+      "drawing",
+      "design"
+    ],
+    "recommendedCourses": [
+      "bdes",
+      "bsc_animation"
+    ],
+    "recommendedExams": [
+      "nid_dat"
+    ]
+  },
+  {
+    "id": "defence_services",
+    "name": "Defence Services",
+    "relatedInterests": [
+      "defence",
+      "fitness",
+      "discipline",
+      "leadership",
+      "national_service"
+    ],
+    "recommendedCourses": [
+      "any_degree",
+      "engineering_degree"
+    ],
+    "recommendedExams": [
+      "nda",
+      "agniveer",
+      "tes"
+    ]
+  },
+  {
+    "id": "public_administration",
+    "name": "Public Administration & Governance",
+    "relatedInterests": [
+      "governance",
+      "policy",
+      "public_service",
+      "administration"
+    ],
+    "recommendedCourses": [
+      "ba_public_administration",
+      "ba_political_science",
+      "ba_social_work"
+    ],
+    "recommendedExams": [
+      "upsc_cse_india",
+      "kpsc_kas_karnataka"
+    ]
+  }
+]

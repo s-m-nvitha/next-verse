@@ -1,0 +1,88 @@
+[
+  {
+    "id": "karnataka_puc_admission_science",
+    "name": "Karnataka PUC Science Admission",
+    "category": "PUC Admission (Merit-Based)",
+    "duration": "2 Years (PUC I & II)",
+    "eligibility": "After SSLC / 10th - minimum 35% aggregate marks",
+    "description": "Admission to PUC Science streams (PCMB, PCMC, PCME, CBZ, PCMS) is merit-based, using SSLC/10th marks. No entrance exam required. Apply through the college's admission office or Karnataka DPAR online portal.",
+    "website": "https://schooleducation.kar.nic.in",
+    "linkedCourses": [
+      "puc_pcmb", "puc_pcmc", "puc_pcme", "puc_pcms", "puc_cbz", "puc_ebac"
+    ],
+    "relatedInterests": ["science", "mathematics", "biology", "medicine", "technology", "electronics"],
+    "educationLevel": "10th"
+  },
+  {
+    "id": "karnataka_puc_admission_commerce",
+    "name": "Karnataka PUC Commerce Admission",
+    "category": "PUC Admission (Merit-Based)",
+    "duration": "2 Years (PUC I & II)",
+    "eligibility": "After SSLC / 10th - minimum 35% aggregate marks",
+    "description": "Admission to PUC Commerce streams (SEBA, CEBA, HEBA, BASM) is merit-based, using SSLC marks. No entrance exam required. Apply directly to your chosen Junior College / Pre-University College.",
+    "website": "https://schooleducation.kar.nic.in",
+    "linkedCourses": [
+      "commerce_seba", "commerce_ceba", "commerce_heba", "commerce_basm"
+    ],
+    "relatedInterests": ["business", "finance", "accounting", "economics", "commerce"],
+    "educationLevel": "10th"
+  },
+  {
+    "id": "karnataka_puc_admission_arts",
+    "name": "Karnataka PUC Arts Admission",
+    "category": "PUC Admission (Merit-Based)",
+    "duration": "2 Years (PUC I & II)",
+    "eligibility": "After SSLC / 10th - minimum 35% aggregate marks",
+    "description": "Admission to PUC Arts streams (HEPS, HEBA, with Psychology, Journalism, etc.) is merit-based using SSLC marks. No entrance exam required. Apply directly to the Junior College of your choice.",
+    "website": "https://schooleducation.kar.nic.in",
+    "linkedCourses": [
+      "arts_heps", "arts_heba", "arts_psychology", "arts_journalism"
+    ],
+    "relatedInterests": ["arts", "history", "psychology", "communication", "media", "public_service"],
+    "educationLevel": "10th"
+  },
+  {
+    "id": "dte_karnataka_diploma_admission",
+    "name": "DTE Karnataka Diploma Admission (Merit-Based)",
+    "category": "Polytechnic Admission (Merit-Based)",
+    "duration": "3 Years Diploma Programme",
+    "eligibility": "After SSLC / 10th - based on SSLC marks (Mathematics & Science)",
+    "description": "Admission to Government and Aided Polytechnic / Diploma programmes across Karnataka is merit-based, managed by DTE (Directorate of Technical Education) Karnataka. No separate entrance exam is required for fresh 10th students. Apply at dte.karnataka.gov.in during the admission window.",
+    "website": "https://dte.karnataka.gov.in",
+    "linkedCourses": [
+      "diploma_cse", "diploma_ise", "diploma_ece", "diploma_mechanical",
+      "diploma_civil", "diploma_automobile", "diploma_mechatronics", "diploma_aeronautical"
+    ],
+    "relatedInterests": ["engineering", "technology", "electronics", "machines", "computers", "innovation", "robotics", "automation", "construction", "architecture"],
+    "educationLevel": "10th"
+  },
+  {
+    "id": "dcet_karnataka",
+    "name": "Diploma CET (DCET) - Lateral Entry to BE/BTech",
+    "category": "Polytechnic Lateral Entry Exam (Post-Diploma)",
+    "duration": "Conducted upon Diploma Completion",
+    "eligibility": "After completing 3-Year Polytechnic Diploma (KEA Lateral Entry into 2nd Year BE/B.Tech)",
+    "description": "DCET (Diploma Common Entrance Test) is conducted by KEA Karnataka for candidates completing a 3-year polytechnic diploma, providing lateral entry directly into the 2nd year (3rd semester) of BE/B.Tech programmes. For fresh 10th students, admission to the diploma programme itself is merit-based via DTE Karnataka.",
+    "website": "https://kea.kar.nic.in",
+    "linkedCourses": [
+      "diploma_cse", "diploma_ise", "diploma_ece", "diploma_mechanical",
+      "diploma_civil", "diploma_automobile", "diploma_mechatronics", "diploma_aeronautical"
+    ],
+    "relatedInterests": ["engineering", "technology", "electronics", "machines", "computers", "innovation", "robotics", "automation", "construction"],
+    "educationLevel": "10th"
+  },
+  {
+    "id": "iti_admission_karnataka",
+    "name": "ITI Admission - Karnataka (NCVT / SCVT)",
+    "category": "Vocational / Skill Training Admission",
+    "duration": "1-2 Years Trade Programme",
+    "eligibility": "After SSLC / 10th (some trades accept 8th pass)",
+    "description": "Industrial Training Institutes (ITI) offer trade-based vocational training in Electronics, Electrician, Fitter, Turner, Welder, and more. Admission is merit-based on SSLC marks via DTE Karnataka's online admission portal.",
+    "website": "https://itidoe.kar.nic.in",
+    "linkedCourses": [
+      "diploma_mechanical", "diploma_automobile", "diploma_ece", "diploma_civil"
+    ],
+    "relatedInterests": ["technical_skills", "electric_work", "mechanical_work", "automobile", "hands_on_learning", "machines"],
+    "educationLevel": "10th"
+  }
+]

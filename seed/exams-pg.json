@@ -1,0 +1,66 @@
+[
+  {
+    "id": "gate-pg",
+    "name": "GATE",
+    "level": "PG",
+    "description": "Graduate Aptitude Test in Engineering for PhD admissions",
+    "eligibility": "Master's degree in Engineering/Technology",
+    "subjects": ["Computer Science", "Mechanical", "Electrical", "Civil", "Electronics"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-02-15",
+    "resultDate": "2024-03-15",
+    "website": "https://gate.iitk.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "neet-pg",
+    "name": "NEET PG",
+    "level": "PG",
+    "description": "National Eligibility cum Entrance Test for postgraduate medical admissions",
+    "eligibility": "MBBS degree with minimum 50% marks",
+    "subjects": ["Pre-Clinical", "Para-Clinical", "Clinical"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-15",
+    "resultDate": "2024-06-30",
+    "website": "https://neetpg.nta.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "cat-pg",
+    "name": "CAT",
+    "level": "PG",
+    "description": "Common Admission Test for Executive MBA admissions",
+    "eligibility": "Master's degree with minimum 50% marks",
+    "subjects": ["Verbal Ability", "Quantitative Ability", "Data Interpretation", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-08-01",
+      "end": "2024-09-30"
+    },
+    "examDate": "2024-11-15",
+    "resultDate": "2024-12-31",
+    "website": "https://iimcat.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "gre-pg",
+    "name": "GRE",
+    "level": "PG",
+    "description": "Graduate Record Examination for international PhD admissions",
+    "eligibility": "Master's degree",
+    "subjects": ["Verbal Reasoning", "Quantitative Reasoning", "Analytical Writing"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "examDate": "2024-12-31",
+    "resultDate": "2024-12-31",
+    "website": "https://www.ets.org/gre",
+    "importance": "medium"
+  }
+]

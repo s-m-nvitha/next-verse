@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Interests Data</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-result { margin: 10px 0; padding: 10px; border-radius: 5px; }
+        .success { background-color: #d4edda; border: 1px solid #c3e6cb; color: #155724; }
+        .error { background-color: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; }
+        .info { background-color: #d1ecf1; border: 1px solid #bee5eb; color: #0c5460; }
+        pre { background: #f8f9fa; padding: 10px; border-radius: 3px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Testing Interests Data Loading</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testInterestsData() {
+            const results = document.getElementById('results');
+            
+            // Test different education levels
+            const levels = ['10th', '12th', 'ug', 'pg'];
+            
+            for (const level of levels) {
+                const testDiv = document.createElement('div');
+                testDiv.className = 'test-result info';
+                testDiv.innerHTML = `<h3>Testing ${level.toUpperCase()} interests...</h3>`;
+                results.appendChild(testDiv);
+                
+                try {
+                    const url = `/seed/interests-${level}.json`;
+                    console.log(`Testing: ${url}`);
+                    
+                    const response = await fetch(url);
+                    console.log(`Response for ${level}:`, response.status, response.ok);
+                    
+                    if (response.ok) {
+                        const data = await response.json();
+                        console.log(`Data for ${level}:`, data);
+                        
+                        const successDiv = document.createElement('div');
+                        successDiv.className = 'test-result success';
+                        successDiv.innerHTML = `
+                            <h4>✅ ${level.toUpperCase()} - SUCCESS</h4>
+                            <p><strong>Status:</strong> ${response.status}</p>
+                            <p><strong>Data Length:</strong> ${data.length}</p>
+                            <p><strong>First Item:</strong></p>
+                            <pre>${JSON.stringify(data[0], null, 2)}</pre>
+                        `;
+                        results.appendChild(successDiv);
+                    } else {
+                        const errorDiv = document.createElement('div');
+                        errorDiv.className = 'test-result error';
+                        errorDiv.innerHTML = `
+                            <h4>❌ ${level.toUpperCase()} - FAILED</h4>
+                            <p><strong>Status:</strong> ${response.status}</p>
+                            <p><strong>Status Text:</strong> ${response.statusText}</p>
+                        `;
+                        results.appendChild(errorDiv);
+                    }
+                } catch (error) {
+                    console.error(`Error testing ${level}:`, error);
+                    
+                    const errorDiv = document.createElement('div');
+                    errorDiv.className = 'test-result error';
+                    errorDiv.innerHTML = `
+                        <h4>❌ ${level.toUpperCase()} - ERROR</h4>
+                        <p><strong>Error:</strong> ${error.message}</p>
+                    `;
+                    results.appendChild(errorDiv);
+                }
+            }
+        }
+        
+        // Run the test when page loads
+        testInterestsData();
+    </script>
+</body>
+</html>

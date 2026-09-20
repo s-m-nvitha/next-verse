@@ -1,0 +1,532 @@
+[
+  {
+    "id": "science-(pcm-/-pcb-/-pcmb-background)-12th",
+    "name": "Science (PCM / PCB / PCMB background)",
+    "level": "12th",
+    "description": "Comprehensive Science (PCM / PCB / PCMB background) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "engineering-and-technology-→-b.tech-/-b.e-/-polytechnic-diploma-12th",
+    "name": "Engineering and technology → B.Tech / B.E / Polytechnic Diploma",
+    "level": "12th",
+    "description": "Comprehensive Engineering and technology → B.Tech / B.E / Polytechnic Diploma course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "medicine-and-healthcare-→-mbbs,-bds,-bams,-bhms,-bnys-12th",
+    "name": "Medicine and healthcare → MBBS, BDS, BAMS, BHMS, BNYS",
+    "level": "12th",
+    "description": "Comprehensive Medicine and healthcare → MBBS, BDS, BAMS, BHMS, BNYS course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "pharmacy-→-b.pharm,-d.pharm-12th",
+    "name": "Pharmacy → B.Pharm, D.Pharm",
+    "level": "12th",
+    "description": "Comprehensive Pharmacy → B.Pharm, D.Pharm course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "agriculture-and-allied-sciences-→-b.sc-agriculture,-horticulture,-sericulture,-fisheries-12th",
+    "name": "Agriculture and allied sciences → B.Sc Agriculture, Horticulture, Sericulture, Fisheries",
+    "level": "12th",
+    "description": "Comprehensive Agriculture and allied sciences → B.Sc Agriculture, Horticulture, Sericulture, Fisheries course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "veterinary-sciences-→-b.v.sc-and-ah-12th",
+    "name": "Veterinary sciences → B.V.Sc and AH",
+    "level": "12th",
+    "description": "Comprehensive Veterinary sciences → B.V.Sc and AH course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "nursing-→-b.sc-nursing,-gnm,-anm-12th",
+    "name": "Nursing → B.Sc Nursing, GNM, ANM",
+    "level": "12th",
+    "description": "Comprehensive Nursing → B.Sc Nursing, GNM, ANM course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "paramedical-fields-→-b.sc-in-medical-lab-technology,-radiology,-physiotherapy,-optometry-12th",
+    "name": "Paramedical fields → B.Sc in Medical Lab Technology, Radiology, Physiotherapy, Optometry",
+    "level": "12th",
+    "description": "Comprehensive Paramedical fields → B.Sc in Medical Lab Technology, Radiology, Physiotherapy, Optometry course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "pure-sciences-→-b.sc-physics,-chemistry,-maths,-biology,-biotechnology,-microbiology-12th",
+    "name": "Pure sciences → B.Sc Physics, Chemistry, Maths, Biology, Biotechnology, Microbiology",
+    "level": "12th",
+    "description": "Comprehensive Pure sciences → B.Sc Physics, Chemistry, Maths, Biology, Biotechnology, Microbiology course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "environmental-studies-and-forestry-→-b.sc-environmental-science,-forestry,-wildlife-12th",
+    "name": "Environmental studies and forestry → B.Sc Environmental Science, Forestry, Wildlife",
+    "level": "12th",
+    "description": "Comprehensive Environmental studies and forestry → B.Sc Environmental Science, Forestry, Wildlife course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "space-and-astronomy-→-b.sc-or-b.tech-in-astronomy,-astrophysics,-aerospace-12th",
+    "name": "Space and astronomy → B.Sc or B.Tech in Astronomy, Astrophysics, Aerospace",
+    "level": "12th",
+    "description": "Comprehensive Space and astronomy → B.Sc or B.Tech in Astronomy, Astrophysics, Aerospace course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "defense-services-→-nda-(after-pcm),-b.sc-or-b.a-in-defense-studies-12th",
+    "name": "Defense services → NDA (after PCM), B.Sc or B.A in Defense Studies",
+    "level": "12th",
+    "description": "Comprehensive Defense services → NDA (after PCM), B.Sc or B.A in Defense Studies course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "research-and-innovation-→-b.sc-(hons),-integrated-m.sc-12th",
+    "name": "Research and innovation → B.Sc (Hons), Integrated M.Sc",
+    "level": "12th",
+    "description": "Comprehensive Research and innovation → B.Sc (Hons), Integrated M.Sc course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "commerce-background-12th",
+    "name": "Commerce background",
+    "level": "12th",
+    "description": "Comprehensive Commerce background course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "accounting-and-finance-→-b.com-(general,-accounting,-finance),-baf-12th",
+    "name": "Accounting and finance → B.Com (General, Accounting, Finance), BAF",
+    "level": "12th",
+    "description": "Comprehensive Accounting and finance → B.Com (General, Accounting, Finance), BAF course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "banking-→-b.com-(banking-and-insurance),-bbm,-bba-(banking)-12th",
+    "name": "Banking → B.Com (Banking and Insurance), BBM, BBA (Banking)",
+    "level": "12th",
+    "description": "Comprehensive Banking → B.Com (Banking and Insurance), BBM, BBA (Banking) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "business-management-→-bba,-bbm-12th",
+    "name": "Business management → BBA, BBM",
+    "level": "12th",
+    "description": "Comprehensive Business management → BBA, BBM course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "entrepreneurship-→-bba-(entrepreneurship),-bms-12th",
+    "name": "Entrepreneurship → BBA (Entrepreneurship), BMS",
+    "level": "12th",
+    "description": "Comprehensive Entrepreneurship → BBA (Entrepreneurship), BMS course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "chartered-accountancy-/-cs-/-cma-→-professional-courses-(ca,-cs,-cma)-alongside-ug-12th",
+    "name": "Chartered Accountancy / CS / CMA → Professional courses (CA, CS, CMA) alongside UG",
+    "level": "12th",
+    "description": "Comprehensive Chartered Accountancy / CS / CMA → Professional courses (CA, CS, CMA) alongside UG course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "economics-→-b.a-(economics),-b.sc-economics-12th",
+    "name": "Economics → B.A (Economics), B.Sc Economics",
+    "level": "12th",
+    "description": "Comprehensive Economics → B.A (Economics), B.Sc Economics course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "marketing-and-sales-→-bba-(marketing),-b.com-(marketing)-12th",
+    "name": "Marketing and sales → BBA (Marketing), B.Com (Marketing)",
+    "level": "12th",
+    "description": "Comprehensive Marketing and sales → BBA (Marketing), B.Com (Marketing) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "e-commerce-and-digital-business-→-bba-(e-commerce),-bca-(with-e-business)-12th",
+    "name": "E-commerce and digital business → BBA (E-commerce), BCA (with e-business)",
+    "level": "12th",
+    "description": "Comprehensive E-commerce and digital business → BBA (E-commerce), BCA (with e-business) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "stock-market-and-investments-→-b.com-(financial-markets),-bba-(finance)-12th",
+    "name": "Stock market and investments → B.Com (Financial Markets), BBA (Finance)",
+    "level": "12th",
+    "description": "Comprehensive Stock market and investments → B.Com (Financial Markets), BBA (Finance) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "rural-development-and-cooperatives-→-b.a-(rural-development),-b.com-(rural-banking)-12th",
+    "name": "Rural development and cooperatives → B.A (Rural Development), B.Com (Rural Banking)",
+    "level": "12th",
+    "description": "Comprehensive Rural development and cooperatives → B.A (Rural Development), B.Com (Rural Banking) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "arts-/-humanities-background-12th",
+    "name": "Arts / Humanities background",
+    "level": "12th",
+    "description": "Comprehensive Arts / Humanities background course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "history-→-b.a-history-12th",
+    "name": "History → B.A History",
+    "level": "12th",
+    "description": "Comprehensive History → B.A History course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "geography-→-b.a-or-b.sc-geography-12th",
+    "name": "Geography → B.A or B.Sc Geography",
+    "level": "12th",
+    "description": "Comprehensive Geography → B.A or B.Sc Geography course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "political-science-→-b.a-political-science,-public-administration-12th",
+    "name": "Political science → B.A Political Science, Public Administration",
+    "level": "12th",
+    "description": "Comprehensive Political science → B.A Political Science, Public Administration course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "sociology-→-b.a-sociology-12th",
+    "name": "Sociology → B.A Sociology",
+    "level": "12th",
+    "description": "Comprehensive Sociology → B.A Sociology course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "psychology-→-b.a-or-b.sc-psychology-12th",
+    "name": "Psychology → B.A or B.Sc Psychology",
+    "level": "12th",
+    "description": "Comprehensive Psychology → B.A or B.Sc Psychology course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "philosophy-→-b.a-philosophy-12th",
+    "name": "Philosophy → B.A Philosophy",
+    "level": "12th",
+    "description": "Comprehensive Philosophy → B.A Philosophy course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "languages-and-literature-→-b.a-english,-regional-languages,-foreign-languages-12th",
+    "name": "Languages and literature → B.A English, regional languages, foreign languages",
+    "level": "12th",
+    "description": "Comprehensive Languages and literature → B.A English, regional languages, foreign languages course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "journalism-and-mass-communication-→-b.a-journalism,-bjmc-12th",
+    "name": "Journalism and mass communication → B.A Journalism, BJMC",
+    "level": "12th",
+    "description": "Comprehensive Journalism and mass communication → B.A Journalism, BJMC course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "law-and-legal-studies-→-5-year-integrated-llb-(ba-llb,-bba-llb,-b.com-llb)-12th",
+    "name": "Law and legal studies → 5-year Integrated LLB (BA LLB, BBA LLB, B.Com LLB)",
+    "level": "12th",
+    "description": "Comprehensive Law and legal studies → 5-year Integrated LLB (BA LLB, BBA LLB, B.Com LLB) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "education-and-teaching-→-b.a-or-b.sc-plus-b.ed,-diploma-in-education-12th",
+    "name": "Education and teaching → B.A or B.Sc plus B.Ed, Diploma in Education",
+    "level": "12th",
+    "description": "Comprehensive Education and teaching → B.A or B.Sc plus B.Ed, Diploma in Education course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "social-service-and-community-work-→-bsw-(bachelor-of-social-work)-12th",
+    "name": "Social service and community work → BSW (Bachelor of Social Work)",
+    "level": "12th",
+    "description": "Comprehensive Social service and community work → BSW (Bachelor of Social Work) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "fine-arts-→-bfa-(painting,-sculpture),-bpa-(music,-dance,-theatre)-12th",
+    "name": "Fine arts → BFA (painting, sculpture), BPA (music, dance, theatre)",
+    "level": "12th",
+    "description": "Comprehensive Fine arts → BFA (painting, sculpture), BPA (music, dance, theatre) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "cultural-studies-→-b.a-cultural-studies,-anthropology-12th",
+    "name": "Cultural studies → B.A Cultural Studies, Anthropology",
+    "level": "12th",
+    "description": "Comprehensive Cultural studies → B.A Cultural Studies, Anthropology course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "vocational-/-skill-based-(independent-of-stream)-12th",
+    "name": "Vocational / Skill-based (independent of stream)",
+    "level": "12th",
+    "description": "Comprehensive Vocational / Skill-based (independent of stream) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "it-and-computer-applications-→-bca,-diploma-in-computer-applications,-b.sc-it-12th",
+    "name": "IT and computer applications → BCA, Diploma in Computer Applications, B.Sc IT",
+    "level": "12th",
+    "description": "Comprehensive IT and computer applications → BCA, Diploma in Computer Applications, B.Sc IT course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "mobile-and-hardware-repair-→-vocational-diploma,-iti-12th",
+    "name": "Mobile and hardware repair → Vocational diploma, ITI",
+    "level": "12th",
+    "description": "Comprehensive Mobile and hardware repair → Vocational diploma, ITI course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "tailoring,-embroidery,-fashion-design-→-b.sc-fashion-design,-diploma-in-fashion-technology-12th",
+    "name": "Tailoring, embroidery, fashion design → B.Sc Fashion Design, Diploma in Fashion Technology",
+    "level": "12th",
+    "description": "Comprehensive Tailoring, embroidery, fashion design → B.Sc Fashion Design, Diploma in Fashion Technology course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "beauty-and-wellness-→-diploma-or-b.sc-cosmetology,-beauty-therapy-12th",
+    "name": "Beauty and wellness → Diploma or B.Sc Cosmetology, Beauty Therapy",
+    "level": "12th",
+    "description": "Comprehensive Beauty and wellness → Diploma or B.Sc Cosmetology, Beauty Therapy course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "hospitality-and-tourism-→-bhm-(hotel-management),-bttm-(travel-and-tourism)-12th",
+    "name": "Hospitality and tourism → BHM (Hotel Management), BTTM (Travel and Tourism)",
+    "level": "12th",
+    "description": "Comprehensive Hospitality and tourism → BHM (Hotel Management), BTTM (Travel and Tourism) course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "culinary-arts-and-baking-→-b.sc-culinary-arts,-diploma-in-bakery-and-confectionery-12th",
+    "name": "Culinary arts and baking → B.Sc Culinary Arts, Diploma in Bakery and Confectionery",
+    "level": "12th",
+    "description": "Comprehensive Culinary arts and baking → B.Sc Culinary Arts, Diploma in Bakery and Confectionery course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "driving-and-logistics-→-diploma-in-logistics-and-transport,-professional-driving-licenses-and-certificate-courses-12th",
+    "name": "Driving and logistics → Diploma in Logistics and Transport, professional driving licenses and certificate courses",
+    "level": "12th",
+    "description": "Comprehensive Driving and logistics → Diploma in Logistics and Transport, professional driving licenses and certificate courses course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "electrical,-plumbing,-welding,-carpentry,-mechanics-→-iti,-polytechnic-diplomas-12th",
+    "name": "Electrical, plumbing, welding, carpentry, mechanics → ITI, Polytechnic Diplomas",
+    "level": "12th",
+    "description": "Comprehensive Electrical, plumbing, welding, carpentry, mechanics → ITI, Polytechnic Diplomas course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "photography-and-videography-→-diploma-in-photography,-bfa-photography-12th",
+    "name": "Photography and videography → Diploma in Photography, BFA Photography",
+    "level": "12th",
+    "description": "Comprehensive Photography and videography → Diploma in Photography, BFA Photography course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "film-making-and-editing-→-b.sc-film-and-media,-diploma-in-editing-or-direction-12th",
+    "name": "Film-making and editing → B.Sc Film and Media, Diploma in Editing or Direction",
+    "level": "12th",
+    "description": "Comprehensive Film-making and editing → B.Sc Film and Media, Diploma in Editing or Direction course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "folk-arts,-music,-dance,-theatre-→-bpa-(music,-dance,-theatre),-diploma-courses-12th",
+    "name": "Folk arts, music, dance, theatre → BPA (Music, Dance, Theatre), Diploma courses",
+    "level": "12th",
+    "description": "Comprehensive Folk arts, music, dance, theatre → BPA (Music, Dance, Theatre), Diploma courses course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "sports-and-athletics-→-bped-(physical-education),-b.sc-sports-science-12th",
+    "name": "Sports and athletics → BPEd (Physical Education), B.Sc Sports Science",
+    "level": "12th",
+    "description": "Comprehensive Sports and athletics → BPEd (Physical Education), B.Sc Sports Science course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "content-creation-(youtube,-reels,-blogs)-→-b.a-mass-communication,-b.sc-digital-media,-certificate-in-digital-marketing-12th",
+    "name": "Content creation (YouTube, reels, blogs) → B.A Mass Communication, B.Sc Digital Media, Certificate in Digital Marketing",
+    "level": "12th",
+    "description": "Comprehensive Content creation (YouTube, reels, blogs) → B.A Mass Communication, B.Sc Digital Media, Certificate in Digital Marketing course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  },
+  {
+    "id": "event-management-→-bba-event-management,-diploma-in-event-planning-12th",
+    "name": "Event management → BBA Event Management, Diploma in Event Planning",
+    "level": "12th",
+    "description": "Comprehensive Event management → BBA Event Management, Diploma in Event Planning course",
+    "subjects": [],
+    "duration": "1 year",
+    "careerPaths": [],
+    "nextSteps": []
+  }
+]

@@ -1,0 +1,61 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Users can read and write their own profile
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Public catalogs are readable by all authenticated users
+    match /catalogs/{catalogId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins can write to catalogs
+    }
+    
+    // User's saved items
+    match /users/{userId}/savedColleges/{itemId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    match /users/{userId}/savedMaterials/{itemId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    match /users/{userId}/recommendations/{itemId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    match /users/{userId}/timeline/{itemId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Public timeline items (national events)
+    match /timeline/{itemId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins can write
+    }
+    
+    // Scholarships are readable by all authenticated users
+    match /scholarships/{scholarshipId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins can write
+    }
+    
+    // Jobs are readable by all authenticated users
+    match /jobs/{jobId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins can write
+    }
+    
+    // Study materials are readable by all authenticated users
+    match /materials/{materialId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins can write
+    }
+    
+    // Admin collection for system management
+    match /admin/{document=**} {
+      allow read, write: if false; // Only Firebase Admin SDK
+    }
+  }
+}

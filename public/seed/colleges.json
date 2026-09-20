@@ -1,0 +1,97 @@
+[
+  {
+    "id": "iit-delhi",
+    "name": "Indian Institute of Technology Delhi",
+    "type": "govt",
+    "location": {
+      "lat": 28.5451,
+      "lng": 77.1855
+    },
+    "website": "https://iitd.ac.in",
+    "fees": 250000,
+    "courses": ["Computer Science", "Mechanical", "Electrical", "Civil"],
+    "exams": ["JEE Advanced"],
+    "cutoffs": {
+      "cs": 98.5,
+      "mechanical": 95.2,
+      "electrical": 96.8
+    },
+    "facilities": ["Hostel", "Library", "Sports Complex", "Research Labs"]
+  },
+  {
+    "id": "iit-bombay",
+    "name": "Indian Institute of Technology Bombay",
+    "type": "govt",
+    "location": {
+      "lat": 19.1334,
+      "lng": 72.9133
+    },
+    "website": "https://iitb.ac.in",
+    "fees": 250000,
+    "courses": ["Computer Science", "Mechanical", "Chemical", "Aerospace"],
+    "exams": ["JEE Advanced"],
+    "cutoffs": {
+      "cs": 99.1,
+      "mechanical": 96.5,
+      "chemical": 94.2
+    },
+    "facilities": ["Hostel", "Library", "Sports Complex", "Research Labs", "Incubation Center"]
+  },
+  {
+    "id": "nit-trichy",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "type": "govt",
+    "location": {
+      "lat": 10.7589,
+      "lng": 78.8187
+    },
+    "website": "https://nitt.edu",
+    "fees": 180000,
+    "courses": ["Computer Science", "Mechanical", "Civil", "Electronics"],
+    "exams": ["JEE Main"],
+    "cutoffs": {
+      "cs": 95.8,
+      "mechanical": 92.1,
+      "civil": 89.5
+    },
+    "facilities": ["Hostel", "Library", "Sports Complex", "Research Labs"]
+  },
+  {
+    "id": "du",
+    "name": "Delhi University",
+    "type": "govt",
+    "location": {
+      "lat": 28.6895,
+      "lng": 77.2113
+    },
+    "website": "https://du.ac.in",
+    "fees": 50000,
+    "courses": ["Arts", "Science", "Commerce", "Law"],
+    "exams": ["CUET"],
+    "cutoffs": {
+      "economics": 98.2,
+      "physics": 95.8,
+      "english": 97.5
+    },
+    "facilities": ["Library", "Sports Complex", "Cultural Center"]
+  },
+  {
+    "id": "jnu",
+    "name": "Jawaharlal Nehru University",
+    "type": "govt",
+    "location": {
+      "lat": 28.5451,
+      "lng": 77.1655
+    },
+    "website": "https://jnu.ac.in",
+    "fees": 30000,
+    "courses": ["International Relations", "Economics", "Political Science", "Languages"],
+    "exams": ["JNUEE"],
+    "cutoffs": {
+      "international-relations": 96.5,
+      "economics": 94.8,
+      "political-science": 92.1
+    },
+    "facilities": ["Hostel", "Library", "Sports Complex", "Cultural Center"]
+  }
+]

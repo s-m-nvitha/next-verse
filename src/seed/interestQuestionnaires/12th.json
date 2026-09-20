@@ -1,0 +1,112 @@
+[
+  {
+    "questionId": 1,
+    "question": "Which broad field or domain excites you the most?",
+    "multiSelect": true,
+    "options": [
+      { "id": "software_tech_area", "label": "Software Development, AI & Modern Technology", "mappedInterests": ["coding", "software_development", "technology", "computers"] },
+      { "id": "medical_health_area", "label": "Medicine, Healthcare, Biology & Patient Care", "mappedInterests": ["medicine", "healthcare", "biology", "patient_care"] },
+      { "id": "business_finance_area", "label": "Business, Startups, Finance & Management", "mappedInterests": ["business", "startup", "finance", "management", "entrepreneurship"] },
+      { "id": "creative_design_area", "label": "Creative Arts, UI/UX, Media & Animation", "mappedInterests": ["design", "creativity", "ui_ux", "graphics", "media"] }
+    ]
+  },
+  {
+    "questionId": 2,
+    "question": "Which specific technology areas do you find most interesting?",
+    "multiSelect": true,
+    "options": [
+      { "id": "ai_ds_tech", "label": "Artificial Intelligence, Data Science & Machine Learning", "mappedInterests": ["ai_ml", "data_science", "analytics", "automation"] },
+      { "id": "cyber_cloud_tech", "label": "Cyber Security, Ethical Hacking & Cloud Computing", "mappedInterests": ["cyber_security", "ethical_hacking", "network_security", "cloud_computing", "devops"] },
+      { "id": "robotics_iot_tech", "label": "Robotics, IoT, Electronics & Smart Hardware", "mappedInterests": ["robotics", "iot", "electronics", "machines", "innovation"] },
+      { "id": "coding_software_tech", "label": "Web/App Development, Programming & Algorithms", "mappedInterests": ["coding", "software_development", "problem_solving", "technology"] }
+    ]
+  },
+  {
+    "questionId": 3,
+    "question": "What type of day-to-day work would you find most fulfilling?",
+    "multiSelect": true,
+    "options": [
+      { "id": "research_work", "label": "Conducting scientific research, experiments and solving complex puzzles", "mappedInterests": ["research", "science", "mathematics", "problem_solving"] },
+      { "id": "management_work", "label": "Leading teams, managing operations and launching business ventures", "mappedInterests": ["management", "leadership", "business", "entrepreneurship"] },
+      { "id": "healthcare_work", "label": "Diagnosing illnesses, treating patients and improving human health", "mappedInterests": ["patient_care", "medicine", "healthcare", "patient_support"] },
+      { "id": "design_work", "label": "Designing digital interfaces, 3D animations and visual storytelling", "mappedInterests": ["ui_ux", "graphics", "product_design", "animation", "storytelling"] }
+    ]
+  },
+  {
+    "questionId": 4,
+    "question": "Which academic subjects or topics are your strongest skills?",
+    "multiSelect": true,
+    "options": [
+      { "id": "math_strength", "label": "Mathematics, Statistics & Analytical Reasoning", "mappedInterests": ["mathematics", "analytics", "problem_solving", "data_science"] },
+      { "id": "biology_strength", "label": "Biology, Life Sciences, Anatomy & Genetics", "mappedInterests": ["biology", "medicine", "healthcare"] },
+      { "id": "commerce_strength", "label": "Economics, Accountancy, Banking & Investment", "mappedInterests": ["finance", "economics", "accounting", "banking", "investment"] },
+      { "id": "humanities_strength", "label": "Law, Public Policy, Governance & Social Psychology", "mappedInterests": ["law", "justice", "governance", "public_service", "psychology"] }
+    ]
+  },
+  {
+    "questionId": 5,
+    "question": "Which industry sectors inspire you the most?",
+    "multiSelect": true,
+    "options": [
+      { "id": "it_software_ind", "label": "Tech Giants, AI Labs & Fast-Growing Software Startups", "mappedInterests": ["technology", "software_development", "innovation", "ai_ml"] },
+      { "id": "hospital_health_ind", "label": "Multi-Speciality Hospitals, Biotech Labs & Clinics", "mappedInterests": ["healthcare", "medicine", "biology", "patient_support"] },
+      { "id": "finance_bank_ind", "label": "Investment Banks, Stock Exchanges & Fintech Firms", "mappedInterests": ["banking", "finance", "stock_market", "investment"] },
+      { "id": "media_gaming_ind", "label": "Gaming Studios, Film Production & Digital Design Agencies", "mappedInterests": ["gaming", "animation", "film_making", "media", "creativity"] }
+    ]
+  },
+  {
+    "questionId": 6,
+    "question": "Which hands-on activities do you enjoy spending your free time on?",
+    "multiSelect": true,
+    "options": [
+      { "id": "coding_activity", "label": "Building software, coding projects or learning new frameworks", "mappedInterests": ["coding", "software_development", "technology"] },
+      { "id": "market_activity", "label": "Tracking stock markets, crypto, or business trends", "mappedInterests": ["stock_market", "investment", "business", "economics"] },
+      { "id": "creative_media_activity", "label": "Creating digital art, video editing, UI design or writing", "mappedInterests": ["graphics", "animation", "content_creation", "writing", "design"] },
+      { "id": "hardware_science_activity", "label": "Tinkering with electronics, robotics kits or scientific DIYs", "mappedInterests": ["electronics", "robotics", "machines", "science"] }
+    ]
+  },
+  {
+    "questionId": 7,
+    "question": "What is your primary career motivation?",
+    "multiSelect": true,
+    "options": [
+      { "id": "tech_innovation_mot", "label": "Inventing next-generation technology and AI tools", "mappedInterests": ["innovation", "ai_ml", "robotics", "technology"] },
+      { "id": "public_service_mot", "label": "Serving the nation, uplifting society, or defending the country", "mappedInterests": ["public_service", "governance", "defence", "national_service", "discipline"] },
+      { "id": "business_wealth_mot", "label": "Building high-growth businesses and mastering financial markets", "mappedInterests": ["finance", "entrepreneurship", "management", "startup"] },
+      { "id": "helping_humanity_mot", "label": "Saving human lives, nursing, and advancing medical wellness", "mappedInterests": ["medicine", "healthcare", "patient_care", "nursing"] }
+    ]
+  },
+  {
+    "questionId": 8,
+    "question": "Which dream role aligns closest with your aspirations?",
+    "multiSelect": true,
+    "options": [
+      { "id": "data_scientist_role", "label": "AI / Data Scientist or Software Architect", "mappedInterests": ["data_science", "ai_ml", "software_development", "analytics"] },
+      { "id": "surgeon_doctor_role", "label": "Physician, Surgeon, or Medical Specialist", "mappedInterests": ["medicine", "healthcare", "patient_care", "biology"] },
+      { "id": "corporate_lawyer_role", "label": "Corporate Lawyer, Judge, or Public Administrator", "mappedInterests": ["law", "justice", "policy", "administration"] },
+      { "id": "creative_director_role", "label": "Product / UI-UX Designer, Game Creator or Creative Director", "mappedInterests": ["ui_ux", "product_design", "animation", "gaming", "creativity"] }
+    ]
+  },
+  {
+    "questionId": 9,
+    "question": "Which leadership and public roles appeal to you?",
+    "multiSelect": true,
+    "options": [
+      { "id": "startup_founder_lead", "label": "Tech Startup Founder or Tech Entrepreneur", "mappedInterests": ["startup", "entrepreneurship", "leadership", "innovation"] },
+      { "id": "civil_servant_lead", "label": "IAS / Civil Services & Public Policy Governance", "mappedInterests": ["governance", "policy", "administration", "public_service"] },
+      { "id": "defence_officer_lead", "label": "Armed Forces / Defence Services & National Leadership", "mappedInterests": ["defence", "discipline", "national_service", "leadership"] },
+      { "id": "finance_executive_lead", "label": "Chartered Accountant, Investment Banker or CFO", "mappedInterests": ["accounting", "finance", "banking", "management"] }
+    ]
+  },
+  {
+    "questionId": 10,
+    "question": "What is your vision for your future education and career horizon?",
+    "multiSelect": true,
+    "options": [
+      { "id": "global_career_vis", "label": "Studying at top global universities and working internationally", "mappedInterests": ["global_education", "international_careers", "research"] },
+      { "id": "cutting_edge_research_vis", "label": "Pioneering deep research in science, robotics or medicine", "mappedInterests": ["research", "science", "innovation", "robotics"] },
+      { "id": "karnataka_governance_vis", "label": "Making a direct impact in Karnataka's public administration & law", "mappedInterests": ["public_service", "administration", "law", "policy"] },
+      { "id": "digital_creator_vis", "label": "Becoming a world-class digital creator, UI/UX expert or animator", "mappedInterests": ["media", "design", "ui_ux", "animation"] }
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "ssp_pre_matric_scst",
+    "name": "SSP Pre-Matric Scholarship",
+    "provider": "Government of Karnataka",
+    "level": "10th",
+    "eligibleCourses": ["puc_science", "puc_commerce", "puc_arts", "polytechnic"],
+    "eligibility": {
+      "category": ["SC", "ST"],
+      "incomeLimitInr": 250000
+    },
+    "benefits": ["Fee Reimbursement", "Maintenance Allowance"],
+    "officialWebsite": "https://ssp.karnataka.gov.in"
+  },
+  {
+    "id": "national_means_merit",
+    "name": "National Means-cum-Merit Scholarship",
+    "provider": "Government of India",
+    "level": "10th",
+    "eligibleCourses": ["puc", "diploma"],
+    "eligibility": {
+      "minimumMarks": "55%",
+      "incomeLimitInr": 350000
+    },
+    "benefits": ["Annual Scholarship Support"],
+    "officialWebsite": "https://scholarships.gov.in"
+  },
+  {
+    "id": "vidyasiri_scheme",
+    "name": "Vidyasiri Scholarship",
+    "provider": "Government of Karnataka",
+    "level": "10th",
+    "eligibleCourses": ["puc", "polytechnic"],
+    "eligibility": {
+      "category": ["OBC", "Minority"],
+      "incomeLimitInr": 100000
+    },
+    "benefits": ["Food and Accommodation Assistance"],
+    "officialWebsite": "https://bcwd.karnataka.gov.in"
+  },
+
+  {
+    "id": "ssp_post_matric",
+    "name": "SSP Post-Matric Scholarship",
+    "provider": "Government of Karnataka",
+    "level": "12th",
+    "eligibleCourses": ["btech", "bsc", "bca", "bcom", "mbbs", "law"],
+    "eligibility": {
+      "category": ["SC", "ST", "OBC"],
+      "incomeLimitInr": 250000
+    },
+    "benefits": ["Tuition Fee Reimbursement", "Maintenance Allowance"],
+    "officialWebsite": "https://ssp.postmatric.karnataka.gov.in"
+  },
+  {
+    "id": "pragati_scholarship",
+    "name": "AICTE Pragati Scholarship for Girls",
+    "provider": "AICTE",
+    "level": "12th",
+    "eligibleCourses": ["engineering", "diploma"],
+    "eligibility": {
+      "gender": ["Female"],
+      "familyIncomeInr": 800000
+    },
+    "benefits": ["50,000 per year"],
+    "officialWebsite": "https://www.aicte-india.org"
+  },
+  {
+    "id": "saksham_scholarship",
+    "name": "AICTE Saksham Scholarship",
+    "provider": "AICTE",
+    "level": "12th",
+    "eligibleCourses": ["engineering", "technical_courses"],
+    "eligibility": {
+      "specialCategory": ["Differently Abled"]
+    },
+    "benefits": ["50,000 per year"],
+    "officialWebsite": "https://www.aicte-india.org"
+  },
+  {
+    "id": "minority_scholarship",
+    "name": "Minority Scholarship Scheme",
+    "provider": "Government of India",
+    "level": "12th",
+    "eligibleCourses": ["ug_courses"],
+    "eligibility": {
+      "category": ["Minority"],
+      "minimumMarks": "50%"
+    },
+    "benefits": ["Course Fee Support"],
+    "officialWebsite": "https://scholarships.gov.in"
+  },
+
+  {
+    "id": "ssp_ug_scholarship",
+    "name": "Karnataka SSP UG Scholarship",
+    "provider": "Government of Karnataka",
+    "level": "UG",
+    "eligibleCourses": ["engineering", "medical", "commerce", "arts", "science"],
+    "eligibility": {
+      "category": ["SC", "ST", "OBC", "EWS"],
+      "incomeLimitInr": 250000
+    },
+    "benefits": ["Tuition Fee Reimbursement", "Hostel Support"],
+    "officialWebsite": "https://ssp.postmatric.karnataka.gov.in"
+  },
+  {
+    "id": "inspire_scholarship",
+    "name": "INSPIRE Scholarship",
+    "provider": "Department of Science and Technology",
+    "level": "UG",
+    "eligibleCourses": ["bsc", "research_programs"],
+    "eligibility": {
+      "academicPerformance": "Top Performers in Science"
+    },
+    "benefits": ["80,000 per year"],
+    "officialWebsite": "https://online-inspire.gov.in"
+  },
+  {
+    "id": "lic_hfl_vidyadhan",
+    "name": "LIC HFL Vidyadhan Scholarship",
+    "provider": "LIC Housing Finance",
+    "level": "UG",
+    "eligibleCourses": ["engineering", "medical", "graduation"],
+    "eligibility": {
+      "incomeLimitInr": 300000
+    },
+    "benefits": ["Financial Assistance"],
+    "officialWebsite": "https://www.lichousing.com"
+  },
+  {
+    "id": "kotak_scholarship",
+    "name": "Kotak Kanya Scholarship",
+    "provider": "Kotak Education Foundation",
+    "level": "UG",
+    "eligibleCourses": ["professional_courses"],
+    "eligibility": {
+      "gender": ["Female"],
+      "minimumMarks": "75%"
+    },
+    "benefits": ["Annual Financial Support"],
+    "officialWebsite": "https://www.kotakeducation.org"
+  },
+
+  {
+    "id": "ugc_net_jrf",
+    "name": "UGC NET JRF Fellowship",
+    "provider": "UGC",
+    "level": "PG",
+    "eligibleCourses": ["phd", "research"],
+    "eligibility": {
+      "qualification": "PG Degree"
+    },
+    "benefits": ["Monthly Fellowship", "Research Grant"],
+    "officialWebsite": "https://ugcnet.nta.nic.in"
+  },
+  {
+    "id": "gate_scholarship",
+    "name": "AICTE GATE Scholarship",
+    "provider": "AICTE",
+    "level": "PG",
+    "eligibleCourses": ["mtech", "me"],
+    "eligibility": {
+      "requirement": "Valid GATE Score"
+    },
+    "benefits": ["Monthly Stipend"],
+    "officialWebsite": "https://www.aicte-india.org"
+  },
+  {
+    "id": "csir_fellowship",
+    "name": "CSIR Research Fellowship",
+    "provider": "CSIR",
+    "level": "PG",
+    "eligibleCourses": ["science_research", "phd"],
+    "eligibility": {
+      "qualification": "Science PG Degree"
+    },
+    "benefits": ["Research Funding", "Monthly Fellowship"],
+    "officialWebsite": "https://csirhrdg.res.in"
+  },
+  {
+    "id": "national_fellowship_obc",
+    "name": "National Fellowship for OBC Students",
+    "provider": "Government of India",
+    "level": "PG",
+    "eligibleCourses": ["mphil", "phd"],
+    "eligibility": {
+      "category": ["OBC"]
+    },
+    "benefits": ["Monthly Fellowship", "Academic Support"],
+    "officialWebsite": "https://scholarships.gov.in"
+  }
+]

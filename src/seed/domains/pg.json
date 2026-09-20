@@ -1,0 +1,142 @@
+[
+  {
+    "id": "artificial_intelligence_research",
+    "name": "Artificial Intelligence Research & Innovation",
+    "relatedInterests": ["ai_ml", "deep_learning", "research", "innovation", "data_science"],
+    "recommendedCourses": ["phd_ai", "phd_cs"],
+    "recommendedExams": ["gate_india", "gre_global_studies", "ugc_net_phd"]
+  },
+  {
+    "id": "advanced_data_science",
+    "name": "Advanced Data Science & Computational Analytics",
+    "relatedInterests": ["data_science", "analytics", "statistics", "machine_learning"],
+    "recommendedCourses": ["phd_data_science", "msc_data"],
+    "recommendedExams": ["gate_india", "gre_global_studies"]
+  },
+  {
+    "id": "scientific_research_innovation",
+    "name": "Scientific Research & Innovation",
+    "relatedInterests": ["physics", "chemistry", "biology", "research", "innovation"],
+    "recommendedCourses": ["phd_science"],
+    "recommendedExams": ["csir_net_science", "ugc_net_phd"]
+  },
+  {
+    "id": "space_and_aerospace_research",
+    "name": "Space Technology & Aerospace Research",
+    "relatedInterests": ["space", "aviation", "satellites", "physics", "innovation"],
+    "recommendedCourses": ["phd_aerospace", "mtech_aerospace"],
+    "recommendedExams": ["gate_india", "isro_scientist_exam"]
+  },
+  {
+    "id": "corporate_leadership",
+    "name": "Corporate Leadership & Executive Management",
+    "relatedInterests": ["leadership", "management", "business_strategy", "entrepreneurship"],
+    "recommendedCourses": ["executive_mba", "mba"],
+    "recommendedExams": ["cat_india", "gmat_mba_abroad"]
+  },
+  {
+    "id": "investment_banking_domain",
+    "name": "Investment Banking & Financial Strategy",
+    "relatedInterests": ["finance", "investment", "economics", "stock_market"],
+    "recommendedCourses": ["mba_finance", "mcom"],
+    "recommendedExams": ["rbi_grade_b", "ca_final_exam"]
+  },
+  {
+    "id": "startup_and_innovation_management",
+    "name": "Startup & Innovation Management",
+    "relatedInterests": ["startup", "innovation", "business", "entrepreneurship"],
+    "recommendedCourses": ["mba", "executive_mba"],
+    "recommendedExams": ["cat_india", "gmat_mba_abroad"]
+  },
+  {
+    "id": "indian_administrative_services",
+    "name": "Indian Administrative & Civil Services",
+    "relatedInterests": ["governance", "policy", "administration", "public_service"],
+    "recommendedCourses": ["mpa", "ma_political_science"],
+    "recommendedExams": ["upsc_cse_india", "kpsc_kas_karnataka"]
+  },
+  {
+    "id": "foreign_services_diplomacy",
+    "name": "Foreign Services & Diplomacy",
+    "relatedInterests": ["international_relations", "foreign_policy", "languages", "global_affairs"],
+    "recommendedCourses": ["ma_international_relations"],
+    "recommendedExams": ["upsc_ifs"]
+  },
+  {
+    "id": "policy_and_public_administration",
+    "name": "Policy Research & Public Administration",
+    "relatedInterests": ["policy", "governance", "social_impact", "administration"],
+    "recommendedCourses": ["mpa", "phd_public_policy"],
+    "recommendedExams": ["upsc_cse_india", "ugc_net_phd"]
+  },
+  {
+    "id": "armed_forces_command",
+    "name": "Armed Forces Leadership & Command",
+    "relatedInterests": ["defence", "leadership", "discipline", "strategy", "national_service"],
+    "recommendedCourses": ["defence_studies", "strategic_studies"],
+    "recommendedExams": ["cds_officer_entry", "afcat_airforce"]
+  },
+  {
+    "id": "national_security_and_intelligence",
+    "name": "National Security & Intelligence Studies",
+    "relatedInterests": ["security", "intelligence", "strategy", "law_enforcement"],
+    "recommendedCourses": ["criminology", "strategic_studies"],
+    "recommendedExams": ["capf", "upsc_cse_india"]
+  },
+  {
+    "id": "constitutional_and_corporate_law",
+    "name": "Constitutional & Corporate Law",
+    "relatedInterests": ["law", "justice", "corporate_governance", "legal_research"],
+    "recommendedCourses": ["llm", "phd_law"],
+    "recommendedExams": ["clat_llm_advanced", "lsat_pg_law"]
+  },
+  {
+    "id": "judiciary_services",
+    "name": "Judiciary & Legal Services",
+    "relatedInterests": ["judiciary", "legal_system", "justice", "advocacy"],
+    "recommendedCourses": ["llm"],
+    "recommendedExams": ["judiciary_exam_state", "clat_llm_advanced"]
+  },
+  {
+    "id": "medical_specialization_research",
+    "name": "Medical Specialization & Clinical Research",
+    "relatedInterests": ["medicine", "surgery", "healthcare", "clinical_research"],
+    "recommendedCourses": ["md", "ms", "dm"],
+    "recommendedExams": ["neet_pg", "neet_ss"]
+  },
+  {
+    "id": "public_health_and_epidemiology",
+    "name": "Public Health & Epidemiology",
+    "relatedInterests": ["public_health", "community_health", "healthcare_management", "research"],
+    "recommendedCourses": ["mph", "phd_public_health"],
+    "recommendedExams": ["neet_pg", "ugc_net_phd"]
+  },
+  {
+    "id": "advanced_ui_ux_and_product_strategy",
+    "name": "Advanced UI/UX & Product Strategy",
+    "relatedInterests": ["ui_ux", "product_design", "user_research", "innovation"],
+    "recommendedCourses": ["mdes", "phd_design"],
+    "recommendedExams": ["ceed_pg_design"]
+  },
+  {
+    "id": "digital_media_and_film_studies",
+    "name": "Digital Media, Film & Creative Direction",
+    "relatedInterests": ["film_making", "animation", "media", "storytelling"],
+    "recommendedCourses": ["ma_media", "phd_media_studies"],
+    "recommendedExams": ["ceed_pg_design", "toefl_ielts_english"]
+  },
+  {
+    "id": "international_research_and_academics",
+    "name": "International Research & Academic Careers",
+    "relatedInterests": ["research", "global_education", "innovation", "technology"],
+    "recommendedCourses": ["phd_abroad", "ms_abroad"],
+    "recommendedExams": ["gre_global_studies", "toefl_ielts_english"]
+  },
+  {
+    "id": "global_business_and_management",
+    "name": "Global Business & International Management",
+    "relatedInterests": ["international_business", "management", "leadership", "entrepreneurship"],
+    "recommendedCourses": ["mba_abroad", "executive_mba"],
+    "recommendedExams": ["gmat_mba_abroad", "toefl_ielts_english"]
+  }
+]

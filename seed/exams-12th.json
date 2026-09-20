@@ -1,0 +1,66 @@
+[
+  {
+    "id": "jee-main-12th",
+    "name": "JEE Main",
+    "level": "12th",
+    "description": "Joint Entrance Examination Main for engineering admissions",
+    "eligibility": "Class 12th with Physics, Chemistry, Mathematics",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-02-28"
+    },
+    "examDate": "2024-04-15",
+    "resultDate": "2024-05-31",
+    "website": "https://jeemain.nta.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "jee-advanced-12th",
+    "name": "JEE Advanced",
+    "level": "12th",
+    "description": "Joint Entrance Examination Advanced for IIT admissions",
+    "eligibility": "Top 2.5 lakh JEE Main qualifiers",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "applicationWindow": {
+      "start": "2024-05-01",
+      "end": "2024-05-31"
+    },
+    "examDate": "2024-06-15",
+    "resultDate": "2024-06-30",
+    "website": "https://jeeadv.ac.in",
+    "importance": "high"
+  },
+  {
+    "id": "neet-12th",
+    "name": "NEET",
+    "level": "12th",
+    "description": "National Eligibility cum Entrance Test for medical admissions",
+    "eligibility": "Class 12th with Physics, Chemistry, Biology",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-05",
+    "resultDate": "2024-06-15",
+    "website": "https://neet.nta.nic.in",
+    "importance": "high"
+  },
+  {
+    "id": "clat-12th",
+    "name": "CLAT",
+    "level": "12th",
+    "description": "Common Law Admission Test for law admissions",
+    "eligibility": "Class 12th with minimum 45% marks",
+    "subjects": ["English", "General Knowledge", "Mathematics", "Legal Reasoning", "Logical Reasoning"],
+    "applicationWindow": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    },
+    "examDate": "2024-05-15",
+    "resultDate": "2024-06-30",
+    "website": "https://consortiumofnlus.ac.in",
+    "importance": "high"
+  }
+]

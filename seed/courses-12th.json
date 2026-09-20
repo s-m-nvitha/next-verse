@@ -1,0 +1,46 @@
+[
+  {
+    "id": "science-pcm-12th",
+    "name": "Science (PCM) Stream",
+    "level": "12th",
+    "description": "Physics, Chemistry, Mathematics stream for engineering aspirants",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "duration": "2 years",
+    "careerPaths": ["Engineering", "Architecture", "Defense", "Research"],
+    "exams": ["JEE Main", "JEE Advanced", "BITSAT", "VITEEE", "SRMJEE"],
+    "colleges": ["IITs", "NITs", "IIITs", "Private Engineering Colleges"]
+  },
+  {
+    "id": "science-pcb-12th",
+    "name": "Science (PCB) Stream",
+    "level": "12th",
+    "description": "Physics, Chemistry, Biology stream for medical aspirants",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "duration": "2 years",
+    "careerPaths": ["Medicine", "Dentistry", "Pharmacy", "Nursing", "Veterinary"],
+    "exams": ["NEET", "AIIMS", "JIPMER", "AIIMS Nursing", "BHU Nursing"],
+    "colleges": ["AIIMS", "JIPMER", "Government Medical Colleges", "Private Medical Colleges"]
+  },
+  {
+    "id": "commerce-12th",
+    "name": "Commerce Stream",
+    "level": "12th",
+    "description": "Commerce stream for business and finance aspirants",
+    "subjects": ["Accountancy", "Business Studies", "Economics", "Mathematics"],
+    "duration": "2 years",
+    "careerPaths": ["CA", "CS", "CMA", "Banking", "Finance", "Management"],
+    "exams": ["CA Foundation", "CS Foundation", "CMA Foundation", "Banking Exams"],
+    "colleges": ["Delhi University", "Mumbai University", "Calcutta University", "Private Commerce Colleges"]
+  },
+  {
+    "id": "arts-12th",
+    "name": "Arts Stream",
+    "level": "12th",
+    "description": "Arts and humanities stream for liberal arts aspirants",
+    "subjects": ["History", "Political Science", "Geography", "Psychology", "Sociology"],
+    "duration": "2 years",
+    "careerPaths": ["Law", "Journalism", "Social Work", "Public Administration", "Teaching"],
+    "exams": ["CLAT", "DUET", "JNUEE", "TISS", "SET"],
+    "colleges": ["Delhi University", "JNU", "TISS", "Central Universities", "State Universities"]
+  }
+]

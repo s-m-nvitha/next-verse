@@ -1,0 +1,13 @@
+[
+  {
+    "questionId": 1,
+    "question": "What is your primary doctoral or post-graduate career focus?",
+    "multiSelect": true,
+    "options": [
+      { "id": "pg_ai_research", "label": "Advanced Research & AI/ML Architecture", "mappedInterests": ["research", "ai_ml", "data_science", "science"] },
+      { "id": "pg_executive_leadership", "label": "Executive Leadership & Global Business Management", "mappedInterests": ["leadership", "management", "business", "finance"] },
+      { "id": "pg_medical_specialty", "label": "Super-specialty Medicine & Clinical Healthcare", "mappedInterests": ["medicine", "healthcare", "research", "patient_care"] },
+      { "id": "pg_public_governance", "label": "Public Policy, Legal Strategy & Governance", "mappedInterests": ["policy", "governance", "law", "public_service"] }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "questionId": 1,
+    "question": "Which subjects or topics do you enjoy studying the most in school?",
+    "multiSelect": true,
+    "options": [
+      { "id": "computers_tech_subj", "label": "Computers, Coding & Technology", "mappedInterests": ["computers", "technology", "coding", "software_development"] },
+      { "id": "science_bio_subj", "label": "Science, Biology & Understanding Living Organisms", "mappedInterests": ["science", "biology", "medicine", "healthcare"] },
+      { "id": "math_logic_subj", "label": "Mathematics, Logic & Problem Solving", "mappedInterests": ["mathematics", "analytics", "problem_solving"] },
+      { "id": "social_arts_subj", "label": "Social Studies, Civics, History & Drawing", "mappedInterests": ["public_service", "governance", "creativity", "design"] }
+    ]
+  },
+  {
+    "questionId": 2,
+    "question": "Which hobby or activity makes time fly for you?",
+    "multiSelect": true,
+    "options": [
+      { "id": "app_game_hobby", "label": "Creating apps, games or programming", "mappedInterests": ["coding", "software_development", "gaming"] },
+      { "id": "drawing_design_hobby", "label": "Drawing, sketching, photo/video editing", "mappedInterests": ["creativity", "graphics", "ui_ux", "media"] },
+      { "id": "health_helping_hobby", "label": "Helping family with health care and first aid", "mappedInterests": ["healthcare", "patient_care", "medicine"] },
+      { "id": "money_business_hobby", "label": "Managing budgets, business ideas or trade games", "mappedInterests": ["business", "finance", "entrepreneurship"] }
+    ]
+  },
+  {
+    "questionId": 3,
+    "question": "What kind of working environment do you imagine yourself in?",
+    "multiSelect": true,
+    "options": [
+      { "id": "tech_office_env", "label": "Modern Tech Company or Software Studio", "mappedInterests": ["technology", "software_development", "innovation"] },
+      { "id": "hospital_env", "label": "Hospitals, Clinics or Medical Laboratories", "mappedInterests": ["healthcare", "medicine", "patient_care", "biology"] },
+      { "id": "studio_creative_env", "label": "Creative Animation, Film or Design Studio", "mappedInterests": ["animation", "graphics", "media", "design"] },
+      { "id": "public_gov_env", "label": "Government Offices, Courtrooms or Public Institutions", "mappedInterests": ["administration", "public_service", "governance", "law"] }
+    ]
+  },
+  {
+    "questionId": 4,
+    "question": "Which exciting technologies or tools would you love to learn?",
+    "multiSelect": true,
+    "options": [
+      { "id": "ai_robotics_learn", "label": "Artificial Intelligence, Robots & Smart Devices", "mappedInterests": ["ai_ml", "robotics", "automation", "iot"] },
+      { "id": "cyber_security_learn", "label": "Cyber Security, Ethical Hacking & Data Protection", "mappedInterests": ["cyber_security", "ethical_hacking", "network_security"] },
+      { "id": "medical_tech_learn", "label": "Medical Equipment, Surgery Tools & Biotechnology", "mappedInterests": ["medicine", "biology", "healthcare", "research"] },
+      { "id": "finance_fintech_learn", "label": "Stock Market Trading, Banking & Financial Software", "mappedInterests": ["finance", "banking", "stock_market", "accounting"] }
+    ]
+  },
+  {
+    "questionId": 5,
+    "question": "What kind of problems give you the biggest sense of achievement when solved?",
+    "multiSelect": true,
+    "options": [
+      { "id": "tech_bug_prob", "label": "Fixing code, computer errors or mechanical gadgets", "mappedInterests": ["coding", "problem_solving", "electronics", "machines"] },
+      { "id": "human_health_prob", "label": "Relieving someone's pain or improving someone's physical wellbeing", "mappedInterests": ["patient_care", "healthcare", "patient_support"] },
+      { "id": "social_justice_prob", "label": "Defending fair rules, debating and helping resolve conflicts", "mappedInterests": ["law", "justice", "public_service", "policy"] },
+      { "id": "visual_creative_prob", "label": "Designing beautiful graphics, logos, posters or story animations", "mappedInterests": ["graphics", "ui_ux", "product_design", "animation"] }
+    ]
+  },
+  {
+    "questionId": 6,
+    "question": "Which career path sounds most appealing to you after 10th?",
+    "multiSelect": true,
+    "options": [
+      { "id": "puc_science_tech", "label": "PUC Science (PCMC / PCME / PCMS) leading to Computer Science & Engineering", "mappedInterests": ["coding", "technology", "electronics", "mathematics", "computers"] },
+      { "id": "puc_science_med", "label": "PUC Science (PCMB / CBZ) leading to Medical, Dental, Pharmacy & Allied Health", "mappedInterests": ["medicine", "biology", "healthcare", "patient_care", "science"] },
+      { "id": "polytechnic_diploma", "label": "Polytechnic Diploma (CSE / Mech / ECE / Civil / Automobile) leading to Engineering Careers", "mappedInterests": ["machines", "technology", "electronics", "problem_solving", "innovation"] },
+      { "id": "puc_commerce", "label": "PUC Commerce (SEBA / CEBA / EBAC) leading to CA, Banking, Business & Finance", "mappedInterests": ["finance", "accounting", "banking", "business", "economics"] },
+      { "id": "puc_arts_design", "label": "PUC Arts / Humanities (HEPS / Psychology / Journalism) leading to Law, Media, Design & Civil Services", "mappedInterests": ["law", "public_service", "design", "media", "psychology"] }
+    ]
+  }
+]

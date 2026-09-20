@@ -1,0 +1,224 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 48 38% 95%; /* #F7F5EE */
+    --foreground: 60 5% 6%;   /* #11110F */
+    --card: 0 0% 100%;        /* #FFFFFF */
+    --card-foreground: 60 5% 6%;
+    --popover: 48 38% 95%;
+    --popover-foreground: 60 5% 6%;
+    --primary: 76 100% 60%;   /* #C8FF32 Lime */
+    --primary-foreground: 60 5% 6%;
+    --secondary: 47 100% 65%; /* #FFD84D Yellow */
+    --secondary-foreground: 60 5% 6%;
+    --muted: 45 15% 90%;
+    --muted-foreground: 60 4% 35%;
+    --accent: 76 100% 60%;
+    --accent-foreground: 60 5% 6%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 60 5% 6%;       /* 2px Solid Ink */
+    --input: 60 5% 6%;
+    --ring: 76 100% 60%;
+    --radius: 0px;
+  }
+
+  .dark {
+    --background: 60 5% 6%;   /* #11110F */
+    --foreground: 48 38% 95%; /* #F7F5EE */
+    --card: 60 5% 10%;        /* #1A1A17 */
+    --card-foreground: 48 38% 95%;
+    --popover: 60 5% 10%;
+    --popover-foreground: 48 38% 95%;
+    --primary: 76 100% 60%;   /* #C8FF32 Lime */
+    --primary-foreground: 60 5% 6%;
+    --secondary: 47 100% 65%; /* #FFD84D Yellow */
+    --secondary-foreground: 60 5% 6%;
+    --muted: 60 5% 18%;
+    --muted-foreground: 45 10% 70%;
+    --accent: 76 100% 60%;
+    --accent-foreground: 60 5% 6%;
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 48 38% 95%;     /* #F7F5EE Crisp light border */
+    --input: 48 38% 95%;
+    --ring: 76 100% 60%;
+    --radius: 0px;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    background-color: #F7F5EE;
+    color: #11110F;
+    font-family: 'Inter', sans-serif;
+    background-image: linear-gradient(#E3DFD5 1px, transparent 1px), linear-gradient(90deg, #E3DFD5 1px, transparent 1px);
+    background-size: 24px 24px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .dark body, body.dark {
+    background-color: #11110F;
+    color: #F7F5EE;
+    background-image: linear-gradient(#22221E 1px, transparent 1px), linear-gradient(90deg, #22221E 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: -0.03em;
+  }
+}
+
+/* Neo-brutalist utility classes */
+.nb-border {
+  border: 2px solid #11110F;
+}
+.dark .nb-border {
+  border-color: #F7F5EE;
+}
+
+.nb-border-3 {
+  border: 3px solid #11110F;
+}
+.dark .nb-border-3 {
+  border-color: #F7F5EE;
+}
+
+.nb-shadow {
+  box-shadow: 5px 5px 0px #11110F;
+}
+.dark .nb-shadow {
+  box-shadow: 5px 5px 0px rgba(247, 245, 238, 0.4);
+}
+
+.nb-shadow-sm {
+  box-shadow: 3px 3px 0px #11110F;
+}
+.dark .nb-shadow-sm {
+  box-shadow: 3px 3px 0px rgba(247, 245, 238, 0.4);
+}
+
+.nb-shadow-lg {
+  box-shadow: 8px 8px 0px #11110F;
+}
+.dark .nb-shadow-lg {
+  box-shadow: 8px 8px 0px rgba(247, 245, 238, 0.45);
+}
+
+.nb-shadow-lime {
+  box-shadow: 5px 5px 0px #C8FF32;
+}
+
+/* Interactive Neo-brutalist button tactile effects */
+.nb-btn {
+  border: 2px solid #11110F;
+  box-shadow: 4px 4px 0px #11110F;
+  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 700;
+}
+.dark .nb-btn {
+  border-color: #F7F5EE;
+  box-shadow: 4px 4px 0px rgba(247, 245, 238, 0.4);
+}
+.nb-btn:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px #11110F;
+}
+.dark .nb-btn:hover {
+  box-shadow: 6px 6px 0px rgba(247, 245, 238, 0.55);
+}
+.nb-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #11110F;
+}
+.dark .nb-btn:active {
+  box-shadow: 1px 1px 0px rgba(247, 245, 238, 0.4);
+}
+
+.nb-card {
+  border: 2px solid #11110F;
+  box-shadow: 5px 5px 0px #11110F;
+  background-color: #FFFFFF;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.dark .nb-card {
+  border-color: #F7F5EE;
+  box-shadow: 5px 5px 0px rgba(247, 245, 238, 0.35);
+  background-color: #1A1A17;
+  color: #F7F5EE;
+}
+.nb-card-hover:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 8px 8px 0px #11110F;
+}
+.dark .nb-card-hover:hover {
+  box-shadow: 8px 8px 0px rgba(247, 245, 238, 0.45);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #F7F5EE;
+  border-left: 2px solid #11110F;
+}
+.dark ::-webkit-scrollbar-track {
+  background: #11110F;
+  border-left: 2px solid #F7F5EE;
+}
+::-webkit-scrollbar-thumb {
+  background: #11110F;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #C8FF32;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Leaflet map styles */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  border: 2px solid #11110F;
+  box-shadow: 4px 4px 0px #11110F;
+}
+.dark .leaflet-container {
+  border-color: #F7F5EE;
+  box-shadow: 4px 4px 0px rgba(247, 245, 238, 0.4);
+}
+
+/* Loading skeleton */
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200px 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+.dark .skeleton {
+  background: linear-gradient(90deg, #1A1A17 25%, #2A2A25 50%, #1A1A17 75%);
+  background-size: 200px 100%;
+}
